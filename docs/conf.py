@@ -49,10 +49,10 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-#
-#html_theme = 'sphinx_rtd_theme'
 
-#html_logo = '../Media/Images/Logo/MBH_logo_v2[200px].png'
+html_theme = 'sphinx_rtd_theme'
+
+html_logo = '../media/logo/MS_Logo_WhBG-200px.png'
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
