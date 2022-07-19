@@ -1,8 +1,7 @@
 About Me
 ========
 
-.. figure:: ../media/images/Headshot_MichaelSieler.png
-   :scale: 33 %
+.. figure:: ../media/images/Headshot_MichaelSieler-250px.png
    :align: center
    :alt: Photo of Michael
 
