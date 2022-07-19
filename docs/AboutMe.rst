@@ -5,10 +5,43 @@ About Me
    :align: center
    :alt: Photo of Michael
 
+Who are you?
+------------
 
-Hi there! My name is Michael Sieler. I'm a third year Ph.D. student in the Sharpton Lab at Oregon State University. My research combines molecular, computational and statistical approaches to elucidate the underlying mechanisms of the gut microbiome that influence our health. In other words, I'm interested in figuring out how the microbes that coexist with us, specifically in our guts, influence our health.
+Hi there! My name is Michael Sieler.
 
-Long Story
-----------
 
-I grew up in ...
+What is your background?
+------------------------
+
+That's quite the long story (see below). Briefly, I got my bachelor's degree in Bioresource Research with a focus in bioinformatics and genomics at Oregon State University. In my sophmore year in 2017, I joined the Mahmud lab, searching for novel antibiotics produced by **Streptomyces** bacteria. After a year, I my interests shifted to the gut microbiome. I was also interested in the intersection of molecular and computational approaches to better understand the microbiome. This led me to join the Sharpton lab in 2018. I conducted my undergraduate thesis project there, investigating the effects of benzo(a)pyrene on the neurobehavioral and gut microbiome development of zebrafish (Danio rerio). The zebrafish is a highly unique model organism that afford many unique opportunities to interrogate the microbiome. I wanted to continue my research with zebrafish, so I continued my Ph.D. research with the Sharpton lab. 
+
+
+What do you do now?
+-------------------
+
+I'm currently in my third year as a Ph.D. student in the Sharpton Lab at Oregon State University. My research combines molecular, computational and statistical approaches to elucidate the underlying mechanisms of the gut microbiome that influence our health. In other words, I'm interested in figuring out how the microbes that coexist with us, specifically in our guts, influence our health.
+
+
+What is this site for?
+----------------------
+
+The goal of this site is to provide an overview about my work, whether it be academic or fun.
+
+
+How can I contact you?
+----------------------
+
+Best way to get ahold of me is through `email<mailto: sielerjm@oregonstate.edu>`_.
+
+
+Links
+^^^^^
+* `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
+* `GitHub <https://github.com/sielerjm>`_
+
+
+So, what's the long story?
+--------------------------
+
+(to be continued)
