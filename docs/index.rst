@@ -17,20 +17,8 @@ The goal of this site is to provide an overview about myself, my projects and ex
    :maxdepth: 1
    :caption: Contents:
 
-   gettingstarted
-   Microbiome/microbiome
-   R/r_basics
-   Troubleshooting/troubleshooting
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Coming soon:
-
-   Statistics/statistics
-   Git/git_basics
-
-.. toctree::
-   :hidden:
-
-   Contributors/contributors
-   Test/test
+   AboutMe
+   Experience/experience
+   Projects/experience
+   Publications/publications
+   Presentations/presentations
