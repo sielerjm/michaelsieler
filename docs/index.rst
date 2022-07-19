@@ -6,7 +6,7 @@
 Welcome to my site!
 ========================================================
 
-The goal of this site is to provide an overview about myself, my projects and experience.
+The goal of this site is to provide an overview about myself, my projects related to my research or otherwise.
 
 .. note::
 
@@ -19,6 +19,6 @@ The goal of this site is to provide an overview about myself, my projects and ex
 
    AboutMe
    Experience/experience
-   Projects/experience
+   Projects/projects
    Publications/publications
    Presentations/presentations
