@@ -8,7 +8,7 @@ About Me
 Who are you?
 ------------
 
-Hi there! My name is Michael Sieler.
+My name is Michael Sieler. I'm currently doing my Ph.D. in Microbiology with a minor in Biological Data Science in the `Sharpton Lab <http://lab.sharpton.org>`_ at Oregon State Unviersity.
 
 
 What is your background?
@@ -36,9 +36,10 @@ The goal of this site is to provide an overview about my work, whether it be aca
 How can I contact you?
 ----------------------
 
-Best way to get ahold of me is through `email<mailto:sielerjm@oregonstate.edu>`_.
+Best way to get ahold of me is through `email<sielerjm@oregonstate.edu>`_.
 
 You can also find me here:
+
 * `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
 * `GitHub <https://github.com/sielerjm>`_
 
