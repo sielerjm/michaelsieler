@@ -36,7 +36,7 @@ The goal of this site is to provide an overview about my work, whether it be aca
 How can I contact you?
 ----------------------
 
-Best way to get ahold of me is through `email<mailto: sielerjm@oregonstate.edu>`_.
+Best way to get ahold of me is through `email<mailto:sielerjm@oregonstate.edu>`_.
 
 You can also find me here:
 * `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
