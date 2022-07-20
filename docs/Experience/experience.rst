@@ -24,6 +24,15 @@ Education
 +---------------------------------------------------------------------------------------------------------------------+
 
 
++----------------------------------------------------------------------------+--------------------+
+| **Oregon State University**                                                | May 2022 - Present |
++----------------------------------------------------------------------------+--------------------+
+| Ph.D. Microbiology, Minor in Biological Data Sciences                                           |
+| * Educational software used to fulfill grant requirements for communicating scientific research |
+| * Tools used: C#, Unity                                                                         |
++-------------------------------------------------------------------------------------------------+
+
+
 Work Experience
 ---------------
 
@@ -67,7 +76,11 @@ Research Experience
 +---------------------------------------------------------------------------------------------------------------------+
 
 
-Resume
-------
+:download:`Download Resume 1 <../../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
+--------------------------------------------------------------------------------
 
-:download:`Download resume <../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
+:download:`Download Resume 2 <../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
+-----------------------------------------------------------------------------
+
+:download:`Download Resume 3 <ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
+--------------------------------------------------------------------------
