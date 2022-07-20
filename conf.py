@@ -56,13 +56,23 @@ html_title = "Michael Sieler"
 # a list of builtin themes.
 html_theme = 'sphinx_rtd_theme'
 
-html_logo = '../media/logo/MS_Logo_Clr-WhBG-200px.png'
+
+# Custom styles go here
+html_style = 'css/my_theme.css'
+
+html_logo = 'media/logo/MS_Logo_Clr-WhBG-200px.png'
 
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# These paths are either relative to html_static_path
+# or fully qualified paths (eg. https://...)
+html_css_files = [
+    'css/custom.css',
+]
 
 # -- Favicon -----------------------------------------------------------------
 
