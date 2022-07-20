@@ -9,7 +9,7 @@ The goal of this site is to share my research, projects and blogs.
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Contents:
 
    AboutMe
@@ -17,6 +17,7 @@ The goal of this site is to share my research, projects and blogs.
    Publications/publications
    Projects/projects
    Blog <https://blog.michaelsieler.com/>
+
 
 .. toctree::
    :hidden:
