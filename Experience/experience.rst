@@ -71,7 +71,3 @@ Resume
 ------
 
 :download:`Download resume 1 <ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
-
-:download:`Download resume 2 <../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
-
-:download:`Download resume 3 <../../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
