@@ -19,8 +19,8 @@ The goal of this site is to share my research, projects and blogs.
    Blog <https://blog.michaelsieler.com/>
 
 .. toctree::
-   :maxdepth: 1
-   :My Links:
+   :hidden:
+   :Caption: My Links
 
    GitHub <https://github.com/sielerjm>
    LinkedIn <https://www.linkedin.com/in/mjsielerjr/>
