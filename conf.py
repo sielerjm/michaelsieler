@@ -62,6 +62,15 @@ html_style = 'css/my_theme.css'
 
 html_logo = 'media/logo/MS_Logo_Clr-WhBG-200px.png'
 
+# The suffix of source filenames.
+source_suffix = '.rst'
+
+# The encoding of source files.
+#source_encoding = 'utf-8-sig'
+
+# The master toctree document.
+master_doc = 'docs/index'
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
