@@ -29,7 +29,7 @@ author = 'Michael Sieler'
 # ones.
 extensions = [
     "sphinx_comments",
-    "sphinx_panels",
+    "sphinx_design",
 ]
 
 comments_config = {
