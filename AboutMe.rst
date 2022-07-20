@@ -45,4 +45,4 @@ Best way to get ahold of me is through `email <sielerjm@oregonstate.edu>`_.
 
 
 `Publications/publications <Publications/publications.html>`_
---------------------------------------------------------
+-------------------------------------------------------------
