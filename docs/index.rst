@@ -21,4 +21,3 @@ The goal of this site is to provide an overview about myself, my projects relate
    Experience/experience
    Projects/projects
    Publications/publications
-   Presentations/presentations

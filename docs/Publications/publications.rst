@@ -1,4 +1,13 @@
 Publications (coming soon)
 ==========================
 
-(*Coming soon...*)
+
+
+
+Conference Presentations
+------------------------
+
+
+
+Conference Posters
+------------------

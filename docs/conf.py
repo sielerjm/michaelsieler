@@ -28,7 +28,10 @@ author = 'Michael Sieler'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "sphinx_comments", "sphinx_panels"
+    "sphinx_comments",
+    "sphinx_panels",
+    'ablog',
+    'sphinx.ext.intersphinx',
 ]
 
 comments_config = {

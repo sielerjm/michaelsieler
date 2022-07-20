@@ -51,4 +51,3 @@ Publications and Presentations
    :maxdepth: 1
 
    /Publications/publications.rst
-   /Presentations/presentations.rst
