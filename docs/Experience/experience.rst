@@ -24,20 +24,24 @@ Research Experience
 | * Designed and implemented procedures to process 1,000+ zebrafish embryos to analyze their microbiomes      |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                |
 +-------------------------------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------------------------------------------+
 | Measure resilience of gut microbiome to chronic exposure of antibiotics                                     |
 +=============================================================================================================+
 | * Designed and implemented procedures to process 1,000+ zebrafish embryos to analyze their microbiomes      |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                |
++-------------------------------------------------------------------------------------------------------------+
 +-------------------------------------------------------------------------------------------------------------+
 | Investigate the joint interaction effects of pathogen exposure and diet on gut microbiome succession        |
 +=============================================================================================================+
 | * Designed and implemented procedures to process 1,000+ zebrafish embryos to analyze their microbiomes      |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                |
 +-------------------------------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------------------------------------------+
 | Meta-analysis of zebrafish gut microbiomes phylogeny                                                        |
 +=============================================================================================================+
 | * Designed and implemented procedures to process 1,000+ zebrafish embryos to analyze their microbiomes      |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                |
++-------------------------------------------------------------------------------------------------------------+
 +-------------------------------------------------------------------------------------------------------------+
 | Built and maintain Microbial Bioinformatics Hub to collaboratively share microbiome bioinformatic resources |
 +=============================================================================================================+
@@ -49,4 +53,4 @@ Research Experience
 Resume
 ------
 
-:download:`Download resume </resumeCV/MichaelSieler_Resume[JUL2022].pdf>`
+:download:`Download resume <../../resumeCV/MichaelSieler_Resume[JUL2022].pdf>`
