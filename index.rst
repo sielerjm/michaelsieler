@@ -12,10 +12,10 @@ The goal of this site is to share my research, projects and blogs.
    :maxdepth: 2
    :caption: Contents:
 
-   docs/AboutMe
-   docs/Experience/experience
-   docs/Publications/publications
-   docs/Projects/projects
+   AboutMe
+   Experience/experience
+   Publications/publications
+   Projects/projects
    Blog <https://blog.michaelsieler.com/>
 
 
@@ -25,3 +25,7 @@ The goal of this site is to share my research, projects and blogs.
 
    GitHub <https://github.com/sielerjm>
    LinkedIn <https://www.linkedin.com/in/mjsielerjr/>
+
+
+..
+   _More info on stylying sphinx: https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/structure.html
