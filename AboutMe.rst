@@ -1,7 +1,7 @@
 About Me
 ========
 
-.. figure:: ../media/images/Headshot_MichaelSieler-250px.png
+.. figure:: Media/images/Headshot_MichaelSieler-250px.png
    :align: center
    :alt: Photo of Michael
 
@@ -39,9 +39,10 @@ How can I contact you?
 Best way to get ahold of me is through `email <sielerjm@oregonstate.edu>`_.
 
 **You can also find me here:**
+
 * `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
 * `GitHub <https://github.com/sielerjm>`_
 
 
-`Publications/publications <Publications/publications>`_
+`Publications/publications <Publications/publications.html>`_
 --------------------------------------------------------
