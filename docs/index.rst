@@ -19,6 +19,7 @@ The goal of this site is to share my research, projects and blogs.
 
    AboutMe
    `Blog <blog.michaelsieler.com>_`
+   https://blog.michaelsieler.com/en/latest/
    Experience/experience
    Projects/projects
    Publications/publications
