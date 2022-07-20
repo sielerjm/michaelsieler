@@ -16,7 +16,7 @@ Education
 +------------------------------------------------------------------------------------------------+--------------------+
 | Oregon State University                                                                        | Expected 2025      |
 +------------------------------------------------------------------------------------------------+--------------------+
-| **Ph.D. Microbiology, Minor in Biological Data Sciences**                                                           |                                                                                      |
+| **Ph.D. Microbiology, Minor in Biological Data Sciences**                                                           |
 +------------------------------------------------------------------------------------------------+--------------------+
 | Oregon State University                                                                        | 2020               |
 +------------------------------------------------------------------------------------------------+--------------------+
@@ -70,4 +70,8 @@ Research Experience
 Resume
 ------
 
-:download:`Download resume <../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
+:download:`Download resume 1 <ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
+
+:download:`Download resume 2 <../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
+
+:download:`Download resume 3 <../../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
