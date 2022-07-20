@@ -50,9 +50,12 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # -- Options for HTML output -------------------------------------------------
 
+# The name for this set of Sphinx documents.  If None, it defaults to
+# "<project> v<release> documentation".
+html_title = 'Michael Sieler'
+
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-
 html_theme = 'sphinx_rtd_theme'
 
 html_logo = '../media/logo/MS_Logo_Clr-WhBG-200px.png'
@@ -66,3 +69,43 @@ html_static_path = ['_static']
 # -- Favicon -----------------------------------------------------------------
 
 html_favicon = 'favicon.ico'
+
+
+# -- Blog -----------------------------------------------------------------
+
+blog_title = "Michael Sieler's Blog"
+blog_baseurl = 'https://blog.michaelsieler.com'
+blog_path = 'archive'
+
+post_auto_excerpt = 2
+
+blog_authors = {
+    'Michael': ('Michael Sieler', 'http://michaelsieler.com'),
+    # EXAMPLES for multiple authors
+    # 'Anthony': ('Anthony Johnson', 'http://ohess.org'),
+    # 'David': ('David Fischer', ''),
+    # 'Safwan': ('Safwan Rahman', 'https://github.com/safwanrahman/'),
+    # 'Santos': ('Santos Gallegos', 'https://github.com/stsewd/'),
+    # 'Saadmk11': ('Maksudul Haque', 'https://github.com/saadmk11/'),
+    # 'Vaibhav': ('Vaibhav Gupta', 'https://github.com/dojutsu-user'),
+    # 'Manuel': ('Manuel Kaufmann', 'https://elblogdehumitos.com/'),
+    # 'Juan Luis': ('Juan Luis Cano Rodríguez', 'https://github.com/astrojuanlu/'),
+}
+
+blog_default_author = 'Michael'
+
+blog_locations = {
+    'PDX': ('Portland, Oregon', 'http://www.portlandhikersfieldguide.org/'),
+    # 'BND': ('Bend, Oregon', 'https://www.visitbend.com/'),
+    # 'SAN': ('San Diego, CA', ''),
+    # 'DHA': ('Dhaka, Bangladesh', 'https://wikitravel.org/en/Bangladesh'),
+    # 'CUE': ('Cuenca, Ecuador', ''),
+    # 'LKO': ('Lucknow, India', ''),
+    # 'BCN': ('Barcelona, Spain', 'https://www.barcelona.cat/en/'),
+    # 'MAD': ('Madrid, Spain', 'https://www.esmadrid.com/en'),
+    # 'GEG': ('Spokane, Washington', ''),
+}
+blog_default_location = 'PDX'
+blog_feed_archives = True
+blog_feed_fulltext = True
+blog_feed_length = 10
