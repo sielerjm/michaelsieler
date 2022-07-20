@@ -55,7 +55,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'sphinx_rtd_theme'
 
-html_logo = '../media/logo/MS_Logo_WhBG-200px.png'
+html_logo = '../media/logo/MS_Logo_Clr-WhBG-200px.png'
 
 
 # Add any paths that contain custom static files (such as style sheets) here,

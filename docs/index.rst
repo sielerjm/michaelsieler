@@ -4,13 +4,13 @@
    contain the root `toctree` directive.
 
 Welcome to my site!
-========================================================
+===================
 
-The goal of this site is to provide an overview about myself, my projects related to my research or otherwise.
+The goal of this site is to share my research, projects and blogs.
 
 .. note::
 
-	This site is currently under construction.
+	This site is in active development.
 
 
 .. toctree::
@@ -18,6 +18,7 @@ The goal of this site is to provide an overview about myself, my projects relate
    :caption: Contents:
 
    AboutMe
+   Blog
    Experience/experience
    Projects/projects
    Publications/publications
