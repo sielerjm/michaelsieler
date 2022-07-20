@@ -18,7 +18,7 @@ The goal of this site is to share my research, projects and blogs.
    :caption: Contents:
 
    AboutMe
-   Blog
+   `Blog <blog.michaelsieler.com>_`
    Experience/experience
    Projects/projects
    Publications/publications
