@@ -57,7 +57,9 @@ What I'd like to learn
 ----------------------
 
 - Data engineering
+
   - SQL
   - NoSQL
   - Accessing APIs
+
 - Apply data science to industry problems
