@@ -47,7 +47,6 @@ a:active {
 
 /* Icons */
 
-@import url("all-min.css");
 .fa-download::before, .rst-content code.download span:first-child::before, .rst-content tt.download span:first-child::before {
     content: "\f019";
 }
