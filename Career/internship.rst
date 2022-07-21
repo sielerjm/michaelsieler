@@ -11,7 +11,7 @@ If your company is interested in hiring a highly enthusiastic and self-motivated
 Skills I can offer
 ------------------
 
-Programming Languages:
+**Programming Languages:**
 
 - R
 - Python
@@ -21,31 +21,32 @@ Programming Languages:
 - C++
 - UNIX
 
-Statistics and Data Analytics:
+**Statistics and Data Analytics:**
 
-- advanced linear regression
-- machine learning
-- model building and
-- selection
+- Advanced linear regression
+- Machine learning
+- Model building and
+- Selection
 
-Bioinformatics:
+**Bioinformatics:**
 
 - 16S sequencing
-- metagenomics
+- Metagenomics
 - DADA2
 - Phyloseq
 - Mothur
 - HMMER
 - FastTree
 
-Molecular Biology:
+**Molecular Biology:**
 
 - zebrafish husbandry
+- Bacterial culturing
 - DNA extraction
-- PCR
-- gel electrophoresis
+- PCR amplification
+- Gel electrophoresis
 
-Other:
+**Other:**
 
 - Microsoft Office Suite
 - Adobe Photoshop and Illustrator

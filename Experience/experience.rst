@@ -88,7 +88,7 @@ Work Experience
 Technical skills
 ----------------
 
-Programming Languages:
+**Programming Languages:**
 
 - R
 - Python
@@ -98,14 +98,14 @@ Programming Languages:
 - C++
 - UNIX
 
-Statistics and Data Analytics:
+**Statistics and Data Analytics:**
 
 - Advanced linear regression
 - Machine learning
 - Model building and
 - Selection
 
-Bioinformatics:
+**Bioinformatics:**
 
 - 16S sequencing
 - Metagenomics
@@ -115,7 +115,7 @@ Bioinformatics:
 - HMMER
 - FastTree
 
-Molecular Biology:
+**Molecular Biology:**
 
 - zebrafish husbandry
 - Bacterial culturing
@@ -123,7 +123,7 @@ Molecular Biology:
 - PCR amplification
 - Gel electrophoresis
 
-Other:
+**Other:**
 
 - Microsoft Office Suite
 - Adobe Photoshop and Illustrator
