@@ -24,19 +24,6 @@ Education
 +---------------------------------------------------------------------------------------------------------------------+
 
 
-Work Experience
----------------
-
-+------------------------------------------------------------------------------------------------+--------------------+
-| **MJSieler Consulting - Owner**                                                                | May 2022 - Present |
-+------------------------------------------------------------------------------------------------+--------------------+
-| * Designed, developed, and deployed educational video game software for clients                                     |
-| * Educational software used to fulfill grant requirements for communicating scientific research                     |
-| * Tools used: C#, Unity                                                                                             |
-| * Projects: `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                |
-+---------------------------------------------------------------------------------------------------------------------+
-
-
 Research Experience
 -------------------
 
@@ -83,6 +70,19 @@ Research Experience
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
 | * `Microbial Bioinformatics Hub <https://microbial-bioinformatics-hub.readthedocs.io/en/latest/index.html>`_             |
 +--------------------------------------------------------------------------------------------------------------------------+
+
+
+Work Experience
+---------------
+
++------------------------------------------------------------------------------------------------+--------------------+
+| **MJSieler Consulting - Owner**                                                                | May 2022 - Present |
++------------------------------------------------------------------------------------------------+--------------------+
+| * Designed, developed, and deployed educational video game software for clients                                     |
+| * Educational software used to fulfill grant requirements for communicating scientific research                     |
+| * Tools used: C#, Unity                                                                                             |
+| * Projects: `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                |
++---------------------------------------------------------------------------------------------------------------------+
 
 
 Download
