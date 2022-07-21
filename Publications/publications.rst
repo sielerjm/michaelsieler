@@ -20,7 +20,7 @@ Other Publications
 Conference Presentations
 ------------------------
 
-Michael J. Sieler Jr., et al. (2022). "Effects of diet on growth and the microbiome." Aquaculture, San Diego, CA.   :download:`Slides <../Media/presentations/Aquaculture2022_MichaelSieler.pdf>`
+Michael J. Sieler Jr., et al. (2022). "Effects of diet on growth and the microbiome." Aquaculture, San Diego, CA.  :icon:`fas fa-download` :download:`Slides <../Media/presentations/Aquaculture2022_MichaelSieler.pdf>`
 
 Michael J. Sieler Jr., et al. (2021). "Zebrafish laboratory diets differentially alter gut microbiota composition." 3rd Intl. Fish Microbiota Workshop, Chinese Academy of Agriculture Sciences.  :icon:`fas fa-download` :download:`Slides <../Media/presentations/IFMW2021_MichaelSieler.pdf>`
 

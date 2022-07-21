@@ -10,32 +10,47 @@ If your company is interested in hiring a highly enthusiastic and self-motivated
 Skills I can offer
 ------------------
 
-* Rigorous Data Analysis
-  - Identify business problems
-  - Gather relevant data
-  - Test hypotheses
-  - Analyze data
-  - Report results
-  - Iterate
-* R
-  - Data wrangling
-  - Advanced statistical analysis (multiple linear regression, machine learning)
-  - Data visualization (GGplot2)
-  - Interactive app (R Shiny)
-* Python
-  - Scripts for procuring data from APIs
-  - Data wrangling
-* C# and Unity
-  - Software development
-* Documentation
-  - Read the docs style documentation
+Programming Languages:
+- R
+- Python
+- C# (Unity)
+- Git
+- HMTL & CSS
+- C++
+- UNIX
+
+Statistics and Data Analytics:
+- advanced linear regression
+- machine learning
+- model building and
+- selection
+
+Bioinformatics:
+- 16S sequencing
+- metagenomics
+- DADA2
+- Phyloseq
+- Mothur
+- HMMER
+- FastTree
+
+Molecular Biology:
+- zebrafish husbandry
+- DNA extraction
+- PCR
+- gel electrophoresis
+
+Other:
+- Microsoft Office Suite
+- Adobe Photoshop and Illustrator
+- Blender
 
 
 What I'd like to learn
 ----------------------
 
-* Data engineering
+- Data engineering
   - SQL
   - NoSQL
   - Accessing APIs
-* Apply data science in industry problems
+- Apply data science in industry problems

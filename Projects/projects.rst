@@ -32,4 +32,5 @@ As part of a Data Visualization course taught by Dr. Charlotte Wickham (yes, tha
 Tools used:
 - Kaggle (data source), R (data wrangling, visualization)
 
-Download: :download:`Script <../Media/scripts/R/placeholder.Rmd>`
+..
+    Download: :download:`Script <../Media/scripts/R/placeholder.Rmd>`
