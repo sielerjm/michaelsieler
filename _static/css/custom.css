@@ -2,3 +2,8 @@
 .header-item.announcement {
 background-color: #1b9e77;
 }
+
+/* Links */
+a {
+    color: #7570b3 !important;
+}
