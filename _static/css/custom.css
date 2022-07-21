@@ -49,5 +49,5 @@ a:active {
 
 a.reference.download.internal {
     padding-right: 4px;
-    content: ../../Media/icons/download-solid.svg;
+    content: url(../../Media/icons/download-solid.svg);
 }
