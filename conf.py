@@ -33,7 +33,7 @@ extensions = [
 ]
 
 comments_config = {
-   #"hypothesis": True
+    #"hypothesis": True
 }
 
 
@@ -57,6 +57,14 @@ html_title = "Michael Sieler"
 # html_theme = 'sphinx_rtd_theme'
 html_theme = "sphinx_book_theme"
 
+html_theme_options = {
+    "use_sidenotes": True,
+    "logo_only": True,
+    "show_toc_level": 2,
+    "announcement": (
+        "⚠️ Looking for a summer 2023 internship! ⚠️"
+    ),
+}
 
 # Custom styles go here
 #html_style = 'css/my_theme.css'
