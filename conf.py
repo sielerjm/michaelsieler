@@ -62,12 +62,12 @@ html_theme_options = {
     "logo_only": True,
     "show_toc_level": 2,
     "announcement": (
-        "⚠️ Looking for a summer 2023 internship. <a href = 'https://michaelsieler.com/en/latest/Career/internship.html'>More info here.</a> ⚠️ "
+        "<p class='announcement'>⚠️ Looking for a summer 2023 internship. <a href = 'https://michaelsieler.com/en/latest/Career/internship.html'>More info here.</a> ⚠️</p>"
     ),
 }
 
 # Custom styles go here
-#html_style = 'css/my_theme.css'
+html_style = 'css/my_theme.css'
 
 html_logo = 'Media/logo/MS_Logo_Clr-WhBG-200px.png'
 

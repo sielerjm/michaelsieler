@@ -1,4 +1,4 @@
-@import url("theme.css");
-.wy-nav-content {
-    max-width: 75% !important;
+@import url("sphinx-book-theme.css");
+.header-item.announcement {
+background-color: #1b9e77;
 }
