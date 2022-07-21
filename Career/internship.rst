@@ -11,6 +11,43 @@ If your company is interested in hiring a highly enthusiastic and self-motivated
 Skills I can offer
 ------------------
 
+.. list-table::
+    :widths: 5 5 5
+    :header-rows: 2
+    :stub-columns: 0
+
+    * - Programming Skills
+      - R
+      - Python
+      - C# (Unity)
+      - Git
+      - HMTL & CSS
+      - C++
+      - UNIX
+    * - Statistics and Data Analysis
+      - Advanced linear regression
+      - Machine learning
+      - Model building and
+      - Selection
+    * - Bioinformatics
+      - 16S sequencing
+      - Metagenomics
+      - DADA2
+      - Phyloseq
+      - Mothur
+      - HMMER
+      - FastTree
+    * - Molecular Biology
+      - zebrafish husbandry
+      - Bacterial culturing
+      - DNA extraction
+      - PCR amplification
+      - Gel electrophoresis
+    * - Other
+      - Microsoft Office Suite
+      - Adobe Photoshop and Illustrator
+      - Blender
+
 **Programming Languages:**
 
 - R
