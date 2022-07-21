@@ -88,46 +88,25 @@ Work Experience
 Technical skills
 ----------------
 
-**Programming Languages:**
-
-- R
-- Python
-- C# (Unity)
-- Git
-- HMTL & CSS
-- C++
-- UNIX
-
-**Statistics and Data Analytics:**
-
-- Advanced linear regression
-- Machine learning
-- Model building and
-- Selection
-
-**Bioinformatics:**
-
-- 16S sequencing
-- Metagenomics
-- DADA2
-- Phyloseq
-- Mothur
-- HMMER
-- FastTree
-
-**Molecular Biology:**
-
-- zebrafish husbandry
-- Bacterial culturing
-- DNA extraction
-- PCR amplification
-- Gel electrophoresis
-
-**Other:**
-
-- Microsoft Office Suite
-- Adobe Photoshop and Illustrator
-- Blender
++----------------------------+------------------------------------+--------------------------------+
+| **Programming Languages:** | **Statistics and Data Analytics:** | **Bioinformatics:**            |
++----------------------------+------------------------------------+--------------------------------+
+| - R                        | - Advanced linear regression       | - 16S sequencing               |
+| - Python                   | - Machine learning                 | - Metagenomics                 |
+| - C# (Unity)               | - Model building and selection     | - DADA2                        |
+| - Git                      |                                    | - Phyloseq                     |
+| - HMTL & CSS               |                                    | - Mothur                       |
+| - C++                      |                                    | - HMMER                        |
+| - UNIX                     |                                    | - FastTree                     |
++----------------------------+------------------------------------+--------------------------------+
+| **Molecular Biology:**     | **Other:**                                                          |
++----------------------------+---------------------------------------------------------------------+
+| - zebrafish husbandry      | - Microsoft Office Suite                                            |
+| - Bacterial culturing      | - Adobe Photoshop and Illustrator                                   |
+| - DNA extraction           | - Blender                                                           |
+| - PCR amplification        |                                                                     |
+| - Gel electrophoresis      |                                                                     |
++----------------------------+---------------------------------------------------------------------+
 
 
 Download
