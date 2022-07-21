@@ -51,6 +51,13 @@ Research Experience
 +--------------------------------------------------------------------------------------------------------------------------+
 | * Exposed 140 adult zebrafish to varying combinations of antibiotics and controls                                        |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
+| * Status: *Currently conducting experiment*                                                                              |
++--------------------------------------------------------------------------------------------------------------------------+
+| **Assess gut microbiome resiliency to anthropological impacts such as temperature and pathogenic exposure**              |
++--------------------------------------------------------------------------------------------------------------------------+
+| * Exposed adult zebrafish to varying combinations of antibiotics and controls                                            |
+| * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
+| * Status: *Waiting on data generation*                                                                                   |
 +--------------------------------------------------------------------------------------------------------------------------+
 | **Investigate the joint interaction effects of pathogen exposure and diet on gut microbiome succession**                 |
 +--------------------------------------------------------------------------------------------------------------------------+
@@ -62,13 +69,13 @@ Research Experience
 +--------------------------------------------------------------------------------------------------------------------------+
 | * Statistically analyzed the effects of nanoplastic exposure on mouse gut microbial communities                          |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * Publications: Szule (*in review*)                                                                                      |
+| * Publications: Szule, *Front. Water* (*in review*)                                                                      |
 +--------------------------------------------------------------------------------------------------------------------------+
 | **Meta-analysis of zebrafish gut microbiomes phylogeny**                                                                 |
 +--------------------------------------------------------------------------------------------------------------------------+
 | * Designed and implemented procedures to process 1,000+ zebrafish embryos to analyze their microbiomes                   |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * Publications: Sharpton 2020                                                                                            |
+| * Publications: `Sharpton 2020, *Toxics*. <https://bit.ly/3BaF7LX>`_                                                     |
 +--------------------------------------------------------------------------------------------------------------------------+
 | **Built and maintain Microbial Bioinformatics Hub to collaboratively share microbiome bioinformatic resources**          |
 +--------------------------------------------------------------------------------------------------------------------------+
