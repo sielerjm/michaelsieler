@@ -14,6 +14,12 @@ Summary
 I'm looking for a summer 2023 internship. `See here for more info. <Career/internship.html>`_
 :::
 
+:::{note}
+:class: margin
+This note will be in the margin!
+:::
+
+
 Education
 ---------
 
