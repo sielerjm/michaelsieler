@@ -3,6 +3,7 @@
 
 COLOR BREWER PALETTE
 Link: https://colorbrewer2.org/
+My Palettes: https://www.color-hex.com/member/mjsielerjr
 
 Green: #1b9e77
 Orange: #d95f02
@@ -13,33 +14,24 @@ Lime: #66a61e
  */
 
 
+/* Announcement banner */
+
 @import url("sphinx-book-theme.css");
 .header-item.announcement {
 background-color: #1b9e77;
 }
 
+
 /* Links */
 
-a:link {
-  color: #7570b3;  /* Purple */
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:visited {
-  color: #e7298a;  /* Pink */
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #1b9e77;  /* Green */
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
+a.current.reference.internal {
   color: #d95f02;  /* Orange */
-  background-color: transparent;
-  text-decoration: underline;
+}
+
+a.reference.internal {
+  color: #7570b3;  /* Purple */
+}
+
+a.reference.external {
+  color: #66a61e;  /* Lime */
 }
