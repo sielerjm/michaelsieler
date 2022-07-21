@@ -8,7 +8,7 @@ Virtual Fish
 
 .. image:: ../Media/gifs/VirtualFish-Demo.gif
    :target: https://github.com/OSU-Edu-Games/Virtual-Fish
-   :width: 30%
+   :width: 80%
 
 In collaboration with `Dr. Stephen Atkinson <https://microbiology.oregonstate.edu/dr-stephen-atkinson>`_ in the department of Microbiology at Oregon State University, I have been actively developing an educational game called `Virtual Fish <https://github.com/OSU-Edu-Games/Virtual-Fish>`_
 
@@ -23,7 +23,7 @@ Spotify Genre Visualization
 
 .. image:: ../Media/images/SpotifyShinyApp.png
    :target: https://michael-sieler.shinyapps.io/Spotify_heatmap/
-   :width: 30%
+   :width: 80%
 
 As part of a Data Visualization course taught by Dr. Charlotte Wickham (yes, that Wickham), we were tasked with making an interactive visualization based on some data we gathered from a database online.
 
