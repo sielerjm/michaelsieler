@@ -1,11 +1,10 @@
 Looking for a Summer 2023 Internship
 ====================================
 
-To expand my skills and gain experience in industry, I am interested in participating in a summer internship next year.
+I am interested in participating in a data science internship for summer 2023 to apply the knowledge gained in graduate school to industry problems and expand my skill set.
 
-I'd like to contribute in a data science role where I can apply the knowledge gained during my graduate studies as well as learn new skills for managing data in an applied setting.
+If your company is interested in hiring a highly enthusiastic and self-motivated data scientist to your team, look no further! I'm your guy.
 
-If your company is interested in hiring a highly enthusiastic and self-motivated data scientist to your team, look no further! I'm your guy. Below are some skills I can offer you.
 
 
 Skills I can offer
@@ -39,6 +38,9 @@ What I'd like to learn
 
   - SQL
   - NoSQL
-  - Working with APIs
+  - Using Python to access APIs and manage big data
 
-- Apply data science to industry problems
+- Data Science
+
+  - Analyzing real-world datasets
+  - Machine and deep learning
