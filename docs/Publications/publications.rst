@@ -1,5 +1,5 @@
 Publications
-============x
+============
 
 Peer-Reviewed Publications
 --------------------------
