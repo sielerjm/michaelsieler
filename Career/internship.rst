@@ -5,6 +5,8 @@ To expand my skills and gain experience in industry, I am interested in particip
 
 I'd like to contribute in a data science role where I can apply the knowledge gained during my graduate studies as well as learn new skills for managing data in the real world.
 
+If your company is interested in hiring a highly enthusiastic and self-motivated data scientist to your team, look no further! I'm your guy. Below are some skills I can offer you.
+
 Skills I can offer
 ------------------
 

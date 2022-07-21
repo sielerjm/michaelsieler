@@ -1,9 +1,45 @@
+
+/*
+
+COLOR BREWER PALETTE
+Link: https://colorbrewer2.org/
+
+Green: #1b9e77
+Orange: #d95f02
+Purple: #7570b3
+Pink: #e7298a
+Lime: #66a61e
+
+ */
+
+
 @import url("sphinx-book-theme.css");
 .header-item.announcement {
 background-color: #1b9e77;
 }
 
 /* Links */
-a {
-    color: #7570b3 !important;
+
+a:link {
+  color: #7570b3;  /* Purple */
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #e7298a;  /* Pink */
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1b9e77;  /* Green */
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #d95f02;  /* Orange */
+  background-color: transparent;
+  text-decoration: underline;
 }
