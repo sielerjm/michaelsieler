@@ -3,14 +3,8 @@ Welcome!
 
 The goal of this site is to share my research, projects and blogs.
 
-.. note::
-
-	This site is in active development.
-
-
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
    AboutMe
    Experience/experience
