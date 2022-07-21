@@ -66,8 +66,7 @@ html_theme_options = {
     ),
 }
 
-# Custom styles go here
-html_style = 'css/custom.css'
+
 
 html_logo = 'Media/logo/MS_Logo_Clr-WhBG-200px.png'
 
