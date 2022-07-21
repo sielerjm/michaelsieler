@@ -33,8 +33,7 @@ Work Experience
 | * Designed, developed, and deployed educational video game software for clients                                     |
 | * Educational software used to fulfill grant requirements for communicating scientific research                     |
 | * Tools used: C#, Unity                                                                                             |
-| - Projects:                                                                                                         |
-|   - `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                        |
+| * Projects: `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                |
 +---------------------------------------------------------------------------------------------------------------------+
 
 

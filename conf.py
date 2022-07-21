@@ -60,7 +60,7 @@ html_theme = 'sphinx_rtd_theme'
 # Custom styles go here
 html_style = 'css/my_theme.css'
 
-html_logo = 'media/logo/MS_Logo_Clr-WhBG-200px.png'
+html_logo = 'Media/logo/MS_Logo_Clr-WhBG-200px.png'
 
 # The suffix of source filenames.
 source_suffix = '.rst'
