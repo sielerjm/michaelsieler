@@ -9,7 +9,7 @@ Summary
 * Demonstrated abilities to collaborate and take leadership in multi-laboratory experiments
 * Experienced in written and oral communication across various audiences from academics and students to members of the public
 
-:::{FYI!}
+:::{FYI}
 :class: margin
 I'm looking for a summer 2023 internship. `See here for more info. <Career/internship.html>`_
 :::
@@ -80,7 +80,7 @@ Work Experience
 ---------------
 
 +------------------------------------------------------------------------------------------------+--------------------+
-| **MJSieler Consulting - Owner**                                                                | May 2022 - Present |
+| **MJSieler Consulting - Owner**                                                                | May 2022-Present   |
 +------------------------------------------------------------------------------------------------+--------------------+
 | * Designed, developed, and deployed educational video game software for clients                                     |
 | * Educational software used to fulfill grant requirements for communicating scientific research                     |
