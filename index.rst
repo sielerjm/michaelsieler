@@ -1,7 +1,19 @@
 Welcome!
 ========
 
-The goal of this site is to share my research, projects and blogs.
+
+.. image:: Media/images/Research.png
+   :target: Experience/experience
+   :width: 30%
+.. image:: Media/images/Projects.png
+   :target: Projects/projects
+   :width: 30%
+.. image:: Media/images/Blog.png
+   :target: https://blog.michaelsieler.com/
+   :width: 30%
+
+
+This site is a space to share my research, projects and blogs.
 
 .. toctree::
    :maxdepth: 1
