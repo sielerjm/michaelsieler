@@ -9,6 +9,10 @@ Summary
 * Demonstrated abilities to collaborate and take leadership in multi-laboratory experiments
 * Experienced in written and oral communication across various audiences from academics and students to members of the public
 
+:::{FYI!}
+:class: margin
+I'm looking for a summer 2023 internship. `See here for more info. <Career/internship.html>`_
+:::
 
 Education
 ---------
