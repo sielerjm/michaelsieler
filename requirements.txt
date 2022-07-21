@@ -3,10 +3,10 @@
 # platform: osx-64
 
 
-brotlipy==0.7.0
+# brotlipy==0.7.0
 
 sphinx<5
-sphinx-comments==0.0.3
-sphinx-design
+#sphinx-comments==0.0.3
+#sphinx-design
 #sphinx-rtd-theme==0.5.2
 sphinx-book-theme

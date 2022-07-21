@@ -28,12 +28,12 @@ author = 'Michael Sieler'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "sphinx_comments",
-    "sphinx_design",
+    #"sphinx_comments",
+    #"sphinx_design",
 ]
 
 comments_config = {
-   "hypothesis": True
+   #"hypothesis": True
 }
 
 
@@ -59,7 +59,7 @@ html_theme = "sphinx_book_theme"
 
 
 # Custom styles go here
-html_style = 'css/my_theme.css'
+#html_style = 'css/my_theme.css'
 
 html_logo = 'Media/logo/MS_Logo_Clr-WhBG-200px.png'
 
