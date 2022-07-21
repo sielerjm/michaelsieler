@@ -75,7 +75,7 @@ Research Experience
 +--------------------------------------------------------------------------------------------------------------------------+
 | * Designed and implemented procedures to process 1,000+ zebrafish embryos to analyze their microbiomes                   |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * Publications: `Sharpton 2021, Toxics. <https://bit.ly/3BaF7LX>`_                                                     |
+| * Publications: `Sharpton 2021, Toxics. <https://bit.ly/3BaF7LX>`_                                                       |
 +--------------------------------------------------------------------------------------------------------------------------+
 | **Built and maintain Microbial Bioinformatics Hub to collaboratively share microbiome bioinformatic resources**          |
 +--------------------------------------------------------------------------------------------------------------------------+
