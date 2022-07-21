@@ -3,10 +3,10 @@ Welcome!
 
 
 .. image:: Media/images/Research.png
-   :target: Experience/experience
+   :target: Experience/experience.html
    :width: 30%
 .. image:: Media/images/Projects.png
-   :target: Projects/projects
+   :target: Projects/projects.html
    :width: 30%
 .. image:: Media/images/Blog.png
    :target: https://blog.michaelsieler.com/
