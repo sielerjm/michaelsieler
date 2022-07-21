@@ -30,6 +30,7 @@ author = 'Michael Sieler'
 extensions = [
     #"sphinx_comments",
     #"sphinx_design",
+    "sphinxcontrib.icon",
 ]
 
 comments_config = {
@@ -64,6 +65,7 @@ html_theme_options = {
     "announcement": (
         "🌞 Looking for a summer 2023 internship. <a class='reference internal' href = 'https://michaelsieler.com/en/latest/Career/internship.html'>More info here.</a> 🌞"
     ),
+
 }
 
 

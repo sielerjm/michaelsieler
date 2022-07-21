@@ -89,3 +89,6 @@ Download
 --------
 
 :download:`Resume <../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
+
+
+:icon:`fas fa-download`

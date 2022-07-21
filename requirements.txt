@@ -10,3 +10,7 @@ sphinx<5
 #sphinx-design
 #sphinx-rtd-theme==0.5.2
 sphinx-book-theme
+
+# Testing packages below
+
+sphinx-icon
