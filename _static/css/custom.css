@@ -47,17 +47,7 @@ a:active {
 
 /* Icons */
 
-@import url("basic.css");
-span.pre {
-    -moz-hyphens: none;
-    -ms-hyphens: none;
-    -webkit-hyphens: none;
-    hyphens: none;
-    white-space: nowrap;
-    content: 
-}
-
-@import url("all-min.css");
-.fa-download::before, .rst-content code.download span:first-child::before, .rst-content tt.download span:first-child::before {
+span.pre:before {
+    padding-right: 4px;
     content: "\f019";
 }
