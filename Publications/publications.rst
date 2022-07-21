@@ -28,6 +28,6 @@ Michael J. Sieler Jr., et al. (2021). "Zebrafish laboratory diets differentially
 Conference Posters
 ------------------
 
-Michael J. Sieler Jr., et al. (2019). "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." 2nd Intl. Fish Microbiota Workshop, University of Oregon.   :download:`PDF <../>`
+Michael J. Sieler Jr., et al. (2019). "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." 2nd Intl. Fish Microbiota Workshop, University of Oregon.   :download:`PDF <../IFMW2019_MichaelSieler.pdf>`
 
-Michael J. Sieler Jr. , et al. (2019)."The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." CAS Student Showcase, Oregon State University   :download:`PDF <../>`
+Michael J. Sieler Jr. , et al. (2019)."The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." CAS Student Showcase, Oregon State University   :download:`PDF <../OSUCAS2019_MichaelSieler.pdf>`
