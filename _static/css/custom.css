@@ -46,15 +46,19 @@ a:active {
 
 
 /* Icons */
-
-/* This sort of works. shows a corrupted image */
-/* span.pre:before {
-    padding-right: 4px;
-    content: "\f019";
-} */
-
-
-/* No image shown */
-.fa-download::before, .rst-content code.download span:first-child::before, .rst-content tt.download span:first-child::before {
-    content: "\f019";
-}
+.rst-content
+    code.download
+        background: inherit
+        padding: inherit
+        font-weight: normal
+        font-family: inherit
+        font-size: inherit
+        color: inherit
+        border: inherit
+        white-space: inherit
+        span:first-child
+          -webkit-font-smoothing: subpixel-antialiased
+          @extend .fa
+          @extend .fa-download
+          &:before
+            margin-right: 4px

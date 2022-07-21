@@ -88,16 +88,4 @@ Work Experience
 Download
 --------
 
-:download:`Resume <../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
-
-test simple icon code
-
-:icon:`fas fa-download`
-
-Test doubling code
-
 :icon:`fas fa-download` :download:`Resume <../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
-
-Test hyperlink
-
-:icon:`fas fa-download <../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
