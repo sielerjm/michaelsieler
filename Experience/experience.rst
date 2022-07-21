@@ -34,7 +34,7 @@ Work Experience
 | * Educational software used to fulfill grant requirements for communicating scientific research                     |
 | * Tools used: C#, Unity                                                                                             |
 | * Projects:                                                                                                         |
-|   * `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                        |
+|   - `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                        |
 +---------------------------------------------------------------------------------------------------------------------+
 
 
@@ -69,13 +69,17 @@ Research Experience
 +--------------------------------------------------------------------------------------------------------------------------+
 | * Designed and implemented procedures to process 1,000+ zebrafish embryos to analyze their microbiomes                   |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
+| * Publications: Sharpton 2020                                                                                            |
 +--------------------------------------------------------------------------------------------------------------------------+
 | **Built and maintain Microbial Bioinformatics Hub to collaboratively share microbiome bioinformatic resources**          |
 +--------------------------------------------------------------------------------------------------------------------------+
 | * Designed and implemented procedures to process 1,000+ zebrafish embryos to analyze their microbiomes                   |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
+| * `Microbial Bioinformatics Hub <https://microbial-bioinformatics-hub.readthedocs.io/en/latest/index.html>`_             |
 +--------------------------------------------------------------------------------------------------------------------------+
 
 
-:download:`Download Resume <../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
----------------------------------------------------------------------------
+Download
+--------
+
+:download:`Resume <../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
