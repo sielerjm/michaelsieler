@@ -25,13 +25,21 @@ background-color: #1b9e77;
 /* Links */
 
 a.current.reference.internal {
-  color: #d95f02;  /* Orange */
+    color: #d95f02;  /* Orange */
 }
 
 a.reference.internal {
-  color: #7570b3;  /* Purple */
+    color: #7570b3;  /* Purple */
 }
 
 a.reference.external {
-  color: #66a61e;  /* Lime */
+    color: #66a61e;  /* Lime */
+}
+
+a:hover {
+    color: #d95f02;  /* Orange */
+}
+
+a:active {
+    color: #d95f02;  /* Orange */
 }
