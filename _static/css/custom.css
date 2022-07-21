@@ -18,7 +18,7 @@ Lime: #66a61e
 
 @import url("sphinx-book-theme.css");
 .header-item.announcement {
-background-color: #1b9e77;
+background-color: #66a61e;  /* Lime */
 }
 
 
@@ -33,7 +33,7 @@ a.reference.internal {
 }
 
 a.reference.external {
-    color: #66a61e;  /* Lime */
+    color: #1b9e77;  /* Green */
 }
 
 a:hover {
