@@ -14,13 +14,13 @@ Education
 ---------
 
 +------------------------------------------------------------------------------------------------+--------------------+
-| Oregon State University                                                                        | *Expected 2025*    |
+| Oregon State University                                                                                             |
 +------------------------------------------------------------------------------------------------+--------------------+
-| **Ph.D. Microbiology, Minor in Biological Data Sciences**                                                           |
+| **Ph.D. Microbiology, Minor in Biological Data Sciences**                                      | *Expected 2025*    |
 +------------------------------------------------------------------------------------------------+--------------------+
-| Oregon State University                                                                        | 2020               |
+| Oregon State University                                                                                             |
 +------------------------------------------------------------------------------------------------+--------------------+
-| **B.Sc. Bioresource Research, Options in Bioinformatics and Genomics**                                              |
+| **B.Sc. Bioresource Research, Options in Bioinformatics and Genomics**                         | 2020               |
 +---------------------------------------------------------------------------------------------------------------------+
 
 
@@ -83,6 +83,51 @@ Work Experience
 | * Tools used: C#, Unity                                                                                             |
 | * Projects: `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                |
 +---------------------------------------------------------------------------------------------------------------------+
+
+
+Technical skills
+----------------
+
+Programming Languages:
+
+- R
+- Python
+- C# (Unity)
+- Git
+- HMTL & CSS
+- C++
+- UNIX
+
+Statistics and Data Analytics:
+
+- Advanced linear regression
+- Machine learning
+- Model building and
+- Selection
+
+Bioinformatics:
+
+- 16S sequencing
+- Metagenomics
+- DADA2
+- Phyloseq
+- Mothur
+- HMMER
+- FastTree
+
+Molecular Biology:
+
+- zebrafish husbandry
+- Bacterial culturing
+- DNA extraction
+- PCR amplification
+- Gel electrophoresis
+
+Other:
+
+- Microsoft Office Suite
+- Adobe Photoshop and Illustrator
+- Blender
 
 
 Download

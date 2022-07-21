@@ -7,10 +7,12 @@ I'd like to contribute in a data science role where I can apply the knowledge ga
 
 If your company is interested in hiring a highly enthusiastic and self-motivated data scientist to your team, look no further! I'm your guy. Below are some skills I can offer you.
 
+
 Skills I can offer
 ------------------
 
 Programming Languages:
+
 - R
 - Python
 - C# (Unity)
@@ -20,12 +22,14 @@ Programming Languages:
 - UNIX
 
 Statistics and Data Analytics:
+
 - advanced linear regression
 - machine learning
 - model building and
 - selection
 
 Bioinformatics:
+
 - 16S sequencing
 - metagenomics
 - DADA2
@@ -35,12 +39,14 @@ Bioinformatics:
 - FastTree
 
 Molecular Biology:
+
 - zebrafish husbandry
 - DNA extraction
 - PCR
 - gel electrophoresis
 
 Other:
+
 - Microsoft Office Suite
 - Adobe Photoshop and Illustrator
 - Blender
@@ -53,4 +59,4 @@ What I'd like to learn
   - SQL
   - NoSQL
   - Accessing APIs
-- Apply data science in industry problems
+- Apply data science to industry problems
