@@ -13,8 +13,6 @@ Welcome!
    :width: 30%
 
 
-This site is a space to share my research, projects and blogs.
-
 .. toctree::
    :maxdepth: 1
 
