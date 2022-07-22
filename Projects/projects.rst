@@ -34,3 +34,13 @@ Tools used:
 
 ..
     Download: :download:`Script <../Media/scripts/R/placeholder.Rmd>`
+
+
+Microbial Bioinformatics Hub
+----------------------------
+
+.. image:: ../Media/images/MBH_logo_v2.png
+   :target: https://microbial-bioinformatics-hub.readthedocs.io/en/latest/index.html
+   :width: 50%
+
+Microbial Bioinformatics Hub is an open-source, collaborative space for researchers and students to find, learn and share knowledge, methods and tools related to analyzing microbiological data. You can find the site `here <https://microbial-bioinformatics-hub.readthedocs.io/en/latest/index.html>`_.
