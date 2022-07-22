@@ -8,13 +8,13 @@ Welcome to my site!
 
 .. image:: Media/images/Research.png
    :target: Experience/experience.html
-   :width: 30%
+   :width: 33%
 .. image:: Media/images/Projects.png
    :target: Projects/projects.html
-   :width: 30%
+   :width: 33%
 .. image:: Media/images/Blog.png
    :target: https://blog.michaelsieler.com/
-   :width: 30%
+   :width: 33%
 
 
 .. toctree::
