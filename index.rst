@@ -1,20 +1,20 @@
 .. image:: Media/images/Sofie-I-Coast-2022.jpg
    :align: center
    :alt: Photo of Michael
-   :width: 50%
+   :width: 30
 
 Welcome to my site!
 ===================
 
 .. image:: Media/images/Research.png
    :target: Experience/experience.html
-   :width: 33%
+   :width: 30%
 .. image:: Media/images/Projects.png
    :target: Projects/projects.html
-   :width: 33%
+   :width: 30%
 .. image:: Media/images/Blog.png
    :target: https://blog.michaelsieler.com/
-   :width: 33%
+   :width: 30%
 
 
 .. toctree::
