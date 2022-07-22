@@ -1,10 +1,12 @@
-.. image:: Media/images/Sofie-I-Coast-2022.jpg
+Welcome to my site!
+===================
+
+.. image:: Media/images/Sofie-I-Coast-2022-500px.png
    :align: center
    :alt: Photo of Michael
    :width: 30%
 
-.. centered:: Welcome to my site!
-=================================
+------
 
 .. image:: Media/images/Research.png
    :target: Experience/experience.html
