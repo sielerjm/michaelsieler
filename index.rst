@@ -34,4 +34,4 @@ This site is a space to share my research, projects and blogs.
 
 
 ..
-   _More info on stylying sphinx: https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/structure.html
+   _More info on styling sphinx: https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/structure.html

@@ -28,7 +28,7 @@ I'm in my third year of my Ph.D program. I study how environmental factors (diet
 What is this site for?
 ----------------------
 
-The goal of this site is to provide a central location to share my research, projects and blog.
+The goal of this site is to provide a central location to share my `research and work experience <https://michaelsieler.com/en/latest/Experience/experience.html>`_, `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_ and `blog <https://blog.michaelsieler.com/>`_.
 
 
 How can I contact you?

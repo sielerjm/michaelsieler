@@ -54,7 +54,7 @@ Research Experience
 +--------------------------------------------------------------------------------------------------------------------------+
 | **Measure the effect of nanoplastics on the mouse gut microbial community**                                              |
 +--------------------------------------------------------------------------------------------------------------------------+
-| * Statistically analyzed the effects of nanoplastic exposure on mouse gut microbial communities                          |
+| * Statistically analyzed nanoplastic exposure on mouse gut microbial communities                                         |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
 | * Publications: Szule (2022), *Front. Water* (*accepted*)                                                                |
 +--------------------------------------------------------------------------------------------------------------------------+
