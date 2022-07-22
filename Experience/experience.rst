@@ -56,13 +56,13 @@ Research Experience
 +--------------------------------------------------------------------------------------------------------------------------+
 | * Statistically analyzed the effects of nanoplastic exposure on mouse gut microbial communities                          |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * Publications: Szule (2022), *Front. Water* (*accepted*)                                                                      |
+| * Publications: Szule (2022), *Front. Water* (*accepted*)                                                                |
 +--------------------------------------------------------------------------------------------------------------------------+
 | **Meta-analysis of zebrafish gut microbiomes phylogeny**                                                                 |
 +--------------------------------------------------------------------------------------------------------------------------+
 | * Designed and implemented procedures to process 1,000+ zebrafish embryos to analyze their microbiomes                   |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * Publications: `Sharpton (2021), Toxics. <https://bit.ly/3BaF7LX>`_                                                       |
+| * Publications: `Sharpton (2021), Toxics. <https://bit.ly/3BaF7LX>`_                                                     |
 +--------------------------------------------------------------------------------------------------------------------------+
 | **Built and maintain Microbial Bioinformatics Hub to collaboratively share microbiome bioinformatic resources**          |
 +--------------------------------------------------------------------------------------------------------------------------+
