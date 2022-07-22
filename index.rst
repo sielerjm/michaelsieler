@@ -3,8 +3,8 @@
    :alt: Photo of Michael
    :width: 30
 
-Welcome to my site!
-===================
+.. centered:: Welcome to my site!
+=================================
 
 .. image:: Media/images/Research.png
    :target: Experience/experience.html
