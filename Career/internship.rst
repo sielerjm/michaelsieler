@@ -39,3 +39,14 @@ What I'd like to gain experience doing:
 - Get my hands dirty pulling, cleaning, analyzing, and transforming raw data into insightful findings
 - Working on cross-department teams
 - Working with SQL and NoSQL databases
+
+
+Contact me!
+-----------
+
+The best way to reach me is through `email <sielerjm@oregonstate.edu>`_.
+
+**You can also find me here:**
+
+- `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
+- `GitHub <https://github.com/sielerjm>`_
