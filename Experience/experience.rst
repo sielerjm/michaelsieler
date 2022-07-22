@@ -5,8 +5,8 @@ Summary
 -------
 
 * Microbiome data scientist with 5 years of experience developing molecular, computational and statistical approaches to elucidate the underlying mechanisms of the gut microbiome and how they influence host health
-* Robust data analytic skills in advanced applied statistics to drive research experiments (R, Python)
-* Demonstrated abilities to collaborate and take leadership in multi-laboratory experiments
+* Advanced statistical analysis to drive research experiments forward (R, Python)
+* Demonstrated abilities to collaborate and take leadership in cross-laboratory experiments
 * Experienced in written and oral communication across various audiences from academics and students to members of the public
 
 
@@ -56,13 +56,13 @@ Research Experience
 +--------------------------------------------------------------------------------------------------------------------------+
 | * Statistically analyzed the effects of nanoplastic exposure on mouse gut microbial communities                          |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * Publications: Szule, *Front. Water* (*in review*)                                                                      |
+| * Publications: Szule (2022), *Front. Water* (*accepted*)                                                                      |
 +--------------------------------------------------------------------------------------------------------------------------+
 | **Meta-analysis of zebrafish gut microbiomes phylogeny**                                                                 |
 +--------------------------------------------------------------------------------------------------------------------------+
 | * Designed and implemented procedures to process 1,000+ zebrafish embryos to analyze their microbiomes                   |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * Publications: `Sharpton 2021, Toxics. <https://bit.ly/3BaF7LX>`_                                                       |
+| * Publications: `Sharpton (2021), Toxics. <https://bit.ly/3BaF7LX>`_                                                       |
 +--------------------------------------------------------------------------------------------------------------------------+
 | **Built and maintain Microbial Bioinformatics Hub to collaboratively share microbiome bioinformatic resources**          |
 +--------------------------------------------------------------------------------------------------------------------------+
