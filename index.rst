@@ -1,7 +1,7 @@
 .. image:: Media/images/Sofie-I-Coast-2022.jpg
    :align: center
    :alt: Photo of Michael
-   :width: 30
+   :width: 30%
 
 .. centered:: Welcome to my site!
 =================================
