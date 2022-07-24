@@ -9,7 +9,7 @@ About Me
 Who are you?
 ------------
 
-I'm Michael Sieler. I'm a Microbiology Ph.D. student minoring in Biological Data Science in the `Sharpton Lab <http://lab.sharpton.org>`_ at Oregon State University (OSU).
+I'm Michael Sieler, a Microbiology Ph.D. student minoring in Biological Data Science in the `Sharpton Lab <http://lab.sharpton.org>`_ at Oregon State University (OSU).
 
 
 What is your background?
