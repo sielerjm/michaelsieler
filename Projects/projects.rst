@@ -15,7 +15,8 @@ In collaboration with `Dr. Stephen Atkinson <https://microbiology.oregonstate.ed
 Virtual Fish is a tamagotchi-like game where players take care of a fish by feeding it, cleaning its tank, and administering it medicine whenever it gets an infection.
 
 Tools used:
-- C#, Unity
+- C#, Unity (software development)
+- GitHub (version control, game hosting)
 
 
 Spotify Genre Visualization
@@ -30,7 +31,9 @@ As part of a Data Visualization course taught by Dr. Charlotte Wickham (yes, tha
 `For my project <https://michael-sieler.shinyapps.io/Spotify_heatmap/>`_ (RShiny app), I chose a dataset derived from Spotify curated on Kaggle. The dataset contained data on a quarter million songs with over two dozen features per song. The data for these songs needed to be filtered and wrangled. After reducing the data set to a tenth its original size, I transformed and normalized the data to make an interactive heat map.
 
 Tools used:
-- Kaggle (data source), R (data wrangling, visualization)
+
+- Kaggle (data source)
+- R (data wrangling, visualization)
 
 ..
     Download: :download:`Script <../Media/scripts/R/placeholder.Rmd>`
@@ -44,3 +47,8 @@ Microbial Bioinformatics Hub
    :width: 50%
 
 Microbial Bioinformatics Hub is an open-source, collaborative space for researchers and students to find, learn and share knowledge, methods and tools related to analyzing microbiological data. You can find the site `here <https://microbial-bioinformatics-hub.readthedocs.io/en/latest/index.html>`_.
+
+Tools used:
+
+- Sphinx and ReadTheDocs (website framework and hosting)
+- Python, HTML and CSS (styling/formatting)
