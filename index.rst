@@ -13,15 +13,12 @@ The goal of this site is to provide a central space to share my `research and wo
 
 .. image:: Media/images/Research.png
    :target: Experience/experience.html
-	 :align: center
    :width: 30%
 .. image:: Media/images/Projects.png
    :target: Projects/projects.html
-	 :align: center
    :width: 30%
 .. image:: Media/images/Blog.png
    :target: https://blog.michaelsieler.com/
-	 :align: center
    :width: 30%
 
 
