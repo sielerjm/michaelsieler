@@ -15,6 +15,7 @@ In collaboration with `Dr. Stephen Atkinson <https://microbiology.oregonstate.ed
 Virtual Fish is a tamagotchi-like game where players take care of a fish by feeding it, cleaning its tank, and administering it medicine whenever it gets an infection.
 
 Tools used:
+
 - C#, Unity (software development)
 - GitHub (version control, game hosting)
 
