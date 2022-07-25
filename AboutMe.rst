@@ -23,7 +23,7 @@ Throughout my undergrad I conducted research alongside Ph.D. students and post-d
 What do you do now?
 -------------------
 
-I'm in my third year of my Ph.D program. I study how environmental factors (diet, pollutants, pathogens, etc.) impact the gut microbiome to influence host health using the zebrafish model organism.
+I'm in my third year of my Ph.D program. My research focuses on how environmental factors (diet, pollutants, pathogens, etc.) impact the gut microbiome to influence host health using the zebrafish model organism.
 
 
 What is this site for?
