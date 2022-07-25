@@ -4,11 +4,11 @@ Publications
 Peer-Reviewed Publications
 --------------------------
 
-Joseph A. Szule, Lawrence R. Curtis, Thomas J. Sharpton, …, **Michael J. Sieler**, & Kristin D. Kasschau. (2022). `"Early Enteric and Hepatic Responses to Ingestion of Polystyrene Nanospheres from Water in C57BL/6 Mice." <https://bit.ly/3OyI7oi>`_ Front. Water. (*accepted*)  :icon:`fas fa-download` :download:`PDF<../Media/publications/Szule2022_FrontWater.pdf>` (*coming soon*)
+Joseph A. Szule, ..., **Michael J. Sieler** (2022). `"Early Enteric and Hepatic Responses to Ingestion of Polystyrene Nanospheres from Water in C57BL/6 Mice." <https://bit.ly/3OyI7oi>`_ Front. Water. (*accepted*)  :icon:`fas fa-download` :download:`PDF<../Media/publications/Szule2022_FrontWater.pdf>` (*coming soon*)
 
-David, Maude M., ... **Michael J. Sieler Jr.**, et al. (2022). `"Revealing General Patterns of Microbiomes That Transcend Systems: Potential and Challenges of Deep Transfer Learning." <https://bit.ly/3IXaefQ>`_ Msystems.  :icon:`fas fa-download` :download:`PDF <../Media/publications/David2022_mSystems.pdf>`
+David, Maude M., ..., **Michael J. Sieler Jr.** (2022). `"Revealing General Patterns of Microbiomes That Transcend Systems: Potential and Challenges of Deep Transfer Learning." <https://bit.ly/3IXaefQ>`_ Msystems.  :icon:`fas fa-download` :download:`PDF <../Media/publications/David2022_mSystems.pdf>`
 
-Sharpton, Thomas J., ... **Michael J. Sieler Jr.**, et al. (2021). `"Phylogenetic integration reveals the zebrafish core microbiome and its sensitivity to environmental exposures." <https://bit.ly/3BaF7LX>`_ Toxics.  :icon:`fas fa-download` :download:`PDF <../Media/publications/Sharpton2021_Toxics.pdf>`
+Sharpton, Thomas J., ..., **Michael J. Sieler Jr.** (2021). `"Phylogenetic integration reveals the zebrafish core microbiome and its sensitivity to environmental exposures." <https://bit.ly/3BaF7LX>`_ Toxics.  :icon:`fas fa-download` :download:`PDF <../Media/publications/Sharpton2021_Toxics.pdf>`
 
 
 Other Publications
