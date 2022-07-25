@@ -13,15 +13,15 @@ Summary
 Education
 ---------
 
+
 +------------------------------------------------------------------------------------------------+-----------------+
-| Oregon State University                                                                                          |
+| **Ph.D. Microbiology**, minor in Biological Data Sciences                                      | *Expected 2025* |
+| - Oregon State University                                                                      |                 |
 +------------------------------------------------------------------------------------------------+-----------------+
-| **Ph.D. Microbiology, Minor in Biological Data Sciences**                                      | *Expected 2025* |
+| **B.Sc. Bioresource Research**, options in Bioinformatics and Genomics                         | 2020            |
+| - Oregon State University                                                                      |                 |
 +------------------------------------------------------------------------------------------------+-----------------+
-| Oregon State University                                                                                          |
-+------------------------------------------------------------------------------------------------+-----------------+
-| **B.Sc. Bioresource Research, Options in Bioinformatics and Genomics**                         | 2020            |
-+------------------------------------------------------------------------------------------------+-----------------+
+
 
 
 Research Experience
