@@ -4,7 +4,7 @@ Publications
 Peer-Reviewed Publications
 --------------------------
 
-Joseph A. Szule, Lawrence R. Curtis, Thomas J. Sharpton, …, **Michael J. Sieler**, & Kristin D. Kasschau. (2022). `"Early Enteric and Hepatic Responses to Ingestion of Polystyrene Nanospheres from Water in C57BL/6 Mice." <https://bit.ly/3OyI7oi>`_ Front. Water. (*accepted*)  :icon:`fas fa-download` :download:`PDF<../Media/publications/Szule2022_FrontWater.pdf>`
+Joseph A. Szule, Lawrence R. Curtis, Thomas J. Sharpton, …, **Michael J. Sieler**, & Kristin D. Kasschau. (2022). `"Early Enteric and Hepatic Responses to Ingestion of Polystyrene Nanospheres from Water in C57BL/6 Mice." <https://bit.ly/3OyI7oi>`_ Front. Water. (*accepted*)  :icon:`fas fa-download` :download:`PDF<../Media/publications/Szule2022_FrontWater.pdf>` (*coming soon*)
 
 David, Maude M., ... **Michael J. Sieler Jr.**, et al. (2022). `"Revealing General Patterns of Microbiomes That Transcend Systems: Potential and Challenges of Deep Transfer Learning." <https://bit.ly/3IXaefQ>`_ Msystems.  :icon:`fas fa-download` :download:`PDF <../Media/publications/David2022_mSystems.pdf>`
 
@@ -28,6 +28,6 @@ Conference Presentations
 Conference Posters
 ------------------
 
-**Michael J. Sieler Jr.**, et al. (2019). "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." 2nd Intl. Fish Microbiota Workshop, University of Oregon.  :icon:`fas fa-download` :download:`PDF <../IFMW2019_MichaelSieler.pdf>`
+**Michael J. Sieler Jr.**, et al. (2019). "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." 2nd Intl. Fish Microbiota Workshop, University of Oregon.
 
-**Michael J. Sieler Jr.**, et al. (2019)."The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." CAS Student Showcase, Oregon State University  :icon:`fas fa-download` :download:`PDF <../OSUCAS2019_MichaelSieler.pdf>`
+**Michael J. Sieler Jr.**, et al. (2019)."The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." CAS Student Showcase, Oregon State University.
