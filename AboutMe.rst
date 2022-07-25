@@ -4,7 +4,7 @@ About Me
 .. figure:: Media/images/Headshot_MichaelSieler-250px.png
    :align: center
    :alt: Photo of Michael
-   :width: 40%
+   :width: 30%
 
 Who are you?
 ------------
