@@ -30,7 +30,7 @@ Below are some of the technical skills I have to offer. You can read more about 
 | - DNA extraction           | - Blender                          | - Spanish (beginner)           |
 | - PCR amplification        |                                    |                                |
 | - Gel electrophoresis      |                                    |                                |
-+----------------------------+---------------------------------------------------------------------+
++----------------------------+------------------------------------+--------------------------------+
 
 
 What I'd like to gain experience doing:
