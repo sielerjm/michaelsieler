@@ -39,6 +39,7 @@ What I'd like to gain experience doing:
 - Get my hands dirty pulling, cleaning, analyzing, and transforming raw data into insightful findings
 - Working on cross-department teams
 - Working with SQL and NoSQL databases
+- Using AI and machine learning to solve complex problems
 
 
 Contact me!

@@ -17,6 +17,8 @@ Education
 | Oregon State University                                                                        | *Expected 2025* |
 |                                                                                                |                 |
 | **Ph.D. Microbiology**, minor in Biological Data Sciences                                      |                 |
+|                                                                                                |                 |
+| - Advised by `Dr. Thomas J. Sharpton <https://bit.ly/3cJfQ1b>`_                                |                 |
 +------------------------------------------------------------------------------------------------+-----------------+
 | Oregon State University                                                                        | 2020            |
 |                                                                                                |                 |
