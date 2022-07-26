@@ -26,8 +26,8 @@ Below are some of the technical skills I have to offer. You can read more about 
 | **Molecular Biology:**     | **Other:**                         | **Foreign Languages:**         |
 +----------------------------+------------------------------------+--------------------------------+
 | - zebrafish husbandry      | - Microsoft Office Suite           | - English (native)             |
-| - Bacterial culturing      | - Adobe Photoshop and Illustrator  | - German (intermediate)        |
-| - DNA extraction           | - Blender                          | - Spanish (beginner)           |
+| - Bacterial culturing      | - Adobe Photoshop and Illustrator  | - German (C1, advanced)        |
+| - DNA extraction           | - Blender                          | - Spanish (B1, beginner)       |
 | - PCR amplification        |                                    |                                |
 | - Gel electrophoresis      |                                    |                                |
 +----------------------------+------------------------------------+--------------------------------+
