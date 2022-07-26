@@ -14,6 +14,9 @@ Sharpton, Thomas J., ..., **Michael J. Sieler Jr.** (2021). `"Phylogenetic integ
 Other Publications
 ------------------
 
+Undergraduate Thesis
+""""""""""""""""""""
+
 Sieler Jr., Michael J., et al. (2020). `"The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." <https://bit.ly/3v3VndE>`_ Oregon State University.  :icon:`fas fa-download` :download:`PDF <../Media/publications/Sieler2020_OSUthesis.pdf>`
 
 
