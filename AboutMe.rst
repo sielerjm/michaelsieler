@@ -41,3 +41,6 @@ The best way to reach me is through `email <sielerjm@oregonstate.edu>`_.
 
 * `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
 * `GitHub <https://github.com/sielerjm>`_
+
+
+------

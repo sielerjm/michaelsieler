@@ -136,3 +136,6 @@ Download
 --------
 
 :icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume[JUL2022].pdf>`
+
+
+------
