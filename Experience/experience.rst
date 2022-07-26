@@ -97,7 +97,7 @@ Awards, Honors & Fellowships
 |                                                                                                                                                    |                 |
 | `**Science Communication Fellow** <https://omsi.edu/science-communication-services>`_                                                              |                 |
 |                                                                                                                                                    |                 |
-| - Received certified training in informal science education and engagement with public audiences to increase their understanding of STEM research  |                 |                                                                                              |                 |
+| - Received certified training in informal science education and engagement with public audiences to increase their understanding of STEM research  |                 |
 +----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
 | ARCS Foundation                                                                                                                                    | 2020-2023       |
 |                                                                                                                                                    |                 |
