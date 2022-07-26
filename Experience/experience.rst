@@ -16,9 +16,11 @@ Education
 
 +------------------------------------------------------------------------------------------------+-----------------+
 | Oregon State University                                                                        | *Expected 2025* |
+|                                                                                                |                 |
 | **Ph.D. Microbiology**, minor in Biological Data Sciences                                      |                 |
 +------------------------------------------------------------------------------------------------+-----------------+
 | Oregon State University                                                                        | 2020            |
++------------------------------------------------------------------------------------------------+                 |
 | **B.Sc. Bioresource Research**, options in Bioinformatics and Genomics                         |                 |
 +------------------------------------------------------------------------------------------------+-----------------+
 
@@ -80,8 +82,9 @@ Work Experience
 +------------------------------------------------------------------------------------------------+--------------------+
 | * Designed, developed, and deployed educational video game software for clients                                     |
 | * Educational software used to fulfill grant requirements for communicating scientific research                     |
-| * Tools used: C#, Unity                                                                                             |
 | * Projects: `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                |
+|                                                                                                                     |
+|   * Tools used: C#, Unity                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------+
 
 
