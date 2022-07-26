@@ -12,25 +12,25 @@ Skills I can offer
 
 Below are some of the technical skills I have to offer. You can read more about my research and work experience `here <https://michaelsieler.com/en/latest/Experience/experience.html>`_.
 
-+------------------------------+------------------------------------+--------------------------------+
-| **Programming & Scripting:** | **Statistics and Data Analytics:** | **Bioinformatics:**            |
-+------------------------------+------------------------------------+--------------------------------+
-| - R                          | - Advanced statistical analysis    | - 16S sequencing               |
-| - Python                     | - Model building and selection     | - Metagenomics                 |
-| - C# (Unity)                 | - Data visualization               | - DADA2                        |
-| - Git                        |                                    | - Phyloseq                     |
-| - HMTL & CSS                 |                                    | - Mothur                       |
-| - C++                        |                                    | - HMMER                        |
-| - UNIX                       |                                    | - FastTree                     |
-+------------------------------+------------------------------------+--------------------------------+
-| **Molecular Biology:**       | **Other:**                                                          |
-+------------------------------+---------------------------------------------------------------------+
-| - zebrafish husbandry        | - Microsoft Office Suite                                            |
-| - Bacterial culturing        | - Adobe Photoshop and Illustrator                                   |
-| - DNA extraction             | - Blender                                                           |
-| - PCR amplification          |                                                                     |
-| - Gel electrophoresis        |                                                                     |
-+------------------------------+---------------------------------------------------------------------+
++----------------------------+------------------------------------+--------------------------------+
+| **Programming Languages:** | **Statistics and Data Analytics:** | **Bioinformatics:**            |
++----------------------------+------------------------------------+--------------------------------+
+| - R                        | - Advanced linear regression       | - 16S sequencing               |
+| - Python                   | - Machine learning                 | - Metagenomics                 |
+| - C# (Unity)               | - Model building and selection     | - DADA2                        |
+| - Git                      |                                    | - Phyloseq                     |
+| - HMTL & CSS               |                                    | - Mothur                       |
+| - C++                      |                                    | - HMMER                        |
+| - UNIX                     |                                    | - FastTree                     |
++----------------------------+------------------------------------+--------------------------------+
+| **Molecular Biology:**     | **Other:**                         | **Foreign Languages:**         |
++----------------------------+------------------------------------+--------------------------------+
+| - zebrafish husbandry      | - Microsoft Office Suite           | - English (native)             |
+| - Bacterial culturing      | - Adobe Photoshop and Illustrator  | - German (intermediate)        |
+| - DNA extraction           | - Blender                          | - Spanish (beginner)           |
+| - PCR amplification        |                                    |                                |
+| - Gel electrophoresis      |                                    |                                |
++----------------------------+---------------------------------------------------------------------+
 
 
 What I'd like to gain experience doing:

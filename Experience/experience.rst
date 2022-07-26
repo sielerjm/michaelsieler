@@ -5,7 +5,7 @@ Summary
 -------
 
 * Microbiome data scientist with 5 years of experience developing molecular, computational and statistical approaches to elucidate the underlying mechanisms of the gut microbiome and how they influence host health
-* Advanced statistical analysis to drive research experiments forward (R, Python)
+* Advanced statistical analysis to drive research experiments forward
 * Demonstrated abilities to collaborate and take leadership in cross-laboratory experiments
 * Experienced in written and oral communication across various audiences from academics and students to members of the public
 
@@ -13,14 +13,13 @@ Summary
 Education
 ---------
 
-
 +------------------------------------------------------------------------------------------------+-----------------+
 | Oregon State University                                                                        | *Expected 2025* |
 |                                                                                                |                 |
 | **Ph.D. Microbiology**, minor in Biological Data Sciences                                      |                 |
 +------------------------------------------------------------------------------------------------+-----------------+
 | Oregon State University                                                                        | 2020            |
-+------------------------------------------------------------------------------------------------+                 |
+|                                                                                                |                 |
 | **B.Sc. Bioresource Research**, options in Bioinformatics and Genomics                         |                 |
 +------------------------------------------------------------------------------------------------+-----------------+
 
@@ -88,6 +87,25 @@ Work Experience
 +---------------------------------------------------------------------------------------------------------------------+
 
 
+Awards, Honors & Fellowships
+----------------------------
+
++----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
+| Oregon Museum of Science and Industry                                                                                                              | 2020-Present    |
+|                                                                                                                                                    |                 |
+| `**Science Communication Fellow** <https://omsi.edu/science-communication-services>`_                                                              |                 |
+|                                                                                                                                                    |                 |
+| - Received certified training in informal science education and engagement with public audiences to increase their understanding of STEM research  |                 |                                                                                              |                 |
++----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
+| ARCS Foundation                                                                                                                                    | 2020-2023       |
+|                                                                                                                                                    |                 |
+| `**Science Communication Fellow** <https://oregon.arcsfoundation.org>`_                                                                            |                 |
+|                                                                                                                                                    |                 |
+| - Recognized for my early significant contributions to scientific research, I was awarded the prestigious ARCS Scholar grant                       |                 |
++----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
+
+
+
 Technical skills
 ----------------
 
@@ -102,13 +120,13 @@ Technical skills
 | - C++                      |                                    | - HMMER                        |
 | - UNIX                     |                                    | - FastTree                     |
 +----------------------------+------------------------------------+--------------------------------+
-| **Molecular Biology:**     | **Other:**                                                          |
-+----------------------------+---------------------------------------------------------------------+
-| - zebrafish husbandry      | - Microsoft Office Suite                                            |
-| - Bacterial culturing      | - Adobe Photoshop and Illustrator                                   |
-| - DNA extraction           | - Blender                                                           |
-| - PCR amplification        |                                                                     |
-| - Gel electrophoresis      |                                                                     |
+| **Molecular Biology:**     | **Other:**                         | **Foreign Languages:**         |
++----------------------------+------------------------------------+--------------------------------+
+| - zebrafish husbandry      | - Microsoft Office Suite           | - English (native)             |
+| - Bacterial culturing      | - Adobe Photoshop and Illustrator  | - German (intermediate)        |
+| - DNA extraction           | - Blender                          | - Spanish (beginner)           |
+| - PCR amplification        |                                    |                                |
+| - Gel electrophoresis      |                                    |                                |
 +----------------------------+---------------------------------------------------------------------+
 
 
