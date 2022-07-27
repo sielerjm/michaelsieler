@@ -1,6 +1,9 @@
-##################
-# Michael Sieler #
-##################
+Michael Sieler
+##############
+
+..hidden
+  heading1
+	########
 
 .. image:: Media/images/Sofie-I-Coast-2022-500px.png
    :target: AboutMe.html
