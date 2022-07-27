@@ -21,6 +21,10 @@ Lime: #66a61e
 background-color: #66a61e;  /* Lime */
 }
 
+.rubric > .titleClass {
+  color: #ffffff
+}
+
 
 /* Links */
 

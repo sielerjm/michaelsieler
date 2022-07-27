@@ -1,6 +1,6 @@
-.. title: Michael Sieler
-	 :hidden:
-	 
+.. role:: Michael Sieler
+   :class: titleClass
+
 
 .. image:: Media/images/Sofie-I-Coast-2022-500px.png
    :target: AboutMe.html
