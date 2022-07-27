@@ -1,5 +1,5 @@
-.. role:: Michael Sieler
-   :class: titleClass
+Michael Sieler
+##############
 
 
 .. image:: Media/images/Sofie-I-Coast-2022-500px.png
