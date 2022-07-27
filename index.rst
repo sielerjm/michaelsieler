@@ -1,9 +1,9 @@
-Michael Sieler
-##############
+.. hidden::
+   Heading1
+   ========
 
-..hidden
-  heading1
-	########
+Welcome!
+========
 
 .. image:: Media/images/Sofie-I-Coast-2022-500px.png
    :target: AboutMe.html
