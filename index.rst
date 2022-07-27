@@ -1,7 +1,6 @@
-.. hidden::
-   Welcome!
-   ========
-
+..role:: white
+   Michael Sieler
+   ==============
 
 .. image:: Media/images/Sofie-I-Coast-2022-500px.png
    :target: AboutMe.html
