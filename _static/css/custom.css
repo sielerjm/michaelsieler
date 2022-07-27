@@ -21,8 +21,9 @@ Lime: #66a61e
 background-color: #66a61e;  /* Lime */
 }
 
-.rubric > .titleClass {
-  color: #ffffff
+@import url("sphinx-book-theme.css");
+title {
+  color: #ffffff;
 }
 
 
