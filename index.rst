@@ -1,3 +1,5 @@
+.. include:: rstStyles.rst
+
 ..role:: white
    Michael Sieler
    ==============
