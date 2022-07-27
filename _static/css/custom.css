@@ -21,12 +21,6 @@ Lime: #66a61e
 background-color: #66a61e;  /* Lime */
 }
 
-@import url("sphinx-book-theme.css");
-title {
-  color: #ffffff;
-}
-
-
 /* Links */
 
 a.current.reference.internal {
