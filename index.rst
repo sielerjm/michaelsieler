@@ -1,5 +1,6 @@
-Welcome to my site!
-===================
+##################
+# Michael Sieler #
+##################
 
 .. image:: Media/images/Sofie-I-Coast-2022-500px.png
    :target: AboutMe.html
@@ -9,7 +10,7 @@ Welcome to my site!
 
 ------
 
-Hi, Michael here. The goal of this site is to provide a central space to share my `research and work experience <https://michaelsieler.com/en/latest/Experience/experience.html>`_, `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_ and `blog <https://blog.michaelsieler.com/>`_. Have a look around and don't hesitate to `reach out <sielerjm@oregonstate.edu>`_ to me if you'd like to collaborate on a project!
+Welcome! My name is Michael Sieler. I'm a 3rd year PhD Student in the department of Microbiology at Oregon State University. The goal of this site is to provide a central space to share my `research and work experience <https://michaelsieler.com/en/latest/Experience/experience.html>`_, `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_ and `blog <https://blog.michaelsieler.com/>`_. Have a look around and don't hesitate to `reach out <sielerjm@oregonstate.edu>`_ to me if you'd like to collaborate on a project!
 
 .. image:: Media/images/Research.png
    :target: Experience/experience.html
