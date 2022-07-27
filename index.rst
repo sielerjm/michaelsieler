@@ -1,8 +1,8 @@
 .. include:: rstStyles.rst
 
-..role:: white
-   Michael Sieler
-   ==============
+..title:: Michael Sieler
+	 :white:
+
 
 .. image:: Media/images/Sofie-I-Coast-2022-500px.png
    :target: AboutMe.html
