@@ -9,7 +9,7 @@ Welcome to my site!
 
 ------
 
-Hi, welcome! Michael, here. The goal of this site is to provide a central space to share my `research and work experience <https://michaelsieler.com/en/latest/Experience/experience.html>`_, `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_ and `blog <https://blog.michaelsieler.com/>`_. Have a look around and don't hesitate to `reach out <sielerjm@oregonstate.edu>`_ to me if you'd like to collaborate on a project!
+Hi, Michael here. The goal of this site is to provide a central space to share my `research and work experience <https://michaelsieler.com/en/latest/Experience/experience.html>`_, `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_ and `blog <https://blog.michaelsieler.com/>`_. Have a look around and don't hesitate to `reach out <sielerjm@oregonstate.edu>`_ to me if you'd like to collaborate on a project!
 
 .. image:: Media/images/Research.png
    :target: Experience/experience.html
