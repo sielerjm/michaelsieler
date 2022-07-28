@@ -21,6 +21,13 @@ Lime: #66a61e
 background-color: #66a61e;  /* Lime */
 }
 
+a.download.external > code:before {
+    content: "\f019";
+    font-weight: 600;
+    font-family: 'Font Awesome 5 Free';
+    padding-right: 0.5em;
+}
+
 /* Links */
 
 a.current.reference.internal {
