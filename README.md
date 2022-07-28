@@ -6,5 +6,5 @@ MichaelSieler.com is a space to provide an overview about myself, my projects an
 If you find an error please let us know [here](https://github.com/sielerjm/michaelsieler/issues) and if you’d like to contribute please get in touch with us [here](mailto:sielerjm(at)oregonstate(dot)com>). Thanks!
 
 
-<div align="center"><img src="https://github.com/sielerjm/michaelsieler/blob/master/media/logo/MS_Logo_WhBG.png" width="200"
+<div align="center"><img src="https://github.com/sielerjm/michaelsieler/Media/logo/MS_Logo_Clr-WhBG-200px.png" width="200"
      height="200"/></div>
