@@ -139,6 +139,3 @@ Download
 
 
 ------
-
-
-:download:`Test <../ResumeCV/MichaelSieler_Resume.pdf>`
