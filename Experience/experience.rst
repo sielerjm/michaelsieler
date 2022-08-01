@@ -7,7 +7,7 @@ Summary
 * Microbiome scientist with 5+ years of experience developing molecular, computational, and statistical research methods
 * Robust data analytic skills in multivariate statistics and machine learning to drive research experiments forward
 * Demonstrated abilities to collaborate and take leadership in cross-laboratory experiments
-* Experienced in written and oral communication across scientific and public audiences
+* Experienced in written, oral and visual communication across scientific and public audiences
 
 
 Education
