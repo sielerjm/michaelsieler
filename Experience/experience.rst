@@ -132,8 +132,8 @@ Technical skills
 +----------------------------+------------------------------------+--------------------------------+
 
 
-Download
---------
+Download Resume
+---------------
 
 :icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
 

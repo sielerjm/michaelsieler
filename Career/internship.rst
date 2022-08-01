@@ -53,4 +53,10 @@ The best way to reach me is through `email <sielerjm@oregonstate.edu>`_.
 - `GitHub <https://github.com/sielerjm>`_
 
 
+Download Resume
+---------------
+
+:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
+
+
 ------
