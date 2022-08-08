@@ -108,6 +108,29 @@ Awards, Honors & Fellowships
 
 
 
+Certificates
+------------
+
++------------------------------------------------------------------------------------------------+--------------------+
+| Machine Learning Specialization                                                                | *In-progress*      |
++------------------------------------------------------------------------------------------------+--------------------+
+| * Introduction to modern machine learning, including supervised and unsupervised learning                           |
+| * Supervised and unsupervised machine learning, advanced learning algorithms                                        |
+| * Use Python to build and train machine and deep learning models                                                    |
+|                                                                                                                     |
+|   * `Course <https://www.coursera.org/specializations/machine-learning-introduction>`_                              |
++------------------------------------------------------------------------------------------------+--------------------+
+| Data Science and Machine Learning Bootcamp with R                                              | 2021               |
++------------------------------------------------------------------------------------------------+--------------------+
+| * Program with R to wrangle, clean, analyze, and visualize data.                                                    |
+| * Apply advanced statistics and machine learning to gain useful insights.                                           |
+|                                                                                                                     |
+|   * `Certificate <https://www.udemy.com/certificate/UC-3bd3e63b-0450-4a37-8ffe-f92a920522f1/>`_                     |
++---------------------------------------------------------------------------------------------------------------------+
+
+
+
+
 Technical skills
 ----------------
 
@@ -122,9 +145,9 @@ Technical skills
 | - C++                      |                                    | - HMMER                        |
 | - UNIX                     |                                    | - FastTree                     |
 +----------------------------+------------------------------------+--------------------------------+
-| **Molecular Biology:**     | **Other:**                         | **Foreign Languages:**         |
+| **Laboratory:**            | **Other:**                         | **Foreign Languages:**         |
 +----------------------------+------------------------------------+--------------------------------+
-| - zebrafish husbandry      | - Microsoft Office Suite           | - English (native)             |
+| - Zebrafish husbandry      | - Microsoft Office Suite           | - English (native)             |
 | - Bacterial culturing      | - Adobe Photoshop and Illustrator  | - German (C1, advanced)        |
 | - DNA extraction           | - Blender                          | - Spanish (B1, beginner)       |
 | - PCR amplification        |                                    |                                |
@@ -132,10 +155,12 @@ Technical skills
 +----------------------------+------------------------------------+--------------------------------+
 
 
-Download Resume
----------------
+Download Resume & CV
+--------------------
 
 :icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
 
+
+:icon:`fas fa-download` :download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
 
 ------
