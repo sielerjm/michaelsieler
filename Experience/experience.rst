@@ -63,13 +63,13 @@ Research Experience
 +--------------------------------------------------------------------------------------------------------------------------+
 | **Meta-analysis of zebrafish gut microbiomes phylogeny**                                                                 |
 +--------------------------------------------------------------------------------------------------------------------------+
-| * Designed and implemented procedures to process 1,000+ zebrafish embryos to analyze their microbiomes                   |
-| * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
+| * Identified relevant studies and datasets to include in meta-analysis                                                   |
+| * Tools used: DADA2 (16S processing), Python (NCBI querying, data wrangling), DADA2 (16S processing), R (data cleaning)  |
 | * Publications: `Sharpton (2021), Toxics. <https://bit.ly/3BaF7LX>`_                                                     |
 +--------------------------------------------------------------------------------------------------------------------------+
 | **Built and maintain Microbial Bioinformatics Hub to collaboratively share microbiome bioinformatic resources**          |
 +--------------------------------------------------------------------------------------------------------------------------+
-| * Designed and implemented procedures to process 1,000+ zebrafish embryos to analyze their microbiomes                   |
+| * Website for sharing knowledge, methods and tools related to analyzing microbiological data                             |
 | * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
 | * `Microbial Bioinformatics Hub <https://microbial-bioinformatics-hub.readthedocs.io/en/latest/index.html>`_             |
 +--------------------------------------------------------------------------------------------------------------------------+
