@@ -101,7 +101,7 @@ Awards, Honors & Fellowships
 +----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
 | `ARCS Foundation <https://oregon.arcsfoundation.org>`_                                                                                             | 2020-2023       |
 |                                                                                                                                                    |                 |
-| **Science Communication Fellow**                                                                                                                   |                 |
+| **ARCS Scholar**                                                                                                                                   |                 |
 |                                                                                                                                                    |                 |
 | - Recognized for my early significant contributions to scientific research, I was awarded the prestigious ARCS Scholar grant                       |                 |
 +----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
