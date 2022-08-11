@@ -18,7 +18,8 @@ Lime: #66a61e
 
 @import url("sphinx-book-theme.css");
 .header-item.announcement {
-background-color: #66a61e;  /* Lime */
+background-color: #d95f02;  /* Orange */
+font-weight: 600;
 }
 
 a.download.external > code:before {
