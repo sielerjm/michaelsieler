@@ -88,15 +88,15 @@ Awards, Honors & Fellowships
 ----------------------------
 
 +----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
-| `Oregon Museum of Science and Industry <https://omsi.edu/science-communication-services>`_                                                         | 2020-Present    |
+| **`Oregon Museum of Science and Industry <https://omsi.edu/science-communication-services>`_ **                                                    | 2020-Present    |
 |                                                                                                                                                    |                 |
-| **Science Communication Fellow**                                                                                                                   |                 |
+| Science Communication Fellow                                                                                                                       |                 |
 |                                                                                                                                                    |                 |
 | - Received certified training in informal science education and engagement with public audiences to increase their understanding of STEM research  |                 |
 +----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
-| `ARCS Foundation <https://oregon.arcsfoundation.org>`_                                                                                             | 2020-2023       |
+| **`ARCS Foundation <https://oregon.arcsfoundation.org>`_ **                                                                                        | 2020-2023       |
 |                                                                                                                                                    |                 |
-| **ARCS Scholar**                                                                                                                                   |                 |
+| ARCS Scholar                                                                                                                                       |                 |
 |                                                                                                                                                    |                 |
 | - Recognized for my early significant contributions to scientific research, I was awarded the prestigious ARCS Scholar grant                       |                 |
 +----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
@@ -107,7 +107,7 @@ Certificates
 ------------
 
 +------------------------------------------------------------------------------------------------+--------------------+
-| Machine Learning Specialization                                                                | *In-progress*      |
+| **Machine Learning Specialization**                                                            | *In-progress*      |
 +------------------------------------------------------------------------------------------------+--------------------+
 | * Introduction to modern machine learning, including supervised and unsupervised learning                           |
 | * Supervised and unsupervised machine learning, advanced learning algorithms                                        |
@@ -115,7 +115,7 @@ Certificates
 |                                                                                                                     |
 |   * `Course <https://www.coursera.org/specializations/machine-learning-introduction>`_                              |
 +------------------------------------------------------------------------------------------------+--------------------+
-| Data Science and Machine Learning Bootcamp with R                                              | 2021               |
+| **Data Science and Machine Learning Bootcamp with R**                                          | 2021               |
 +------------------------------------------------------------------------------------------------+--------------------+
 | * Program with R to wrangle, clean, analyze, and visualize data.                                                    |
 | * Apply advanced statistics and machine learning to gain useful insights.                                           |
