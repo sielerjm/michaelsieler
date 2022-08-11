@@ -42,9 +42,9 @@ Research Experience
 | * Measure resilience of gut microbiome to chronic exposure of antibiotics (Sieler, *in-development*)                                                                                              |
 | * Assess gut microbiome resiliency to anthropological impacts such as temperature and pathogenic exposure (Sieler, *in-development*)                                                              |
 | * Investigate the joint interaction effects of diet and pathogen exposure on gut microbiome succession (Sieler, *in-prep*)                                                                        |
-| * Measure the effect of nanoplastics on the mouse gut microbial community `(Szule 2022) <https://bit.ly/3OyI7oi>`_                                                                                |
-| * Potential and challenges of deep transfer learning in microbiome science `(David 2021) <https://bit.ly/3IXaefQ>`_                                                                               |
-| * Meta-analysis of zebrafish gut microbiomes phylogeny `(Sharpton 2021) <https://bit.ly/3BaF7LX>`_                                                                                                |
+| * Measure the effect of nanoplastics on the mouse gut microbial community :icon:`fa-solid fa-newspaper` `(Szule 2022) <https://bit.ly/3OyI7oi>`_                                                  |
+| * Potential and challenges of deep transfer learning in microbiome science :icon:`fa-solid fa-newspaper` `(David 2021) <https://bit.ly/3IXaefQ>`_                                                 |
+| * Meta-analysis of zebrafish gut microbiomes phylogeny :icon:`fa-solid fa-newspaper` `(Sharpton 2021) <https://bit.ly/3BaF7LX>`_                                                                  |
 | * `Microbial Bioinformatics Hub: <https://microbial-bioinformatics-hub.readthedocs.io/en/latest/index.html>`_ information, methods and tools related to analyzing microbiological data            |
 | * The impact of the environmental pollutant Benzo(a)Pyrene on gut microbiomes of juvenile zebrafish  (Stagaman, *in-development*)                                                                 |
 |                                                                                                                                                                                                   |
@@ -72,7 +72,7 @@ Work Experience
 +------------------------------------------------------------------------------------------------+--------------------+
 | **Projects:**                                                                                                       |
 |                                                                                                                     |
-| * `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                          |
+| * :icon:`fa-brands fa-github` `Virtual Fish <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                       |
 |                                                                                                                     |
 |   * Designed, developed, and deployed educational video game software for clients                                   |
 |   * Educational software used to fulfill grant requirements for communicating scientific research                   |
@@ -106,22 +106,22 @@ Awards, Honors & Fellowships
 Certificates
 ------------
 
-+------------------------------------------------------------------------------------------------+--------------------+
-| Machine Learning Specialization                                                                | *In-progress*      |
-+------------------------------------------------------------------------------------------------+--------------------+
-| * Introduction to modern machine learning, including supervised and unsupervised learning                           |
-| * Supervised and unsupervised machine learning, advanced learning algorithms                                        |
-| * Use Python to build and train machine and deep learning models                                                    |
-|                                                                                                                     |
-|   * `Course <https://www.coursera.org/specializations/machine-learning-introduction>`_                              |
-+------------------------------------------------------------------------------------------------+--------------------+
-| Data Science and Machine Learning Bootcamp with R                                              | 2021               |
-+------------------------------------------------------------------------------------------------+--------------------+
-| * Program with R to wrangle, clean, analyze, and visualize data.                                                    |
-| * Apply advanced statistics and machine learning to gain useful insights.                                           |
-|                                                                                                                     |
-|   * `Certificate <https://www.udemy.com/certificate/UC-3bd3e63b-0450-4a37-8ffe-f92a920522f1/>`_                     |
-+---------------------------------------------------------------------------------------------------------------------+
++------------------------------------------------------------------------------------------------+------------------------------------+
+| Machine Learning Specialization                                                                | *In-progress*                      |
++------------------------------------------------------------------------------------------------+------------------------------------+
+| * Introduction to modern machine learning, including supervised and unsupervised learning                                           |
+| * Supervised and unsupervised machine learning, advanced learning algorithms                                                        |
+| * Use Python to build and train machine and deep learning models                                                                    |
+|                                                                                                                                     |
+|   * `Course :icon:`fa-solid fa-link` <https://www.coursera.org/specializations/machine-learning-introduction>`_                     |
++------------------------------------------------------------------------------------------------+------------------------------------+
+| Data Science and Machine Learning Bootcamp with R                                              | 2021                               |
++------------------------------------------------------------------------------------------------+------------------------------------+
+| * Program with R to wrangle, clean, analyze, and visualize data.                                                                    |
+| * Apply advanced statistics and machine learning to gain useful insights.                                                           |
+|                                                                                                                                     |
+|   * :icon:`fa-solid fa-award` `Certificate <https://www.udemy.com/certificate/UC-3bd3e63b-0450-4a37-8ffe-f92a920522f1/>`_           |
++-------------------------------------------------------------------------------------------------------------------------------------+
 
 
 .. _Skills:
