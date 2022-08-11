@@ -13,10 +13,10 @@ If your company is interested in hiring a fast learning, highly enthusiastic and
 Skills I can offer
 ------------------
 
-Below are some of the technical skills I have to offer. You can read more about my research and work experience `here <https://michaelsieler.com/en/latest/Experience/experience.html>`_, and how I've applied these skills to various `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_.
+Below are some of the skills I have to offer. You can read more about my research and work experience `here <https://michaelsieler.com/en/latest/Experience/experience.html>`_, and how I've applied these skills to various `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_.
 
 +----------------------------+------------------------------------+--------------------------------+
-| **Programming Languages:** | **Statistics and Data Analytics:** | **Bioinformatics:**            |
+| **Programming          :** | **Statistics and Data Analytics:** | **Bioinformatics:**            |
 +----------------------------+------------------------------------+--------------------------------+
 | - R                        | - Advanced linear regression       | - 16S sequencing               |
 | - Python                   | - Machine learning                 | - Metagenomics                 |
@@ -26,7 +26,7 @@ Below are some of the technical skills I have to offer. You can read more about 
 | - C++                      |                                    | - HMMER                        |
 | - UNIX                     |                                    | - FastTree                     |
 +----------------------------+------------------------------------+--------------------------------+
-| **Laboratory:**            | **Other:**                         | **Foreign Languages:**         |
+| **Laboratory:**            | **Other:**                         | **Languages:**                 |
 +----------------------------+------------------------------------+--------------------------------+
 | - Zebrafish husbandry      | - Microsoft Office Suite           | - English (native)             |
 | - Bacterial culturing      | - Adobe Photoshop and Illustrator  | - German (C1, advanced)        |
@@ -34,6 +34,7 @@ Below are some of the technical skills I have to offer. You can read more about 
 | - PCR amplification        |                                    |                                |
 | - Gel electrophoresis      |                                    |                                |
 +----------------------------+------------------------------------+--------------------------------+
+
 
 
 What I'd like to gain experience doing:

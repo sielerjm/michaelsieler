@@ -130,7 +130,7 @@ Technical skills
 ----------------
 
 +----------------------------+------------------------------------+--------------------------------+
-| **Programming Languages:** | **Statistics and Data Analytics:** | **Bioinformatics:**            |
+| **Programming          :** | **Statistics and Data Analytics:** | **Bioinformatics:**            |
 +----------------------------+------------------------------------+--------------------------------+
 | - R                        | - Advanced linear regression       | - 16S sequencing               |
 | - Python                   | - Machine learning                 | - Metagenomics                 |
@@ -140,7 +140,7 @@ Technical skills
 | - C++                      |                                    | - HMMER                        |
 | - UNIX                     |                                    | - FastTree                     |
 +----------------------------+------------------------------------+--------------------------------+
-| **Laboratory:**            | **Other:**                         | **Foreign Languages:**         |
+| **Laboratory:**            | **Other:**                         | **Languages:**                 |
 +----------------------------+------------------------------------+--------------------------------+
 | - Zebrafish husbandry      | - Microsoft Office Suite           | - English (native)             |
 | - Bacterial culturing      | - Adobe Photoshop and Illustrator  | - German (C1, advanced)        |
