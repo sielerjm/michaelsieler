@@ -30,49 +30,32 @@ Education
 Research Experience
 -------------------
 
-+--------------------------------------------------------------------------------------------------------------------------+
-| **Developed high-throughput molecular biological and computational pipelines to interrogate gut microbiome**             |
-+--------------------------------------------------------------------------------------------------------------------------+
-| * Designed and implemented novel gnotobiotic procedures to process 1,000+ zebrafish embryos to analyze their microbiomes |
-| * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * Publications: Stagaman (*in development*)                                                                              |
-+--------------------------------------------------------------------------------------------------------------------------+
-| **Measure resilience of gut microbiome to chronic exposure of antibiotics**                                              |
-+--------------------------------------------------------------------------------------------------------------------------+
-| * Exposed 140 adult zebrafish to varying combinations of antibiotics and controls                                        |
-| * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * Status: *Currently conducting experiment*                                                                              |
-+--------------------------------------------------------------------------------------------------------------------------+
-| **Assess gut microbiome resiliency to anthropological impacts such as temperature and pathogenic exposure**              |
-+--------------------------------------------------------------------------------------------------------------------------+
-| * Exposed adult zebrafish to varying combinations of antibiotics and controls                                            |
-| * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * Status: *Waiting on data generation*                                                                                   |
-+--------------------------------------------------------------------------------------------------------------------------+
-| **Investigate the joint interaction effects of pathogen exposure and diet on gut microbiome succession**                 |
-+--------------------------------------------------------------------------------------------------------------------------+
-| * Fed 180 zebrafish one of three commonly used laboratory diets and exposed half to a common pathogen                    |
-| * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * Publications: Sieler (*in development*)                                                                                |
-+--------------------------------------------------------------------------------------------------------------------------+
-| **Measure the effect of nanoplastics on the mouse gut microbial community**                                              |
-+--------------------------------------------------------------------------------------------------------------------------+
-| * Statistically analyzed nanoplastic exposure on mouse gut microbial communities                                         |
-| * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * Publications: Szule (2022), *Front. Water* (*accepted*)                                                                |
-+--------------------------------------------------------------------------------------------------------------------------+
-| **Meta-analysis of zebrafish gut microbiomes phylogeny**                                                                 |
-+--------------------------------------------------------------------------------------------------------------------------+
-| * Identified relevant studies and datasets to include in meta-analysis                                                   |
-| * Tools used: DADA2 (16S processing), Python (NCBI querying, data wrangling), DADA2 (16S processing), R (data cleaning)  |
-| * Publications: `Sharpton (2021), Toxics. <https://bit.ly/3BaF7LX>`_                                                     |
-+--------------------------------------------------------------------------------------------------------------------------+
-| **Built and maintain Microbial Bioinformatics Hub to collaboratively share microbiome bioinformatic resources**          |
-+--------------------------------------------------------------------------------------------------------------------------+
-| * Website for sharing knowledge, methods and tools related to analyzing microbiological data                             |
-| * Tools used: DADA2 (16S processing), R (data cleaning, statistical analysis, visualization)                             |
-| * `Microbial Bioinformatics Hub <https://microbial-bioinformatics-hub.readthedocs.io/en/latest/index.html>`_             |
-+--------------------------------------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Investigate how environmental factors (diet, pollutants, pathogens, etc.) interact with the gut microbiome to influence host health using the zebrafish model organism.**            |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Projects:**                                                                                                                                                                          |
+|                                                                                                                                                                                        |
+| * Measure resilience of gut microbiome to chronic exposure of antibiotics (*in-development*)                                                                                           |
+| * Assess gut microbiome resiliency to anthropological impacts such as temperature and pathogenic exposure (*in-development*)                                                           |
+| * Investigate the joint interaction effects of diet and pathogen exposure on gut microbiome succession (*in-prep*)                                                                     |
+| * Measure the effect of nanoplastics on the mouse gut microbial community (Szule 2022)                                                                                                 |
+| * Meta-analysis of zebrafish gut microbiomes phylogeny (Sharpton 2021)                                                                                                                 |
+| * `Microbial Bioinformatics Hub: <https://microbial-bioinformatics-hub.readthedocs.io/en/latest/index.html>`_ knowledge, methods and tools related to analyzing microbiological data   |
+|                                                                                                                                                                                        |
+| **Tools:**                                                                                                                                                                             |
+|                                                                                                                                                                                        |
+| * Languages: R, Python, DADA2, Phyloseq, HTML, CSS, Unix/Linux, C++                                                                                                                    |
+| * Bioinformatics: 16S sequencing (DADA2 & Phyloseq), Metagenomics (FastTree & HMMER)                                                                                                   |
+| * Documentation: Sphinx & ReadTheDocs                                                                                                                                                  |
+|                                                                                                                                                                                        |
+|                                                                                                                                                                                        |
+| **Skills:**                                                                                                                                                                            |
+|                                                                                                                                                                                        |
+| * Analytic: data management and analysis, multivariate statistics, machine learning                                                                                                    |
+| * Presentation: oral and written communication, pipeline documentation                                                                                                                 |
+| * Project Management: experimental design, coordination and analysis, cross-laboratory collaboration                                                                                   |
+| * Other: `Skills`_                                                                                                                                                                     |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 Work Experience
@@ -83,9 +66,14 @@ Work Experience
 +------------------------------------------------------------------------------------------------+--------------------+
 | * Designed, developed, and deployed educational video game software for clients                                     |
 | * Educational software used to fulfill grant requirements for communicating scientific research                     |
-| * Projects: `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                |
 |                                                                                                                     |
-|   * Tools used: C#, Unity                                                                                           |
+| **Projects:**                                                                                                       |
+|                                                                                                                     |
+| * `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                          |
+|                                                                                                                     |
+| **Tools used:**                                                                                                     |
+|                                                                                                                     |
+| * C#, Unity                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------+
 
 
@@ -129,7 +117,7 @@ Certificates
 +---------------------------------------------------------------------------------------------------------------------+
 
 
-
+.. _Skills:
 
 Technical skills
 ----------------
