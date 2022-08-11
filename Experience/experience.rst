@@ -1,6 +1,8 @@
 Experience
 ==========
 
+.. _Top:
+
 Summary
 -------
 
@@ -30,32 +32,34 @@ Education
 Research Experience
 -------------------
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Investigate how environmental factors (diet, pollutants, pathogens, etc.) interact with the gut microbiome to influence host health using the zebrafish model organism.**            |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Projects:**                                                                                                                                                                          |
-|                                                                                                                                                                                        |
-| * Measure resilience of gut microbiome to chronic exposure of antibiotics (*in-development*)                                                                                           |
-| * Assess gut microbiome resiliency to anthropological impacts such as temperature and pathogenic exposure (*in-development*)                                                           |
-| * Investigate the joint interaction effects of diet and pathogen exposure on gut microbiome succession (*in-prep*)                                                                     |
-| * Measure the effect of nanoplastics on the mouse gut microbial community (Szule 2022)                                                                                                 |
-| * Meta-analysis of zebrafish gut microbiomes phylogeny (Sharpton 2021)                                                                                                                 |
-| * `Microbial Bioinformatics Hub: <https://microbial-bioinformatics-hub.readthedocs.io/en/latest/index.html>`_ knowledge, methods and tools related to analyzing microbiological data   |
-|                                                                                                                                                                                        |
-| **Tools:**                                                                                                                                                                             |
-|                                                                                                                                                                                        |
-| * Languages: R, Python, DADA2, Phyloseq, HTML, CSS, Unix/Linux, C++                                                                                                                    |
-| * Bioinformatics: 16S sequencing (DADA2 & Phyloseq), Metagenomics (FastTree & HMMER)                                                                                                   |
-| * Documentation: Sphinx & ReadTheDocs                                                                                                                                                  |
-|                                                                                                                                                                                        |
-|                                                                                                                                                                                        |
-| **Skills:**                                                                                                                                                                            |
-|                                                                                                                                                                                        |
-| * Analytic: data management and analysis, multivariate statistics, machine learning                                                                                                    |
-| * Presentation: oral and written communication, pipeline documentation                                                                                                                 |
-| * Project Management: experimental design, coordination and analysis, cross-laboratory collaboration                                                                                   |
-| * Other: `Skills`_                                                                                                                                                                     |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Investigate how environmental factors (diet, pollutants, pathogens, etc.) interact with the gut microbiome to influence host health using the zebrafish model organism.**                       |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Projects:**                                                                                                                                                                                     |
+|                                                                                                                                                                                                   |
+| * Measure resilience of gut microbiome to chronic exposure of antibiotics (Sieler, *in-development*)                                                                                              |
+| * Assess gut microbiome resiliency to anthropological impacts such as temperature and pathogenic exposure (Sieler, *in-development*)                                                              |
+| * Investigate the joint interaction effects of diet and pathogen exposure on gut microbiome succession (Sieler, *in-prep*)                                                                        |
+| * Measure the effect of nanoplastics on the mouse gut microbial community `(Szule 2022) <https://bit.ly/3OyI7oi>`_                                                                                |
+| * Potential and challenges of deep transfer learning in microbiome science `(David 2021) <https://bit.ly/3IXaefQ>`_                                                                               |
+| * Meta-analysis of zebrafish gut microbiomes phylogeny `(Sharpton 2021) <https://bit.ly/3BaF7LX>`_                                                                                                |
+| * `Microbial Bioinformatics Hub: <https://microbial-bioinformatics-hub.readthedocs.io/en/latest/index.html>`_ information, methods and tools related to analyzing microbiological data            |
+| * The impact of the environmental pollutant Benzo(a)Pyrene on gut microbiomes of juvenile zebrafish  (Stagaman, *in-development*)                                                                 |
+|                                                                                                                                                                                                   |
+| **Tools:**                                                                                                                                                                                        |
+|                                                                                                                                                                                                   |
+| * Programming: R, Python, Git, DADA2, Phyloseq, HTML, CSS, Unix/Linux, C++                                                                                                                        |
+| * Bioinformatics: 16S sequencing (DADA2 & Phyloseq), Metagenomics (FastTree & HMMER)                                                                                                              |
+| * Documentation: Sphinx & ReadTheDocs                                                                                                                                                             |
+|                                                                                                                                                                                                   |
+|                                                                                                                                                                                                   |
+| **Skills:**                                                                                                                                                                                       |
+|                                                                                                                                                                                                   |
+| * Analytic: data management and analysis, multivariate statistics, machine learning                                                                                                               |
+| * Presentation: oral and written communication, pipeline documentation                                                                                                                            |
+| * Project Management: experimental design, coordination and analysis, cross-laboratory collaboration                                                                                              |
+| * Other: see more `Skills`_ below                                                                                                                                                                 |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 Work Experience
@@ -64,16 +68,17 @@ Work Experience
 +------------------------------------------------------------------------------------------------+--------------------+
 | **MJSieler Consulting - Owner**                                                                | May 2022-Present   |
 +------------------------------------------------------------------------------------------------+--------------------+
-| * Designed, developed, and deployed educational video game software for clients                                     |
-| * Educational software used to fulfill grant requirements for communicating scientific research                     |
-|                                                                                                                     |
 | **Projects:**                                                                                                       |
 |                                                                                                                     |
 | * `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                          |
 |                                                                                                                     |
+|   * Designed, developed, and deployed educational video game software for clients                                   |
+|   * Educational software used to fulfill grant requirements for communicating scientific research                   |
+|                                                                                                                     |
+|                                                                                                                     |
 | **Tools used:**                                                                                                     |
 |                                                                                                                     |
-| * C#, Unity                                                                                                         |
+| * C#, Unity, Git                                                                                                    |
 +---------------------------------------------------------------------------------------------------------------------+
 
 
@@ -150,5 +155,9 @@ Download Resume & CV
 
 
 :icon:`fas fa-download` :download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
+
+------
+
+Return to `top`_.
 
 ------
