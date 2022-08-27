@@ -131,15 +131,15 @@ Skills
 ------
 
 +----------------------------+------------------------------------+--------------------------------+
-| **Programming          :** | **Statistics and Data Analytics:** | **Bioinformatics:**            |
+| **Programming:**           | **Statistics and Data Analytics:** | **Bioinformatics:**            |
 +----------------------------+------------------------------------+--------------------------------+
 | - R                        | - Advanced linear regression       | - 16S sequencing               |
 | - Python                   | - Machine learning                 | - Metagenomics                 |
 | - C# (Unity)               | - Model building and selection     | - DADA2                        |
-| - Git                      |                                    | - Phyloseq                     |
-| - HMTL & CSS               |                                    | - Mothur                       |
+| - Git                      | - Big data query                   | - Phyloseq                     |
+| - HMTL & CSS               | - Data mining                      | - Mothur                       |
 | - C++                      |                                    | - HMMER                        |
-| - UNIX                     |                                    | - FastTree                     |
+| - UNIX/Linux               |                                    | - FastTree                     |
 +----------------------------+------------------------------------+--------------------------------+
 | **Laboratory:**            | **Other:**                         | **Languages:**                 |
 +----------------------------+------------------------------------+--------------------------------+
@@ -149,6 +149,7 @@ Skills
 | - PCR amplification        |                                    |                                |
 | - Gel electrophoresis      |                                    |                                |
 +----------------------------+------------------------------------+--------------------------------+
+
 
 
 Download Resume & CV
