@@ -16,15 +16,15 @@ Skills I can offer
 Below are some of the skills I have to offer. You can read more about my research and work experience `here <https://michaelsieler.com/en/latest/Experience/experience.html>`_, and how I've applied these skills to various `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_.
 
 +----------------------------+------------------------------------+--------------------------------+
-| **Programming          :** | **Statistics and Data Analytics:** | **Bioinformatics:**            |
+| **Programming:**           | **Statistics and Data Analytics:** | **Bioinformatics:**            |
 +----------------------------+------------------------------------+--------------------------------+
 | - R                        | - Advanced linear regression       | - 16S sequencing               |
 | - Python                   | - Machine learning                 | - Metagenomics                 |
 | - C# (Unity)               | - Model building and selection     | - DADA2                        |
-| - Git                      |                                    | - Phyloseq                     |
-| - HMTL & CSS               |                                    | - Mothur                       |
+| - Git                      | - Big data query                   | - Phyloseq                     |
+| - HMTL & CSS               | - Data mining                      | - Mothur                       |
 | - C++                      |                                    | - HMMER                        |
-| - UNIX                     |                                    | - FastTree                     |
+| - UNIX/Linux               |                                    | - FastTree                     |
 +----------------------------+------------------------------------+--------------------------------+
 | **Laboratory:**            | **Other:**                         | **Languages:**                 |
 +----------------------------+------------------------------------+--------------------------------+
