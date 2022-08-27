@@ -8,10 +8,10 @@ Experience
 Summary
 -------
 
-* Microbiome scientist with 5+ years of experience developing and applying high-throughput molecular, computational, and statistical research methods
+* Microbiome scientist with 5+ years of experience developing and applying high-throughput molecular, computational, and statistical research methods to analyze 1000's of zebrafish gut microbiome samples
 * Research how multiple environmental factors interact with the gut microbiome to influence host health
-* Robust data analytic skills in multivariate statistics and machine learning to gain insights and drive research experiments forward
-* Demonstrated abilities to collaborate and take leadership in cross-laboratory experiments
+* Robust data analytic skills in multivariate statistics and machine learning propel research experiments forward and gain data-driven insights
+* Demonstrated abilities to collaborate and take leadership in cross-laboratory experiments and extra-curricular projects
 * Experienced in written, oral and visual communication across scientific and public audiences
 
 
@@ -60,7 +60,7 @@ Research
 |                                                                                                                                                                                                   |
 | * Analytic: data management and analysis, multivariate statistics, machine learning                                                                                                               |
 | * Presentation: oral and written communication, pipeline documentation                                                                                                                            |
-| * Project Management: experimental design, coordination and analysis, cross-laboratory collaboration                                                                                              |
+| * Project Management: leadership, experimental design, coordination and analysis, cross-laboratory collaboration                                                                                  |
 | * Other: see more `Skills`_ below                                                                                                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
@@ -99,7 +99,7 @@ Awards, Honors & Fellowships
 |                                                                                                                                                    |                 |
 | **ARCS Scholar**                                                                                                                                   |                 |
 |                                                                                                                                                    |                 |
-| - Recognized for my early significant contributions to scientific research, I was awarded the prestigious ARCS Scholar grant                       |                 |
+| - Recognized for my early significant contributions to scientific research, I was awarded the prestigious ARCS Scholar grant ($18,000)             |                 |
 +----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
 
 
