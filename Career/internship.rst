@@ -6,7 +6,7 @@ Looking for a Summer 2023 Internship
 
 I am interested in participating in a bioinformatics or data science internship for summer 2023 to apply the knowledge I have gained in graduate school to industry problems and expand my skill set.
 
-If your company is interested in hiring a fast learning, highly enthusiastic and self-motivated data scientist to your team, look no further! I'm your guy.
+If your company is interested in hiring a fast learning, highly enthusiastic and self-motivated data-driven scientist to your team, look no further! I'm your guy.
 
 
 
