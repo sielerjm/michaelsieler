@@ -15,13 +15,13 @@ My name is Michael Sieler. I'm a 3rd year PhD Student in the department of Micro
 
 .. image:: Media/images/Experience.png
    :target: Experience/experience.html
-   :width: 30%
+   :width: 32%
 .. image:: Media/images/Projects.png
    :target: Projects/projects.html
-   :width: 30%
+   :width: 32%
 .. image:: Media/images/Blog.png
    :target: https://blog.michaelsieler.com/
-   :width: 30%
+   :width: 32%
 
 ------
 
