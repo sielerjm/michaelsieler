@@ -135,7 +135,7 @@ Skills
 +----------------------------+------------------------------------+--------------------------------+
 | - R                        | - Advanced linear regression       | - 16S sequencing               |
 | - Python                   | - Machine learning                 | - Metagenomics                 |
-| - C# (Unity)               | - Model building and selection     | - DADA2                        |
+| - C# (Unity)               | - Model building and testing       | - DADA2                        |
 | - Git                      | - Big data query                   | - Phyloseq                     |
 | - HMTL & CSS               | - Data mining                      | - Mothur                       |
 | - C++                      |                                    | - HMMER                        |
@@ -145,7 +145,7 @@ Skills
 +----------------------------+------------------------------------+--------------------------------+
 | - Zebrafish husbandry      | - Microsoft Office Suite           | - English (native)             |
 | - Bacterial culturing      | - Adobe Photoshop and Illustrator  | - German (C1, advanced)        |
-| - DNA extraction           | - Blender                          | - Spanish (B1, beginner)       |
+| - DNA extraction           | - Blender                          | - Spanish (beginner)           |
 | - PCR amplification        |                                    |                                |
 | - Gel electrophoresis      |                                    |                                |
 +----------------------------+------------------------------------+--------------------------------+
@@ -155,10 +155,8 @@ Skills
 Download Resume & CV
 --------------------
 
-:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
+:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSielerResume.pdf>`
 
-
-:icon:`fas fa-download` :download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
 
 ------
 

@@ -20,7 +20,7 @@ Below are some of the skills I have to offer. You can read more about my researc
 +----------------------------+------------------------------------+--------------------------------+
 | - R                        | - Advanced linear regression       | - 16S sequencing               |
 | - Python                   | - Machine learning                 | - Metagenomics                 |
-| - C# (Unity)               | - Model building and selection     | - DADA2                        |
+| - C# (Unity)               | - Model building and testing       | - DADA2                        |
 | - Git                      | - Big data query                   | - Phyloseq                     |
 | - HMTL & CSS               | - Data mining                      | - Mothur                       |
 | - C++                      |                                    | - HMMER                        |
@@ -30,7 +30,7 @@ Below are some of the skills I have to offer. You can read more about my researc
 +----------------------------+------------------------------------+--------------------------------+
 | - Zebrafish husbandry      | - Microsoft Office Suite           | - English (native)             |
 | - Bacterial culturing      | - Adobe Photoshop and Illustrator  | - German (C1, advanced)        |
-| - DNA extraction           | - Blender                          | - Spanish (B1, beginner)       |
+| - DNA extraction           | - Blender                          | - Spanish (beginner)           |
 | - PCR amplification        |                                    |                                |
 | - Gel electrophoresis      |                                    |                                |
 +----------------------------+------------------------------------+--------------------------------+
@@ -60,10 +60,7 @@ The best way to reach me is through `email <sielerjm@oregonstate.edu>`_.
 Download Resume & CV
 --------------------
 
-:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
-
-
-:icon:`fas fa-download` :download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
+:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSielerResume.pdf>`
 
 ------
 
