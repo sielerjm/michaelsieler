@@ -9,7 +9,6 @@ Summary
 -------
 
 * Microbiome scientist with 5+ years of experience developing and applying high-throughput molecular, computational, and statistical research methods to analyze 1000's of zebrafish gut microbiome samples
-* Research how multiple environmental factors interact with the gut microbiome to influence host health
 * Robust data analytic skills in multivariate statistics and machine learning propel research experiments forward and gain data-driven insights
 * Demonstrated abilities to collaborate and take leadership in cross-laboratory experiments and extra-curricular projects
 * Experienced in written, oral and visual communication across scientific and public audiences
