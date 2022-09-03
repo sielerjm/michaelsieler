@@ -154,8 +154,9 @@ Skills
 Download Resume & CV
 --------------------
 
-:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSielerResume.pdf>`
+:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
 
+:icon:`fas fa-download` :download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
 
 ------
 
