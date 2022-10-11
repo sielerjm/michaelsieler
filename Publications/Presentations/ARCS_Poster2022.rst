@@ -5,8 +5,8 @@ ARCS Event 2022
 ===============
 
 
-.. image:: Media/Presentations/ARCS_Poster2022.pdf
-   :target: Media/Presentations/ARCS_Poster2022.pdf
+.. image:: Media/presentations/ARCS_Poster2022.pdf
+   :target: Media/presentations/ARCS_Poster2022.pdf
    :width: 90%
 
 
