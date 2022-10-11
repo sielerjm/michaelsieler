@@ -12,8 +12,6 @@ ARCS Event 2022
    :target: https://michaelsieler.com/en/latest/_images/ARCS_Poster2022.png
    :width: 90%
 
-   Click on poster to enlarge
-
 
 
 
