@@ -5,8 +5,8 @@ ARCS Event 2022
 ===============
 
 
-.. image:: Media/presentations/ARCS_Poster2022.png
-   :target: Media/presentations/ARCS_Poster2022.pdf
+.. image:: ../../Media/presentations/ARCS_Poster2022.png
+   :target: ../../Media/presentations/ARCS_Poster2022.pdf
    :width: 90%
 
 
@@ -17,4 +17,3 @@ ARCS Event 2022
 Return to `top`_.
 
 ------
-https://github.com/sielerjm/michaelsieler.git
