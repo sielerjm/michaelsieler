@@ -26,7 +26,7 @@ Sieler Jr., Michael J., et al. (2020). `"The Gut Microbiome Drives Benzo[a]pyren
 Conference Presentations
 ------------------------
 
-**Michael J. Sieler Jr.**, et al. (2022). `"The effects of climate change and infection on the zebrafish gut microbiome." <../Publications/Presentations/ARCS_Poster2022.html>`_ ARCS Foundation, Portland, OR.
+**Michael J. Sieler Jr.**, et al. (2022). `"How do external environmental factors impact the gut microbiome to influence host health?" <../Publications/Presentations/ARCS_Poster2022.html>`_ ARCS Foundation, Portland, OR.
 
 **Michael J. Sieler Jr.**, et al. (2022). "Effects of diet on growth and the microbiome." Aquaculture, San Diego, CA.  :icon:`fas fa-download` :download:`Slides <../Media/presentations/Aquaculture2022_MichaelSieler.pdf>`
 
