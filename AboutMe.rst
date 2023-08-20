@@ -44,7 +44,8 @@ The best way to reach me is through `email <sielerjm@oregonstate.edu>`_.
 
 * `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
 * `GitHub <https://github.com/sielerjm>`_
-* `TikTok <https://www.tiktok.com/@gutmichaelbiome>`
+* `TikTok <https://www.tiktok.com/@gutmichaelbiome>`_
+* `Google Scholar <https://scholar.google.com/citations?authuser=1&user=XqblXigAAAAJ>`_
 
 
 

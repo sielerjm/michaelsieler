@@ -25,7 +25,7 @@ Below are some of the skills I have to offer. You can read more about my researc
 | - HMTL & CSS               | - Data mining                      | - Mothur                       |
 | - C++                      |                                    | - HMMER                        |
 | - UNIX/Linux               |                                    | - Metabolomics                 |
-| - UNIX/Linux               |                                    | - FastTree                     |
+|                            |                                    | - FastTree                     |
 +----------------------------+------------------------------------+--------------------------------+
 | **Laboratory:**            | **Other:**                         | **Languages:**                 |
 +----------------------------+------------------------------------+--------------------------------+

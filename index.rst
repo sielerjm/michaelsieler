@@ -42,6 +42,7 @@ My name is Michael Sieler. I'm a 4th year PhD Candidate in the department of Mic
    GitHub <https://github.com/sielerjm>
    LinkedIn <https://www.linkedin.com/in/mjsielerjr/>
    TikTok <https://www.tiktok.com/@gutmichaelbiome>
+   Scholar <https://scholar.google.com/citations?authuser=1&user=XqblXigAAAAJ>
 
 
 ..
