@@ -7,6 +7,8 @@ Publications
 Peer-Reviewed Publications
 --------------------------
 
+**Michael J. Sieler Jr.** (2023). `"Disentangling the link between zebrafish diet, gut microbiome succession, and *Mycobacterium chelonae* infection" <https://rdcu.be/djX1r>` *anim. microbiome.* :icon: `fas fa-download` :download:`PDF <../Media/publications/Sieler2023_AnimMicrobiome.pdf>`
+
 Joseph A. Szule, ..., **Michael J. Sieler Jr.** (2022). `"Early Enteric and Hepatic Responses to Ingestion of Polystyrene Nanospheres from Water in C57BL/6 Mice." <https://bit.ly/3OyI7oi>`_ *Front. Water.*  :icon:`fas fa-download` :download:`PDF <../Media/publications/Szule2022_FrontWater.pdf>`
 
 David, Maude M., ..., **Michael J. Sieler Jr.** (2022). `"Revealing General Patterns of Microbiomes That Transcend Systems: Potential and Challenges of Deep Transfer Learning." <https://bit.ly/3IXaefQ>`_ *Msystems.*  :icon:`fas fa-download` :download:`PDF <../Media/publications/David2022_mSystems.pdf>`

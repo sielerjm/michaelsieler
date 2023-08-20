@@ -1,7 +1,7 @@
 .. _Top:
 
 
-Looking for a Summer 2023 Internship
+Looking for a Summer 2024 Internship
 ====================================
 
 I am interested in participating in a bioinformatics or data science internship for summer 2023 to apply the knowledge I have gained in graduate school to industry problems and expand my skill set.
@@ -24,6 +24,7 @@ Below are some of the skills I have to offer. You can read more about my researc
 | - Git                      | - Big data query                   | - Phyloseq                     |
 | - HMTL & CSS               | - Data mining                      | - Mothur                       |
 | - C++                      |                                    | - HMMER                        |
+| - UNIX/Linux               |                                    | - Metabolomics                 |
 | - UNIX/Linux               |                                    | - FastTree                     |
 +----------------------------+------------------------------------+--------------------------------+
 | **Laboratory:**            | **Other:**                         | **Languages:**                 |
