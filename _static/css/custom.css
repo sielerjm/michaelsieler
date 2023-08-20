@@ -17,7 +17,7 @@ Lime: #66a61e
 /* Announcement banner */
 
 @import url("sphinx-book-theme.css");
-.header-item.announcement {
+.bd-header-announcement {
 background-color: #d95f02;  /* Orange */
 font-weight: 600;
 }
