@@ -32,8 +32,8 @@ My name is Michael Sieler. I'm a 4th year PhD Candidate in the department of Mic
    Experience/experience
    Publications/publications
    Projects/projects
-   Career/Tutoring
-   Career/Consulting
+   Services/tutoring
+   Services/consulting
 
 
 .. toctree::
