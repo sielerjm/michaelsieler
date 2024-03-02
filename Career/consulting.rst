@@ -1,13 +1,10 @@
 .. _Top:
 
 
-Looking for a Summer 2024 Internship
-====================================
+Consulting
+==========
 
-I am interested in participating in a bioinformatics or data science internship for summer 2023 to apply the knowledge I have gained in graduate school to industry problems and expand my skill set.
-
-If your company is interested in hiring a fast learning, highly enthusiastic and self-motivated data-driven scientist to your team, look no further! I'm your guy.
-
+I offer expert data science and life sciences solutions, specializing in coding, statistics, research, experimental design, and analysis. I have a strong background in microbiome bioinformatics, and I am experienced in working with and integrating large, multi-omic datasets. I am also a skilled communicator and can help you present your findings in a clear and compelling way.
 
 
 Skills I can offer
@@ -25,6 +22,7 @@ Below are some of the skills I have to offer. You can read more about my researc
 | - HMTL & CSS               | - Data mining                      | - Mothur                       |
 | - C++                      |                                    | - HMMER                        |
 | - UNIX/Linux               |                                    | - Metabolomics                 |
+|                            |                                    | - Batch Correction Evaluation  |
 |                            |                                    | - FastTree                     |
 +----------------------------+------------------------------------+--------------------------------+
 | **Laboratory:**            | **Other:**                         | **Languages:**                 |
@@ -35,16 +33,6 @@ Below are some of the skills I have to offer. You can read more about my researc
 | - PCR amplification        |                                    |                                |
 | - Gel electrophoresis      |                                    |                                |
 +----------------------------+------------------------------------+--------------------------------+
-
-
-
-What I'd like to gain experience doing:
----------------------------------------
-
-- Get my hands dirty pulling, cleaning, analyzing, and transforming raw data into insightful findings
-- Working on cross-department teams
-- Working with SQL and NoSQL databases
-- Using AI and machine learning to solve complex problems
 
 
 Contact me!

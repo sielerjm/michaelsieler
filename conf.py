@@ -63,7 +63,7 @@ html_theme_options = {
     "logo_only": True,
     "show_toc_level": 2,
     "announcement": (
-        "🌞 Looking for a summer 2024 internship. <b><a class='reference internal' href = 'https://michaelsieler.com/en/latest/Career/internship.html'>More info here.</a></b> 🌞"
+        "Now offering <b><a class='reference internal' href = 'https://michaelsieler.com/en/latest/Career/tutoring.html'>tutoring</a></b> and <b><a class='reference internal' href = 'https://michaelsieler.com/en/latest/Career/consulting.html'>consulting</a></b>." 
     ),
 
 }
