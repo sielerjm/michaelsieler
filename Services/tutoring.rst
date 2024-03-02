@@ -16,10 +16,10 @@ Hi there, my name is Michael Sieler. I'm a 4th year PhD Candidate in Microbiolog
 - Language learning
 
 
-Skills I can offer
-------------------
+Study Subjects
+--------------
 
-Below are some of the skills I have to offer. You can read more about my research and work experience `here <https://michaelsieler.com/en/latest/Experience/experience.html>`_, and how I've applied these skills to various `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_.
+Below are some of the subjects I offer tutoring services. If you don't see a subject you're interested in, please feel free to reach out to me and ask if I can help you with your specific needs.
 
 +----------------------------+------------------------------------+--------------------------------+
 | **Programming:**           | **Statistics and Data Science:**   | **Bioinformatics:**            |
