@@ -8,6 +8,7 @@ Hi there, my name is Michael Sieler. I'm a 4th year PhD Candidate in Microbiolog
 
 
 **I offer tutoring services for the following subjects:**
+
 * Programming
 * Statistics and data science
 * Bioinformatics
