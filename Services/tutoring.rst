@@ -52,7 +52,7 @@ For tutoring services, I charge a flat rate of $30 per hour. I am happy to offer
 Interested tutoring services?
 -----------------------------
 
-If you're interested in receiving my tutoring services and want to schedule a free consultation, please fill out my `tutoring services inquiry form <https://forms.gle/rrPpNJ4XYDdAehgF8>`_. The form is extensive, but your answers to the questions will help us determine if we'll be a good fit and how we can efficiently achieve your desired goals. I will get back to you as soon as possible!
+If you're interested in receiving my tutoring services and want to schedule a free consultation, please fill out my `tutoring services inquiry form <https://michaelsieler.com/en/latest/Services/tutoring_form.html>`_. The form is extensive, but your answers to the questions will help us determine if we'll be a good fit and how we can efficiently achieve your desired goals. I will get back to you as soon as possible!
 
 
 
