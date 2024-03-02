@@ -4,7 +4,7 @@
 Tutoring
 ========
 
-Hi there, my name is Michael Sieler. I'm a 4th year PhD Candidate in Microbiology. My research focuses on understanding the underlying factors that contribute to gut microbiome stability and resiliency, and its role in human health. I have a strong background in microbiome ecology, statistics, data science, and programming, and I have experience in science communication and language learning. I'm passionate about teaching and helping others learn, and I'm excited to offer my tutoring services to you!
+Hi there, my name is Michael Sieler. I'm a 4th year PhD Candidate in Microbiology. My research investigating the environmental factors that contribute to gut microbiome stability and human health require that I have a strong background in microbiome ecology, statistics, data science, and bioinformatics programming. I also have experience communicating research to scientific and lay audiences. I'm passionate about teaching and helping others learn, and I'm excited to offer my tutoring services to you!
 
 
 **I offer tutoring services for the following subjects:**
@@ -42,6 +42,13 @@ Below are some of the subjects I offer tutoring services. If you don't see a sub
 | - PCR amplification        |                                    |                                |
 | - Gel electrophoresis      |                                    |                                |
 +----------------------------+------------------------------------+--------------------------------+
+
+
+Tutoring Plan
+-------------
+
+When we first meet, we'll discuss a tutoring plan that's uniquely tailored to your specific needs. I'll work with you to develop a plan that will help you achieve your goals in the most efficient way possible. I'll also provide you with resources and materials to help you learn and practice outside of our tutoring sessions.
+
 
 Hourly Rate
 -----------
