@@ -68,6 +68,13 @@ Work
 ----
 
 +------------------------------------------------------------------------------------------------+--------------------+
+| **National Microbiome Data Collaborative - Ambassador**                                        | Mar 2024 - Present |
++------------------------------------------------------------------------------------------------+--------------------+
+| The NMDC ambassador program recognizes and fosters early career scientists' efforts to incorporate inclusion,       |   
+| diversity, equity and accountability (IDEA) principles to promote findable, accessible, interoperable, and reusable |
+| (FAIR) microbiome research data and  workflows.                                                                     |
+|                                                                                                                     |
++------------------------------------------------------------------------------------------------+--------------------+
 | **Pacific Northwest National Laboratory - PhD Bioinformatics Intern**                          | June 2023-Present  |
 +------------------------------------------------------------------------------------------------+--------------------+
 | **Projects:**                                                                                                       |
