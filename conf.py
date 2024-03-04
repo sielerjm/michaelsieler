@@ -69,6 +69,9 @@ html_theme_options = {
 }
 
 
+html_context = {
+   "default_mode": "light" # Set default mode to light for the theme
+}
 
 html_logo = 'Media/logo/MS_Logo_Clr-WhBG-200px.png'
 
