@@ -39,13 +39,13 @@ Research
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Projects:**                                                                                                                                                                                     |
 |                                                                                                                                                                                                   |
+| * Evaluate how multiple and combined                                                                                                                                                                              |
 | * Measure resilience of gut microbiome to chronic exposure of antibiotics (Sieler, *in-development*)                                                                                              |
 | * Assess gut microbiome resiliency to anthropological impacts such as temperature and pathogenic exposure (Sieler, *in-development*)                                                              |
 | * Investigate the joint interaction effects of diet and pathogen exposure on gut microbiome succession (Sieler, *in-prep*)                                                                        |
 | * Measure the effect of nanoplastics on the mouse gut microbial community `(Szule 2022) <https://bit.ly/3OyI7oi>`_                                                                                |
 | * Potential and challenges of deep transfer learning in microbiome science `(David 2021) <https://bit.ly/3IXaefQ>`_                                                                               |
 | * Meta-analysis of zebrafish gut microbiomes phylogeny `(Sharpton 2021) <https://bit.ly/3BaF7LX>`_                                                                                                |
-| * `Microbial Bioinformatics Hub: <https://microbial-bioinformatics-hub.readthedocs.io/en/latest/index.html>`_ information, methods and tools related to analyzing microbiological data            |
 | * The impact of the environmental pollutant Benzo(a)Pyrene on gut microbiomes of juvenile zebrafish  (Stagaman, *in-development*)                                                                 |
 |                                                                                                                                                                                                   |
 | **Tools:**                                                                                                                                                                                        |
