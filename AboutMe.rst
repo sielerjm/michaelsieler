@@ -26,7 +26,7 @@ Throughout my undergrad I conducted research alongside Ph.D. students and post-d
 What do you do now?
 -------------------
 
-I'm in my fourth year of my Ph.D program. My research focuses on how environmental factors (diet, pollutants, pathogens, etc.) impact the gut microbiome to influence host health using the zebrafish model organism.
+I'm in my fourth year of my Ph.D program. My research focuses on how environmental factors (diet, pollutants, pathogens, etc.) impact gut microbiome stability and resilience to influence host health using the zebrafish model organism.
 
 
 What is this site for?
@@ -44,7 +44,6 @@ The best way to reach me is through `email <sielerjm@oregonstate.edu>`_.
 
 * `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
 * `GitHub <https://github.com/sielerjm>`_
-* `TikTok <https://www.tiktok.com/@gutmichaelbiome>`_
 * `Google Scholar <https://scholar.google.com/citations?authuser=1&user=XqblXigAAAAJ>`_
 
 
