@@ -24,12 +24,12 @@ My research interests encompass a broad range of topics within microbiology and 
 Research Highlights
 -------------------
 
-### Gut Microbiome Stability and Host Health
+**Gut Microbiome Stability and Host Health**
 
 - Conducted extensive longitudinal research on how multiple and combined environmental stressors impact gut microbiome stability using the zebrafish model organism.
 - Developed novel system agnostic dynamical microbiome measures (SADMMs) to quantitatively measure temporal microbiome responses to environmental stressors across different microbiome systems and environmental conditions.
 
-### Multi-omic Microbiome Analysis
+**Multi-omic Microbiome Analysis**
 
 - Integrated multi-omic data (16S rRNA gene sequencing, metagenomics, metatranscriptomics, and metabolomics) to provide a comprehensive view of the gut microbiome and its functional potential.
 
