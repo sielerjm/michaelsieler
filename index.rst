@@ -25,6 +25,8 @@ My name is Michael Sieler. I'm a 4th year PhD Candidate in the department of Mic
 
 ------
 
+Here's a brief (5 min) overview of my research:
+
 .. raw:: html
 
    <div style="text-align: center;">
