@@ -17,8 +17,8 @@ Research Interests
 My research interests encompass a broad range of topics within microbiology and gut microbiome studies, including:
 
 - **Microbiome and Host Health**: Understanding the intricate relationships between the gut microbiome and host health, with a particular focus on disease prevention and treatment.
-- **Environmental Impacts on Microbiomes**: Investigating how environmental stressors such as climate change, diet, and pollutants affect microbiome stability and resilience.
-- **Microbial Ecology and Evolution**: Exploring the dynamics of microbial communities and their evolution in response to environmental changes.
+- **Environmental Impacts on Microbiomes**: Investigating how environmental stressors such as climate change, diet, pathogens, and pollutants affect microbiome stability and resilience.
+- **Microbial Ecology**: Exploring the dynamics of microbial communities and their adaption in response to environmental changes.
 - **Bioinformatics and Computational Biology**: Utilizing computational tools and statistical models to analyze microbiome data and develop new methods for microbiome research.
 
 Research Highlights
