@@ -32,8 +32,7 @@ My name is Michael Sieler. I'm a 4th year PhD Candidate in the department of Mic
    Experience/experience
    Publications/publications
    Projects/projects
-   Services/tutoring
-   Services/consulting
+   Career/postdoc
 
 
 .. toctree::
@@ -43,6 +42,13 @@ My name is Michael Sieler. I'm a 4th year PhD Candidate in the department of Mic
    Scholar <https://scholar.google.com/citations?authuser=1&user=XqblXigAAAAJ>
    GitHub <https://github.com/sielerjm>
    LinkedIn <https://www.linkedin.com/in/mjsielerjr/>
+
+
+------
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/YtPdUi3EbFA?si=Q2R8uc8EUQx5ASeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 

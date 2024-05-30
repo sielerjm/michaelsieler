@@ -63,7 +63,8 @@ html_theme_options = {
     "logo_only": True,
     "show_toc_level": 2,
     "announcement": (
-        "📖🎓 Now offering <b><a class='reference internal' href = 'https://michaelsieler.com/en/latest/Services/tutoring.html'>tutoring</a></b> and <b><a class='reference internal' href = 'https://michaelsieler.com/en/latest/Services/consulting.html'>consulting</a></b> services 📝📚"
+        "🔍👨🏻‍🔬 Seeking <b><a class='reference internal' href = 'https://michaelsieler.com/en/latest/Career/postdoc.html'>postdoctoral</a></b> opportunities. 🧑🏻‍💻🧬📊"
+        #"📖🎓 Now offering <b><a class='reference internal' href = 'https://michaelsieler.com/en/latest/Services/tutoring.html'>tutoring</a></b> and <b><a class='reference #internal' href = 'https://michaelsieler.com/en/latest/Services/consulting.html'>consulting</a></b> services 📝📚"
     ),
 }
 

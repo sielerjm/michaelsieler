@@ -9,7 +9,7 @@ Summary
 -------
 
 * Microbiome scientist with 5+ years of experience developing and applying high-throughput molecular, computational, and statistical research methods to analyze 1000's of zebrafish gut microbiome samples
-* Robust data analytic skills in multivariate statistics and machine learning propel research experiments forward and gain data-driven insights
+* Robust data analytic skills in multi-modal microbiome bioinformatics and multivariate statistics to propel research experiments forward and gain data-driven insights
 * Demonstrated abilities to collaborate and take leadership in cross-laboratory experiments and extra-curricular projects
 * Experienced in written, oral and visual communication across scientific and public audiences
 
@@ -79,9 +79,10 @@ Work
 +------------------------------------------------------------------------------------------------+--------------------+
 | **Projects:**                                                                                                       |
 |                                                                                                                     |
-| * Batch Correcting Lipidomics data                                                                                  |
+| * Batch effect correction algorith (BECA) evaluation                                                                |
 |                                                                                                                     |
-|   * Analyzed dilution series experiment to resolve batch effects in lipidomics datasets                             |
+|   * Analyzed dilution series experiment to resolve batch effects in lipidomics datasets, evaluated 12 commonly used |
+|     BECA methods, and developed a novel BECA evaluation model.                                                      |
 |                                                                                                                     |
 |                                                                                                                     |
 | **Tools used:**                                                                                                     |
@@ -108,6 +109,12 @@ Work
 Awards, Honors & Fellowships
 ----------------------------
 
++----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
+| Oregon Department of Fish and Wildlife Fish Health Graduate Research Fellowship                                                                    | 2023-2025       |
+|                                                                                                                                                    |                 |
+| **Fish Health Graduate Research Fellow**                                                                                                           |                 |
+|                                                                                                                                                    |                 |
+| - Recognized for research in Microbiology at Oregon State University, focusing on fish health issues to benefit Oregon's fish populations          |                 |
 +----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
 | `Oregon Museum of Science and Industry <https://omsi.edu/science-communication-services>`_                                                         | 2020-Present    |
 |                                                                                                                                                    |                 |
