@@ -48,8 +48,9 @@ My name is Michael Sieler. I'm a 4th year PhD Candidate in the department of Mic
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/YtPdUi3EbFA?si=Q2R8uc8EUQx5ASeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+   <div style="text-align: center;">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/YtPdUi3EbFA?si=Q2R8uc8EUQx5ASeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+   </div>
 
 
 ..
