@@ -25,11 +25,13 @@ Sharpton, Thomas J., ..., **Michael J. Sieler Jr.** (2021). `"Phylogenetic integ
 Conference Presentations
 ------------------------
 
-**Michael J. Sieler Jr.**, et al. (2024*). "System-agnostic dynamical microbiome measures (SADMMs) offer a novel approach to assess microbiome stability and conduct cross-system analysis" Connecting Microbiome Communities 2024, San Diego, CA. *Upcoming*
+**Michael J. Sieler Jr.**, et al. (2024*). "System-agnostic dynamical microbiome measures (SADMMs) offer a novel approach to assess microbiome stability and conduct cross-system analysis" Connecting Microbiome Communities (CMiC), San Diego, CA. *Upcoming*
 
-**Michael J. Sieler Jr.**, et al. (2024*). "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility" Connecting Microbiome Communities 2024, San Diego, CA. *Upcoming*
+**Michael J. Sieler Jr.**, et al. (2024*). "The human gut microbiome at the intersection of public health and social equity", Oregon Public Health Association, Corvallis, OR. *Upcoming*
 
-**Michael J. Sieler Jr.**, et al. (2024*). "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" Beneficial Microbes Conference 2024, Madison, WI. *Upcoming*
+**Michael J. Sieler Jr.**, et al. (2024*). "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility" Connecting Microbiome Communities, San Diego, CA. *Upcoming*
+
+**Michael J. Sieler Jr.**, et al. (2024*). "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" Beneficial Microbes Conference, Madison, WI. *Upcoming*
 
 **Michael J. Sieler Jr.**, et al. (2024). "ASM professional development series for Oregon microbiologists: Careers in academia vs. industry" American Society for Microbiology, Corvallis, OR.
 
