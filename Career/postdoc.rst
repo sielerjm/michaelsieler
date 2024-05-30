@@ -1,7 +1,7 @@
 .. _Top:
 
-Postdoc
-=======
+❗Postdoc❗
+==========
 
 Seeking postdoctoral positions starting in Summer 2025
 -----------------------------------------------------
