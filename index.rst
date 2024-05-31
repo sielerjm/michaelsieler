@@ -25,16 +25,6 @@ My name is Michael Sieler. I'm a 4th year PhD Candidate in the department of Mic
    Projects/projects
    Career/postdoc
 
-
-.. toctree::
-   :hidden:
-   :Caption: My Links
-
-   Scholar <https://scholar.google.com/citations?authuser=1&user=XqblXigAAAAJ>
-   GitHub <https://github.com/sielerjm>
-   LinkedIn <https://www.linkedin.com/in/mjsielerjr/>
-
-
 ------
 
 Here's a brief (5 min) overview of my research:
@@ -51,3 +41,11 @@ Here's a brief (5 min) overview of my research:
 
 
 ------
+
+.. toctree::
+   :hidden:
+   :Caption: My Links
+
+   Scholar <https://scholar.google.com/citations?authuser=1&user=XqblXigAAAAJ>
+   GitHub <https://github.com/sielerjm>
+   LinkedIn <https://www.linkedin.com/in/mjsielerjr/>
