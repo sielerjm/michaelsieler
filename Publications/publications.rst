@@ -33,8 +33,6 @@ Conference Presentations
 
 **Michael J. Sieler Jr.**, et al. (2024*). "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" Beneficial Microbes Conference, Madison, WI. *Upcoming*
 
-**Michael J. Sieler Jr.**, et al. (2024). "ASM professional development series for Oregon microbiologists: Careers in academia vs. industry" American Society for Microbiology, Corvallis, OR.
-
 **Michael J. Sieler Jr.**, et al. (2023). "Choice of batch correction method is an important factor in small molecule study" Metabolomics Association of North America, Columbia, MO.
 
 **Michael J. Sieler Jr.**, et al. (2022). `"How do external environmental factors impact the gut microbiome to influence host health?" <../Publications/Presentations/ARCS_Poster2022.html>`_ ARCS Foundation, Portland, OR.
@@ -50,6 +48,12 @@ Conference Posters
 **Michael J. Sieler Jr.**, et al. (2019). "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." 2nd Intl. Fish Microbiota Workshop, University of Oregon.
 
 **Michael J. Sieler Jr.**, et al. (2019)."The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." CAS Student Showcase, Oregon State University.
+
+
+Other Presentations
+-------------------
+
+**Michael J. Sieler Jr.**, et al. (2024). "ASM professional development series for Oregon microbiologists: Careers in academia vs. industry" American Society for Microbiology, Corvallis, OR.
 
 
 Other Publications
