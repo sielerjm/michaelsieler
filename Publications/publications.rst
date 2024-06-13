@@ -13,18 +13,17 @@ Peer-Reviewed Publications
    * - |
         "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" (*In-prep*)
 
-        Authors: **Michael J. Sieler Jr.**, ... 
+        **Michael J. Sieler Jr.**, ... 
      - |
         (2024*)
    * - |
-        `"Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection" <https://rdcu.be/djX1r>`_ *anim. microbiome.* (2023)
+        `"Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection." <https://rdcu.be/djX1r>`_ *anim. microbiome.*
 
-        Authors: **Michael J. Sieler Jr.**, ...
+        **Michael J. Sieler Jr.**, ...
      - |
-        Authors: **Michael J. Sieler Jr.**, ...
+        (2023)
+
         :download:`PDF <../Media/publications/Sieler2023_AnimMicrobiome.pdf>`
-   * - `Link 3 <https://example.com>`_
-     - Description for Link 3
 
 
 **Michael J. Sieler Jr.**, ... (2024*). "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" *In-prep* 
