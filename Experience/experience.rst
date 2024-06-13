@@ -39,10 +39,10 @@ Research
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Projects:**                                                                                                                                                                                     |
 |                                                                                                                                                                                                   |
-| * Evaluate how multiple and combined                                                                                                                                                                              |
-| * Measure resilience of gut microbiome to chronic exposure of antibiotics (Sieler, *in-development*)                                                                                              |
-| * Assess gut microbiome resiliency to anthropological impacts such as temperature and pathogenic exposure (Sieler, *in-development*)                                                              |
-| * Investigate the joint interaction effects of diet and pathogen exposure on gut microbiome succession (Sieler, *in-prep*)                                                                        |
+| * Evaluate how multiple and combined                                                                                                                                                              |
+| * Measure resilience of gut microbiome to chronic exposure of antibiotics (Sieler, *in-prep*)                                                                                                     |
+| * Assess gut microbiome resiliency to anthropological impacts such as temperature and pathogenic exposure (Sieler, *in-prep*)                                                                     |
+| * Investigate the joint interaction effects of diet and pathogen exposure on gut microbiome succession (Sieler 2024) <https://bit.ly/sieler2023__ZF_DietInfection>`_                              |
 | * Measure the effect of nanoplastics on the mouse gut microbial community `(Szule 2022) <https://bit.ly/3OyI7oi>`_                                                                                |
 | * Potential and challenges of deep transfer learning in microbiome science `(David 2021) <https://bit.ly/3IXaefQ>`_                                                                               |
 | * Meta-analysis of zebrafish gut microbiomes phylogeny `(Sharpton 2021) <https://bit.ly/3BaF7LX>`_                                                                                                |
@@ -57,7 +57,7 @@ Research
 |                                                                                                                                                                                                   |
 | **Skills:**                                                                                                                                                                                       |
 |                                                                                                                                                                                                   |
-| * Analytic: data management and analysis, multivariate statistics, machine learning                                                                                                               |
+| * Analytic: data management and analysis, multivariate and Bayesian statistics, machine learning                                                                                                  |
 | * Presentation: oral and written communication, pipeline documentation                                                                                                                            |
 | * Project Management: leadership, experimental design, coordination and analysis, cross-laboratory collaboration                                                                                  |
 | * Other: see more `Skills`_ below                                                                                                                                                                 |
@@ -160,11 +160,11 @@ Skills
 +----------------------------+------------------------------------+--------------------------------+
 | **Programming:**           | **Statistics and Data Analytics:** | **Bioinformatics:**            |
 +----------------------------+------------------------------------+--------------------------------+
-| - R                        | - Advanced linear regression       | - 16S sequencing               |
-| - Python                   | - Machine learning                 | - Metagenomics                 |
+| - R                        | - Multivariate regression          | - 16S sequencing               |
+| - Python                   | - Bayesian statistics              | - Metagenomics                 |
 | - C# (Unity)               | - Model building and testing       | - DADA2                        |
-| - Git                      | - Big data query                   | - Phyloseq                     |
-| - HMTL & CSS               | - Data mining                      | - Mothur                       |
+| - Git                      |                                    | - Phyloseq                     |
+| - HMTL & CSS               |                                    | - Mothur                       |
 | - C++                      |                                    | - HMMER                        |
 | - UNIX/Linux               |                                    | - Metabolomics                 |
 |                            |                                    | - FastTree                     |
