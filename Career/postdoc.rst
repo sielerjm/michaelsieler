@@ -31,7 +31,7 @@ Research Highlights
 
 **Multi-omic Microbiome Analysis**
 
-- Integrated multi-omic data (16S rRNA gene sequencing, metagenomics, metatranscriptomics, and metabolomics) to provide a comprehensive view of the gut microbiome and its functional potential.
+- Integrated multivariate multi-omic data (16S rRNA gene sequencing, metagenomics, metatranscriptomics, and metabolomics) to provide a comprehensive view of the gut microbiome and its functional potential.
 
 
 
