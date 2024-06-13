@@ -11,25 +11,25 @@ Peer-Reviewed Publications
    :widths: 90 10
 
    * - |
-       "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" (*In-prep*)
+       "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" (*in-prep*)
 
        - **Michael J. Sieler Jr.**, ... 
      - |
        2024*
    * - |
-       "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" (*In-prep*)
+       "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" (*in-prep*)
 
        - Emilee Lance, **Michael J. Sieler Jr.**, ...
      - |
        2024*
    * - |
-       "Analyzing batch effect correction algorithms for small molecule data using ground truth from a designed experiment" (*In-prep*)
+       "Analyzing batch effect correction algorithms for small molecule data using ground truth from a designed experiment" (*in-prep*)
 
        - Damon T. Leech, **Michael J. Sieler Jr.**, ...
      - |
        2024*
    * - |
-       "Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" *In-review*
+       "Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" *in-review*
 
        - Austin J. Hammer, ..., **Michael J. Sieler Jr.**, ...
      - |
@@ -82,11 +82,13 @@ Conference Presentations
 ------------------------
 
    * - |
-       title
+       "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility" Connecting Microbiome Communities
 
-       - authors
+       - **Michael J. Sieler Jr.**, et al.
      - |
-       year
+       2024*
+
+       San Diego, CA
    * - |
        title
 
