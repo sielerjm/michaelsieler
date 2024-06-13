@@ -9,6 +9,8 @@ Peer-Reviewed Publications
 
 **Michael J. Sieler Jr.**, ... (2024*). "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" *In-prep* 
 
+Emilee Lance, **Michael J. Sieler Jr.**, ... (2024*). "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" *In-prep* 
+
 Damon T. Leach, **Michael J. Sieler Jr.**, ... (2024*). "Analyzing batch effect correction algorithms for small molecule data using ground truth from a designed experiment" *In-prep*
 
 Austin J. Hammer, ..., **Michael J. Sieler Jr.**, ... (2024*). "Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" *In-review*
@@ -25,10 +27,6 @@ Sharpton, Thomas J., ..., **Michael J. Sieler Jr.** (2021). `"Phylogenetic integ
 Conference Presentations
 ------------------------
 
-**Michael J. Sieler Jr.**, et al. (2024*). "System-agnostic dynamical microbiome measures (SADMMs) offer a novel approach to assess microbiome stability and conduct cross-system analysis" Connecting Microbiome Communities (CMiC), San Diego, CA. *Upcoming*
-
-**Michael J. Sieler Jr.**, et al. (2024*). "The human gut microbiome at the intersection of public health and social equity", Oregon Public Health Association, Corvallis, OR. *Upcoming*
-
 **Michael J. Sieler Jr.**, et al. (2024*). "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility" Connecting Microbiome Communities, San Diego, CA. *Upcoming*
 
 **Michael J. Sieler Jr.**, et al. (2024*). "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" Beneficial Microbes Conference, Madison, WI. *Upcoming*
@@ -44,6 +42,8 @@ Conference Presentations
 
 Conference Posters
 ------------------
+
+**Michael J. Sieler Jr.**, et al. (2024*). "The human gut microbiome at the intersection of public health and social equity", Oregon Public Health Association, Corvallis, OR. *Upcoming*
 
 **Michael J. Sieler Jr.**, et al. (2019). "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." 2nd Intl. Fish Microbiota Workshop, University of Oregon.
 
