@@ -7,30 +7,42 @@ Publications
 Peer-Reviewed Publications
 --------------------------
 
-.. list-table:: Table with Hyperlinks
+.. list-table::
    :widths: 80 20
 
-   * - |
+    * - |
         "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" (*In-prep*)
 
         **Michael J. Sieler Jr.**, ... 
-     - |
+      - |
         (2024*)
-   * - |
-        `"Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection." <https://rdcu.be/djX1r>`_ *anim. microbiome.*
+    * - |
+        "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" (*In-prep*) 
+        
+        Emilee Lance, **Michael J. Sieler Jr.**, ...
+      - |
+        (2024*)
+    * - |
+        "Analyzing batch effect correction algorithms for small molecule data using ground truth from a designed experiment" (*In-prep*) 
+        
+        Damon T. Leech, **Michael J. Sieler Jr.**, ...
+      - |
+        (2024*)
+    * - |
+        `"Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection." <https://rdcu.be/djX1r>`_ *anim. microbiome.* :download:`PDF <../Media/publications/Sieler2023_AnimMicrobiome.pdf>`
 
         **Michael J. Sieler Jr.**, ...
-     - |
+      - |
         (2023)
 
-        :download:`PDF <../Media/publications/Sieler2023_AnimMicrobiome.pdf>`
+    
 
 
-**Michael J. Sieler Jr.**, ... (2024*). "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" *In-prep* 
+**Michael J. Sieler Jr.**, ... (2024*). "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" (*In-prep*) 
 
-Emilee Lance, **Michael J. Sieler Jr.**, ... (2024*). "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" *In-prep* 
+Emilee Lance, **Michael J. Sieler Jr.**, ... (2024*). "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" (*In-prep*) 
 
-Damon T. Leach, **Michael J. Sieler Jr.**, ... (2024*). "Analyzing batch effect correction algorithms for small molecule data using ground truth from a designed experiment" *In-prep*
+Damon T. Leach, **Michael J. Sieler Jr.**, ... (2024*). "Analyzing batch effect correction algorithms for small molecule data using ground truth from a designed experiment" (*In-prep*)
 
 Austin J. Hammer, ..., **Michael J. Sieler Jr.**, ... (2024*). "Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" *In-review*
 
