@@ -34,8 +34,24 @@ Peer-Reviewed Publications
        - **Michael J. Sieler Jr.**, ...
      - |
        2023
+   * - |
+       "Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" *In-review*
 
-    
+       - Austin J. Hammer, ..., **Michael J. Sieler Jr.**
+     - |
+       2024*
+   * - |
+       title
+
+       - authors
+     - |
+       year
+   * - |
+       title
+
+       - authors
+     - |
+       year
 
 
 **Michael J. Sieler Jr.**, ... (2024*). "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" (*In-prep*) 
