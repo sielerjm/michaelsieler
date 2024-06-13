@@ -81,8 +81,11 @@ Sharpton, Thomas J., ..., **Michael J. Sieler Jr.** (2021). `"Phylogenetic integ
 Conference Presentations
 ------------------------
 
+.. list-table::
+   :widths: 80 20
+
    * - |
-       "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility" Connecting Microbiome Communities
+       "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." Connecting Microbiome Communities
 
        - **Michael J. Sieler Jr.**, et al.
      - |
@@ -90,35 +93,35 @@ Conference Presentations
 
        San Diego, CA
    * - |
-       title
+       "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish." Beneficial Microbes Conference
 
-       - authors
+       - **Michael J. Sieler Jr.**, et al.
      - |
-       year
+       2024*
+   * - |
+       "Choice of batch correction method is an important factor in small molecule study." Metabolomics Association of North America
+
+       - **Michael J. Sieler Jr.**, et al.
+     - |
+       2023
    * - |
        title
 
-       - authors
+       - **Michael J. Sieler Jr.**, et al.
      - |
-       year
+       2022
    * - |
        title
 
-       - authors
+       - **Michael J. Sieler Jr.**, et al.
      - |
-       year
+       2022
    * - |
        title
 
-       - authors
+       - **Michael J. Sieler Jr.**, et al.
      - |
-       year
-   * - |
-       title
-
-       - authors
-     - |
-       year
+       2021
    * - |
        title
 
