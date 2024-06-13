@@ -8,7 +8,7 @@ Peer-Reviewed Publications
 --------------------------
 
 .. list-table::
-   :widths: 80 20
+   :widths: 90 10
 
    * - |
        "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" (*In-prep*)
@@ -29,29 +29,36 @@ Peer-Reviewed Publications
      - |
        2024*
    * - |
+       "Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" *In-review*
+
+       - Austin J. Hammer, ..., **Michael J. Sieler Jr.**, ...
+     - |
+       2024*
+   * - |
        `"Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection." <https://rdcu.be/djX1r>`_ *anim. microbiome.* :download:`PDF <../Media/publications/Sieler2023_AnimMicrobiome.pdf>`
 
        - **Michael J. Sieler Jr.**, ...
      - |
        2023
    * - |
-       "Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" *In-review*
+       `"Early Enteric and Hepatic Responses to Ingestion of Polystyrene Nanospheres from Water in C57BL/6 Mice." <https://bit.ly/3OyI7oi>`_ *Front. Water.* :download:`PDF <../Media/publications/Szule2022_FrontWater.pdf>`
 
-       - Austin J. Hammer, ..., **Michael J. Sieler Jr.**
+       - Joseph A. Szule, ..., **Michael J. Sieler Jr.**, ...
      - |
-       2024*
+       2022
    * - |
-       title
+       `"Revealing General Patterns of Microbiomes That Transcend Systems: Potential and Challenges of Deep Transfer Learning." <https://bit.ly/3IXaefQ>`_ *Msystems.*  :icon:`fas fa-download` :download:`PDF <../Media/publications/David2022_mSystems.pdf>`
 
-       - authors
+       - David, Maude M., ..., **Michael J. Sieler Jr.**, ...
      - |
-       year
+       2022
    * - |
-       title
+       `"Phylogenetic integration reveals the zebrafish core microbiome and its sensitivity to environmental exposures." <https://bit.ly/3BaF7LX>`_ *Toxics.*  :icon:`fas fa-download` :download:`PDF <../Media/publications/Sharpton2021_Toxics.pdf>`
 
-       - authors
+       - Sharpton, Thomas J., ..., **Michael J. Sieler Jr.**, ...
      - |
-       year
+       2021
+
 
 
 **Michael J. Sieler Jr.**, ... (2024*). "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" (*In-prep*) 
@@ -73,6 +80,50 @@ Sharpton, Thomas J., ..., **Michael J. Sieler Jr.** (2021). `"Phylogenetic integ
 
 Conference Presentations
 ------------------------
+
+   * - |
+       title
+
+       - authors
+     - |
+       year
+   * - |
+       title
+
+       - authors
+     - |
+       year
+   * - |
+       title
+
+       - authors
+     - |
+       year
+   * - |
+       title
+
+       - authors
+     - |
+       year
+   * - |
+       title
+
+       - authors
+     - |
+       year
+   * - |
+       title
+
+       - authors
+     - |
+       year
+   * - |
+       title
+
+       - authors
+     - |
+       year
+
 
 **Michael J. Sieler Jr.**, et al. (2024*). "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility" Connecting Microbiome Communities, San Diego, CA. *Upcoming*
 
