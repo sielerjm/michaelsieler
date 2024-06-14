@@ -98,30 +98,40 @@ Conference Presentations
        - **Michael J. Sieler Jr.**, et al.
      - |
        2024*
+
+       Madison, WI
    * - |
        "Choice of batch correction method is an important factor in small molecule study." Metabolomics Association of North America
 
        - **Michael J. Sieler Jr.**, et al.
      - |
        2023
+
+       Columbia, MO
    * - |
-       title
+       `"How do external environmental factors impact the gut microbiome to influence host health?" <../Publications/Presentations/ARCS_Poster2022.html>`_ ARCS Foundation
 
        - **Michael J. Sieler Jr.**, et al.
      - |
        2022
+
+       Portland, OR
    * - |
-       title
+       "Effects of diet on growth and the microbiome." Aquaculture. :download:`Slides <../Media/presentations/Aquaculture2022_MichaelSieler.pdf>`
 
        - **Michael J. Sieler Jr.**, et al.
      - |
        2022
+
+       San Diego, CA
    * - |
-       title
+       "Zebrafish laboratory diets differentially alter gut microbiota composition." 3rd Intl. Fish Microbiota Workshop, Chinese Academy of Agriculture Sciences. :download:`Slides <../Media/presentations/IFMW2021_MichaelSieler.pdf>`
 
        - **Michael J. Sieler Jr.**, et al.
      - |
        2021
+
+       Beijing, China (**virtual**)
    * - |
        title
 
