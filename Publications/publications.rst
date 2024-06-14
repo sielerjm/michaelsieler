@@ -26,7 +26,7 @@ Peer-Reviewed Publications
 
        - Austin J. Hammer, ..., **Michael J. Sieler Jr.**, ...
      - 2024*
-   * - `"Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection." <https://rdcu.be/djX1r>`_ *anim. microbiome.* :download:`PDF <../Media/publications/Sieler2023_AnimMicrobiome.pdf>`
+   * - `"Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection." <https://rdcu.be/djX1r>`_ *Anim. Microbiome.* :download:`PDF <../Media/publications/Sieler2023_AnimMicrobiome.pdf>`
 
        - **Michael J. Sieler Jr.**, ...
      - 2023
