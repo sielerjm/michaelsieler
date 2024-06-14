@@ -47,35 +47,17 @@ Peer-Reviewed Publications
      - |
        2022
    * - |
-       `"Revealing General Patterns of Microbiomes That Transcend Systems: Potential and Challenges of Deep Transfer Learning." <https://bit.ly/3IXaefQ>`_ *Msystems.*  :icon:`fas fa-download` :download:`PDF <../Media/publications/David2022_mSystems.pdf>`
+       `"Revealing General Patterns of Microbiomes That Transcend Systems: Potential and Challenges of Deep Transfer Learning." <https://bit.ly/3IXaefQ>`_ *Msystems.* :download:`PDF <../Media/publications/David2022_mSystems.pdf>`
 
        - David, Maude M., ..., **Michael J. Sieler Jr.**, ...
      - |
        2022
    * - |
-       `"Phylogenetic integration reveals the zebrafish core microbiome and its sensitivity to environmental exposures." <https://bit.ly/3BaF7LX>`_ *Toxics.*  :icon:`fas fa-download` :download:`PDF <../Media/publications/Sharpton2021_Toxics.pdf>`
+       `"Phylogenetic integration reveals the zebrafish core microbiome and its sensitivity to environmental exposures." <https://bit.ly/3BaF7LX>`_ *Toxics.* :download:`PDF <../Media/publications/Sharpton2021_Toxics.pdf>`
 
        - Sharpton, Thomas J., ..., **Michael J. Sieler Jr.**, ...
      - |
        2021
-
-
-
-**Michael J. Sieler Jr.**, ... (2024*). "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" (*In-prep*) 
-
-Emilee Lance, **Michael J. Sieler Jr.**, ... (2024*). "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" (*In-prep*) 
-
-Damon T. Leach, **Michael J. Sieler Jr.**, ... (2024*). "Analyzing batch effect correction algorithms for small molecule data using ground truth from a designed experiment" (*In-prep*)
-
-Austin J. Hammer, ..., **Michael J. Sieler Jr.**, ... (2024*). "Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" *In-review*
-
-**Michael J. Sieler Jr.**, ... (2023). `"Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection" <https://rdcu.be/djX1r>`_ *anim. microbiome.* :icon:`fas fa-download` :download:`PDF <../Media/publications/Sieler2023_AnimMicrobiome.pdf>`
-
-Joseph A. Szule, ..., **Michael J. Sieler Jr.** (2022). `"Early Enteric and Hepatic Responses to Ingestion of Polystyrene Nanospheres from Water in C57BL/6 Mice." <https://bit.ly/3OyI7oi>`_ *Front. Water.*  :icon:`fas fa-download` :download:`PDF <../Media/publications/Szule2022_FrontWater.pdf>`
-
-David, Maude M., ..., **Michael J. Sieler Jr.** (2022). `"Revealing General Patterns of Microbiomes That Transcend Systems: Potential and Challenges of Deep Transfer Learning." <https://bit.ly/3IXaefQ>`_ *Msystems.*  :icon:`fas fa-download` :download:`PDF <../Media/publications/David2022_mSystems.pdf>`
-
-Sharpton, Thomas J., ..., **Michael J. Sieler Jr.** (2021). `"Phylogenetic integration reveals the zebrafish core microbiome and its sensitivity to environmental exposures." <https://bit.ly/3BaF7LX>`_ *Toxics.*  :icon:`fas fa-download` :download:`PDF <../Media/publications/Sharpton2021_Toxics.pdf>`
 
 
 Conference Presentations
@@ -123,7 +105,7 @@ Conference Presentations
      - |
        2021
 
-       Beijing, China (**virtual**)
+       Beijing, China (*virtual*)
 
 
 Conference Posters
@@ -160,13 +142,6 @@ Conference Posters
        2019
 
 
-**Michael J. Sieler Jr.**, et al. (2024*). "The human gut microbiome at the intersection of public health and social equity", Oregon Public Health Association, Corvallis, OR. *Upcoming*
-
-**Michael J. Sieler Jr.**, et al. (2019). "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." 2nd Intl. Fish Microbiota Workshop, University of Oregon.
-
-**Michael J. Sieler Jr.**, et al. (2019)."The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." CAS Student Showcase, Oregon State University.
-
-
 Other Presentations
 -------------------
 
@@ -181,8 +156,6 @@ Other Presentations
        2024*
 
        Corvallis, OR
-
-**Michael J. Sieler Jr.**, et al. (2024). "ASM professional development series for Oregon microbiologists: Careers in academia vs. industry" American Society for Microbiology, Corvallis, OR.
 
 
 Other Publications
@@ -200,8 +173,6 @@ Undergraduate Thesis
        - **Michael J. Sieler Jr.**, ... 
      - |
        2020
-
-Sieler Jr., Michael J., et al. (2020). `"The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." <https://bit.ly/3v3VndE>`_ Oregon State University.  :icon:`fas fa-download` :download:`PDF <../Media/publications/Sieler2020_OSUthesis.pdf>`
 
 
 ------
