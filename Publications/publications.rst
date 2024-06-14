@@ -11,42 +11,34 @@ Peer-Reviewed Publications
    :widths: 90 10
 
    * - "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" (*in-prep*)
-
        - **Michael J. Sieler Jr.**, ... 
      - |
        2024*
    * - "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" (*in-prep*)
-
        - Emilee Lance, **Michael J. Sieler Jr.**, ...
      - |
        2024*
    * - "Analyzing batch effect correction algorithms for small molecule data using ground truth from a designed experiment" (*in-prep*)
-
        - Damon T. Leech, **Michael J. Sieler Jr.**, ...
      - |
        2024*
    * - "Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" *in-review*
-
        - Austin J. Hammer, ..., **Michael J. Sieler Jr.**, ...
      - |
        2024*
    * - `"Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection." <https://rdcu.be/djX1r>`_ *anim. microbiome.* :download:`PDF <../Media/publications/Sieler2023_AnimMicrobiome.pdf>`
-
        - **Michael J. Sieler Jr.**, ...
      - |
        2023
    * - `"Early Enteric and Hepatic Responses to Ingestion of Polystyrene Nanospheres from Water in C57BL/6 Mice." <https://bit.ly/3OyI7oi>`_ *Front. Water.* :download:`PDF <../Media/publications/Szule2022_FrontWater.pdf>`
-
        - Joseph A. Szule, ..., **Michael J. Sieler Jr.**, ...
      - |
        2022
    * - `"Revealing General Patterns of Microbiomes That Transcend Systems: Potential and Challenges of Deep Transfer Learning." <https://bit.ly/3IXaefQ>`_ *Msystems.* :download:`PDF <../Media/publications/David2022_mSystems.pdf>`
-
        - David, Maude M., ..., **Michael J. Sieler Jr.**, ...
      - |
        2022
    * - `"Phylogenetic integration reveals the zebrafish core microbiome and its sensitivity to environmental exposures." <https://bit.ly/3BaF7LX>`_ *Toxics.* :download:`PDF <../Media/publications/Sharpton2021_Toxics.pdf>`
-
        - Sharpton, Thomas J., ..., **Michael J. Sieler Jr.**, ...
      - |
        2021
