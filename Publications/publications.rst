@@ -50,44 +50,34 @@ Conference Presentations
 .. list-table::
    :widths: 80 20
 
-   * - |
-       "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." *Connecting Microbiome Communities.*
+   * - "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." *Connecting Microbiome Communities.*
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - |
-       2024*
+     - 2024*
 
        San Diego, CA
-   * - |
-       "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish." *Beneficial Microbes Conference.*
+   * - "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish." *Beneficial Microbes Conference.*
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - |
-       2024*
+     - 2024*
 
        Madison, WI
-   * - |
-       "Choice of batch correction method is an important factor in small molecule study." *Metabolomics Association of North America.*
+   * - "Choice of batch correction method is an important factor in small molecule study." *Metabolomics Association of North America.*
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - |
-       2023
+     - 2023
 
        Columbia, MO
-   * - |
-       "Effects of diet on growth and the microbiome." *Aquaculture.* :download:`Slides <../Media/presentations/Aquaculture2022_MichaelSieler.pdf>`
+   * - "Effects of diet on growth and the microbiome." *Aquaculture.* :download:`Slides <../Media/presentations/Aquaculture2022_MichaelSieler.pdf>`
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - |
-       2022
+     - 2022
 
        San Diego, CA
-   * - |
-       "Zebrafish laboratory diets differentially alter gut microbiota composition." *3rd Intl. Fish Microbiota Workshop, Chinese Academy of Agriculture Sciences.* :download:`Slides <../Media/presentations/IFMW2021_MichaelSieler.pdf>`
+   * - "Zebrafish laboratory diets differentially alter gut microbiota composition." *3rd Intl. Fish Microbiota Workshop, Chinese Academy of Agriculture Sciences.* :download:`Slides <../Media/presentations/IFMW2021_MichaelSieler.pdf>`
 
        - **Michael J. Sieler Jr.**, et al.
-     - |
-       2021
+     - 2021
 
        Beijing, China (*virtual*)
 
