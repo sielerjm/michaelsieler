@@ -92,7 +92,7 @@ Conference Posters
 
        - **Michael J. Sieler Jr.**, *et al.*
      - 2024*
-   * - `"How do external environmental factors impact the gut microbiome to influence host health?" <../Publications/Presentations/ARCS_Poster2022.html>`_ ARCS Foundation
+   * - "How do external environmental factors impact the gut microbiome to influence host health?" *ARCS Foundation* :download:`Poster <../Publications/Presentations/ARCS_Poster2022.html>`
 
        - **Michael J. Sieler Jr.**, *et al.*
      - 2022
