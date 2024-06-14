@@ -88,32 +88,24 @@ Conference Posters
 .. list-table::
    :widths: 80 20
 
-   * - |
-       "The human gut microbiome at the intersection of public health and social equity". *Oregon Public Health Association*
+   * - "The human gut microbiome at the intersection of public health and social equity". *Oregon Public Health Association*
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - |
-       2024*
-   * - |
-       `"How do external environmental factors impact the gut microbiome to influence host health?" <../Publications/Presentations/ARCS_Poster2022.html>`_ ARCS Foundation
+     - 2024*
+   * - `"How do external environmental factors impact the gut microbiome to influence host health?" <../Publications/Presentations/ARCS_Poster2022.html>`_ ARCS Foundation
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - |
-       2022
+     - 2022
 
        Portland, OR
-   * - |
-       "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." *2nd Intl. Fish Microbiota Workshop, University of Oregon.*
+   * - "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." *2nd Intl. Fish Microbiota Workshop, University of Oregon.*
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - |
-       2019
-   * - |
-       "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." *CAS Student Showcase, Oregon State University.*
+     - 2019
+   * - "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." *CAS Student Showcase, Oregon State University.*
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - |
-       2019
+     - 2019
 
 
 Other Presentations
@@ -122,12 +114,10 @@ Other Presentations
 .. list-table::
    :widths: 80 20
 
-   * - |
-       "ASM professional development series for Oregon microbiologists: Careers in academia vs. industry" *American Society for Microbiology.*
+   * - "ASM professional development series for Oregon microbiologists: Careers in academia vs. industry" *American Society for Microbiology.*
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - |
-       2024*
+     - 2024*
 
        Corvallis, OR
 
@@ -141,12 +131,10 @@ Undergraduate Thesis
 .. list-table::
    :widths: 90 10
 
-   * - |
-       `"The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." <https://bit.ly/3v3VndE>`_ *Oregon State University.* :download:`PDF <../Media/publications/Sieler2020_OSUthesis.pdf>`
+   * - `"The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." <https://bit.ly/3v3VndE>`_ *Oregon State University.* :download:`PDF <../Media/publications/Sieler2020_OSUthesis.pdf>`
 
        - **Michael J. Sieler Jr.**, ... 
-     - |
-       2020
+     - 2020
 
 
 ------
