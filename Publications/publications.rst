@@ -22,7 +22,7 @@ Peer-Reviewed Publications
 
        - Damon T. Leech, **Michael J. Sieler Jr.**, ...
      - 2024*
-   * - "Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" *in-review*
+   * - "Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" (*in-review*)
 
        - Austin J. Hammer, ..., **Michael J. Sieler Jr.**, ...
      - 2024*
