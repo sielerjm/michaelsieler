@@ -124,12 +124,6 @@ Conference Presentations
        2021
 
        Beijing, China (**virtual**)
-   * - |
-       title
-
-       - authors
-     - |
-       year
 
 
 Conference Posters
@@ -144,7 +138,7 @@ Conference Posters
        - **Michael J. Sieler Jr.**, *et al.*
      - |
        year
-* - |
+   * - |
        `"How do external environmental factors impact the gut microbiome to influence host health?" <../Publications/Presentations/ARCS_Poster2022.html>`_ ARCS Foundation
 
        - **Michael J. Sieler Jr.**, *et al.*
@@ -176,6 +170,18 @@ Conference Posters
 Other Presentations
 -------------------
 
+.. list-table::
+   :widths: 80 20
+
+   * - |
+       "ASM professional development series for Oregon microbiologists: Careers in academia vs. industry" *American Society for Microbiology.*
+
+       - **Michael J. Sieler Jr.**, *et al.*
+     - |
+       2024*
+
+       Corvallis, OR
+
 **Michael J. Sieler Jr.**, et al. (2024). "ASM professional development series for Oregon microbiologists: Careers in academia vs. industry" American Society for Microbiology, Corvallis, OR.
 
 
@@ -186,14 +192,14 @@ Undergraduate Thesis
 """"""""""""""""""""
 
 .. list-table::
-   :widths: 80 20
+   :widths: 90 10
 
    * - |
-       title
+       `"The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." <https://bit.ly/3v3VndE>`_ *Oregon State University.* :download:`PDF <../Media/publications/Sieler2020_OSUthesis.pdf>`
 
-       - authors
+       - **Michael J. Sieler Jr.**, ... 
      - |
-       year
+       2020
 
 Sieler Jr., Michael J., et al. (2020). `"The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." <https://bit.ly/3v3VndE>`_ Oregon State University.  :icon:`fas fa-download` :download:`PDF <../Media/publications/Sieler2020_OSUthesis.pdf>`
 
