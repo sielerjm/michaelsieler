@@ -85,47 +85,39 @@ Conference Presentations
    :widths: 80 20
 
    * - |
-       "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." Connecting Microbiome Communities
+       "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." *Connecting Microbiome Communities.*
 
-       - **Michael J. Sieler Jr.**, et al.
+       - **Michael J. Sieler Jr.**, *et al.*
      - |
        2024*
 
        San Diego, CA
    * - |
-       "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish." Beneficial Microbes Conference
+       "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish." *Beneficial Microbes Conference.*
 
-       - **Michael J. Sieler Jr.**, et al.
+       - **Michael J. Sieler Jr.**, *et al.*
      - |
        2024*
 
        Madison, WI
    * - |
-       "Choice of batch correction method is an important factor in small molecule study." Metabolomics Association of North America
+       "Choice of batch correction method is an important factor in small molecule study." *Metabolomics Association of North America.*
 
-       - **Michael J. Sieler Jr.**, et al.
+       - **Michael J. Sieler Jr.**, *et al.*
      - |
        2023
 
        Columbia, MO
    * - |
-       `"How do external environmental factors impact the gut microbiome to influence host health?" <../Publications/Presentations/ARCS_Poster2022.html>`_ ARCS Foundation
+       "Effects of diet on growth and the microbiome." *Aquaculture.* :download:`Slides <../Media/presentations/Aquaculture2022_MichaelSieler.pdf>`
 
-       - **Michael J. Sieler Jr.**, et al.
-     - |
-       2022
-
-       Portland, OR
-   * - |
-       "Effects of diet on growth and the microbiome." Aquaculture. :download:`Slides <../Media/presentations/Aquaculture2022_MichaelSieler.pdf>`
-
-       - **Michael J. Sieler Jr.**, et al.
+       - **Michael J. Sieler Jr.**, *et al.*
      - |
        2022
 
        San Diego, CA
    * - |
-       "Zebrafish laboratory diets differentially alter gut microbiota composition." 3rd Intl. Fish Microbiota Workshop, Chinese Academy of Agriculture Sciences. :download:`Slides <../Media/presentations/IFMW2021_MichaelSieler.pdf>`
+       "Zebrafish laboratory diets differentially alter gut microbiota composition." *3rd Intl. Fish Microbiota Workshop, Chinese Academy of Agriculture Sciences.* :download:`Slides <../Media/presentations/IFMW2021_MichaelSieler.pdf>`
 
        - **Michael J. Sieler Jr.**, et al.
      - |
@@ -140,21 +132,39 @@ Conference Presentations
        year
 
 
-**Michael J. Sieler Jr.**, et al. (2024*). "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility" Connecting Microbiome Communities, San Diego, CA. *Upcoming*
-
-**Michael J. Sieler Jr.**, et al. (2024*). "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" Beneficial Microbes Conference, Madison, WI. *Upcoming*
-
-**Michael J. Sieler Jr.**, et al. (2023). "Choice of batch correction method is an important factor in small molecule study" Metabolomics Association of North America, Columbia, MO.
-
-**Michael J. Sieler Jr.**, et al. (2022). `"How do external environmental factors impact the gut microbiome to influence host health?" <../Publications/Presentations/ARCS_Poster2022.html>`_ ARCS Foundation, Portland, OR.
-
-**Michael J. Sieler Jr.**, et al. (2022). "Effects of diet on growth and the microbiome." Aquaculture, San Diego, CA.  :icon:`fas fa-download` :download:`Slides <../Media/presentations/Aquaculture2022_MichaelSieler.pdf>`
-
-**Michael J. Sieler Jr.**, et al. (2021). "Zebrafish laboratory diets differentially alter gut microbiota composition." 3rd Intl. Fish Microbiota Workshop, Chinese Academy of Agriculture Sciences.  :icon:`fas fa-download` :download:`Slides <../Media/presentations/IFMW2021_MichaelSieler.pdf>`
-
-
 Conference Posters
 ------------------
+
+.. list-table::
+   :widths: 80 20
+
+   * - |
+       "The human gut microbiome at the intersection of public health and social equity". *Oregon Public Health Association*
+
+       - **Michael J. Sieler Jr.**, *et al.*
+     - |
+       year
+* - |
+       `"How do external environmental factors impact the gut microbiome to influence host health?" <../Publications/Presentations/ARCS_Poster2022.html>`_ ARCS Foundation
+
+       - **Michael J. Sieler Jr.**, *et al.*
+     - |
+       2022
+
+       Portland, OR
+   * - |
+       "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." *2nd Intl. Fish Microbiota Workshop, University of Oregon.*
+
+       - **Michael J. Sieler Jr.**, *et al.*
+     - |
+       2019
+   * - |
+       "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." *CAS Student Showcase, Oregon State University.*
+
+       - **Michael J. Sieler Jr.**, *et al.*
+     - |
+       2019
+
 
 **Michael J. Sieler Jr.**, et al. (2024*). "The human gut microbiome at the intersection of public health and social equity", Oregon Public Health Association, Corvallis, OR. *Upcoming*
 
@@ -174,6 +184,16 @@ Other Publications
 
 Undergraduate Thesis
 """"""""""""""""""""
+
+.. list-table::
+   :widths: 80 20
+
+   * - |
+       title
+
+       - authors
+     - |
+       year
 
 Sieler Jr., Michael J., et al. (2020). `"The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." <https://bit.ly/3v3VndE>`_ Oregon State University.  :icon:`fas fa-download` :download:`PDF <../Media/publications/Sieler2020_OSUthesis.pdf>`
 
