@@ -11,7 +11,7 @@ Welcome!
 
 ------
 
-My name is Michael Sieler. I'm a 4th year PhD Candidate in the department of Microbiology at Oregon State University. The goal of this site is to provide a central space to share my `research <https://michaelsieler.com/en/latest/Publications/publications.html>`_ and `work <https://michaelsieler.com/en/latest/Experience/experience.html>`_ experience, and `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_. Have a look around and don't hesitate to `reach out <sielerjm@oregonstate.edu>`_ to me if you'd like to collaborate on a project!
+My name is Michael Sieler. I'm a 5th year PhD Candidate in the Sharpton Lab in the department of Microbiology at Oregon State University. The goal of this site is to provide a central space to share my `research <https://michaelsieler.com/en/latest/Publications/publications.html>`_ and `work <https://michaelsieler.com/en/latest/Experience/experience.html>`_ experience, and `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_. Have a look around and don't hesitate to `reach out <sielerjm@oregonstate.edu>`_ to me if you'd like to collaborate on a project!
 
 ------
 
@@ -40,6 +40,13 @@ Here's a brief (5 min) overview of my research:
 ..
    _More info on styling sphinx: https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/structure.html
 
+
+Resume & CV
+-----------
+
+:download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
+
+:download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
 
 ------
 
