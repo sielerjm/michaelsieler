@@ -4,7 +4,7 @@
 Projects
 ========
 
-Below are some extra-curricular projects I have worked on. These projects are not directly related to my research, but they are a testament to my ability to learn new skills and apply them to real-world problems.
+Below are some extra-curricular projects I have worked on. These projects are not directly related to my research, but they are a testament to my ability to think creatively, learn new skills and apply them to real-world problems.
 
 Virtual Fish
 ------------
