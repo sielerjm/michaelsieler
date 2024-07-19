@@ -9,7 +9,7 @@ Seeking postdoctoral positions starting in Summer 2025
 Introduction
 ------------
 
-As I approach the end of my PhD in Tom Sharpton's lab, I'm now #OpenToWork. I'm a computational microbial ecologist looking for a postdoctoral research position in clinical/biopharma/biotech/national lab settings to further develop my expertise and contribute to groundbreaking research in microbiome science. I'm currently in Portland, Oregon but also open to relocating nationally or internationally. 
+As I approach the end of my PhD in Tom Sharpton's lab, I'm soon to be #OpenToWork. I'm a computational microbial ecologist looking for a postdoctoral research position to further develop my expertise and contribute to groundbreaking research in microbiome science. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work. 
 
 Research Interests
 ------------------
@@ -20,18 +20,19 @@ My research interests encompass a broad range of topics within microbiology and 
 - **Environmental Impacts on Microbiomes**: Investigating how environmental stressors such as climate change, diet, pathogens, and pollutants affect microbiome stability and resilience.
 - **Microbial Ecology**: Exploring the dynamics of microbial communities and their adaption in response to environmental changes.
 - **Bioinformatics and Computational Biology**: Utilizing computational tools and statistical models to analyze microbiome data and develop new methods for microbiome research.
+- **Transdisciplinary Microbiome Research**: Collaborating across disciplines to elucidate the microbiome's central role interfacing between host health, public health and social equity. 
 
 Research Highlights
 -------------------
 
 **Gut Microbiome Stability and Host Health**
 
-- Conducted extensive longitudinal research on how multiple and combined environmental stressors impact gut microbiome stability using the zebrafish model organism.
+- Conducted extensive longitudinal research on how multiple and combined environmental stressors impact gut microbiome stability to influence host health using the zebrafish model organism.
 - Developed novel system agnostic dynamical microbiome measures (SADMMs) to quantitatively measure temporal microbiome responses to environmental stressors across different microbiome systems and environmental conditions.
 
 **Multi-omic Microbiome Analysis**
 
-- Integrated multivariate multi-omic data (16S rRNA gene sequencing, metagenomics, metatranscriptomics, and metabolomics) to provide a comprehensive view of the gut microbiome and its functional potential.
+- Integrated multivariate multi-omic data to provide a comprehensive view of the gut microbiome and its functional potential.
 
 
 
@@ -45,9 +46,9 @@ Future Directions
 
 In a postdoctoral research position, I aim to:
 
-- Expand my research on the gut microbiome stability and its role in supporting host health and mediating disease.
-- Explore new multi-omic methodologies and technologies for microbiome analysis.
-- Collaborate with leading researchers and institutions to drive innovation and discovery in microbiome science.
+- Expand my research on the gut microbiome stability and its role in supporting host health and homeostasis.
+- Explore and integrate new multi-omic methodologies and technologies for microbiome analysis.
+- Collaborate with researchers and institutions across a diverse array of fields to drive innovation and discovery in microbiome science.
 
 Contact Information
 -------------------
@@ -57,4 +58,4 @@ If you are interested in discussing potential postdoctoral opportunities, please
 - Email: sielerjm (at) oregonstate (dot) edu
 - `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
 
-I look forward to connecting and exploring opportunities to contribute to groundbreaking research in the microbiome field.
+I look forward to connecting and exploring potential opportunities in your lab!
