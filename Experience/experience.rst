@@ -42,7 +42,7 @@ Research
 | * Evaluate how multiple and combined environmental stressors impact gut microbiome stability to influence host health                                                                             |
 | * Measure resilience of gut microbiome to chronic exposure of antibiotics (Sieler, *in-prep*)                                                                                                     |
 | * Assess gut microbiome resiliency to anthropological impacts such as temperature and pathogenic exposure (Sieler, *in-prep*)                                                                     |
-| * The zebrafish gut microbiome influences benzo-a-pyrene developmental neurobehavioral toxicity  `(Stagaman, 2024) <https://www.nature.com/articles/s41598-024-65610-3>`_                         |
+| * The zebrafish gut microbiome influences benzo-a-pyrene developmental neurobehavioral toxicity  `(Stagaman 2024) <https://www.nature.com/articles/s41598-024-65610-3>`_                         |
 | * Investigate the joint interaction effects of diet and pathogen exposure on gut microbiome succession `(Sieler 2024) <https://bit.ly/sieler2023__ZF_DietInfection>`_                             |
 | * Measure the effect of nanoplastics on the mouse gut microbial community `(Szule 2022) <https://bit.ly/3OyI7oi>`_                                                                                |
 | * Potential and challenges of deep transfer learning in microbiome science `(David 2021) <https://bit.ly/3IXaefQ>`_                                                                               |
