@@ -6,6 +6,16 @@ Projects
 
 Below are some extra-curricular projects I have worked on. These projects are not directly related to my research, but they are a testament to my ability to think creatively, learn new skills and apply them to real-world problems.
 
+
+GutMichaelBiome
+---------------
+
+.. image:: ../Media/images/GMB_Sticker.png
+   :target: https://gutmichaelbio.me/
+   :width: 50%
+
+GutMichaelBiome is a play on words of "Gut Microbiome and Michael." In an effort to sustain my creativity and passion for sharing microbiome science through humor, I created a sticker-of-the-month club, where each month I send members a new sticker that I designed based on a microbiome or microbiology-related topic. 
+
 Virtual Fish
 ------------
 
