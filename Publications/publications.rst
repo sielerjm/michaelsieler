@@ -10,6 +10,10 @@ Peer-Reviewed Publications
 .. list-table::
    :widths: 90 10
 
+   * - `"The zebrafish gut microbiome influences benzo-a-pyrene developmental neurobehavioral toxicity." <https://www.nature.com/articles/s41598-024-65610-3>`_ *Nature Sci Rep* :download:`PDF <../Media/publications/Stagaman2024_NatureSciRep.pdf>`
+
+       - Keaton Stagaman, Alexandra Alexiev, **Michael J. Sieler Jr.**, ...
+     - 2024
    * - "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" (*in-prep*)
 
        - **Michael J. Sieler Jr.**, ... 
@@ -53,13 +57,13 @@ Conference Presentations
    * - "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." *Connecting Microbiome Communities.*
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - 2024*
+     - 2024
 
        San Diego, CA
    * - "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish." *Beneficial Microbes Conference.*
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - 2024*
+     - 2024
 
        Madison, WI
    * - "Choice of batch correction method is an important factor in small molecule study." *Metabolomics Association of North America.*
@@ -88,11 +92,11 @@ Conference Posters
 .. list-table::
    :widths: 80 20
 
-   * - "The human gut microbiome at the intersection of public health and social equity". *Oregon Public Health Association*
+   * - "The human gut microbiome at the intersection of public health and social equity". *Oregon Public Health Association.*
 
        - **Michael J. Sieler Jr.**, *et al.*
      - 2024*
-   * - "How do external environmental factors impact the gut microbiome to influence host health?" *ARCS Foundation* :icon:`fas fa-download` `Poster <../Publications/Presentations/ARCS_Poster2022.html>`_
+   * - "How do external environmental factors impact the gut microbiome to influence host health?" *ARCS Foundation.* :icon:`fas fa-download` `Poster <../Publications/Presentations/ARCS_Poster2022.html>`_
 
        - **Michael J. Sieler Jr.**, *et al.*
      - 2022
@@ -107,6 +111,18 @@ Conference Posters
        - **Michael J. Sieler Jr.**, *et al.*
      - 2019
 
+Conference Panels
+-----------------
+
+.. list-table::
+   :widths: 80 20
+
+   * - "The Importance of Inclusive Practices in Microbiome Science." *Beneficial Microbes.*
+
+       - Mónica Medina, Rosie Alegado, Ibrahim Zuniga-Chaves, Korin Jones, Jessamine Kuehn, **Michael J. Sieler Jr.**
+     - 2024
+     
+       Madison, WI
 
 Other Presentations
 -------------------
@@ -117,7 +133,7 @@ Other Presentations
    * - "ASM professional development series for Oregon microbiologists: Careers in academia vs. industry" *American Society for Microbiology.*
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - 2024*
+     - 2024
 
        Corvallis, OR
 
