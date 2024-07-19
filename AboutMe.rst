@@ -34,7 +34,7 @@ I'm in my final year of my Ph.D program. My research focuses on how environmenta
 What is this site for?
 ----------------------
 
-The goal of this site is to provide a central location to share my `research and work experience <https://michaelsieler.com/en/latest/Experience/experience.html>`_, `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_ and `blog <https://blog.michaelsieler.com/>`_.
+The goal of this site is to provide a central location to share my `research and work experience <https://michaelsieler.com/en/latest/Experience/experience.html>`_.
 
 
 How can I contact you?
