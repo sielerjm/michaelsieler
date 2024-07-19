@@ -22,7 +22,7 @@ Briefly, I got my bachelor's degree in Bioresource Research with a focus in Bioi
 
 Throughout my undergrad I conducted research alongside Ph.D. students and post-docs as well as independently. These experiences catalyzed my interest in studying the gut microbiome, and led me to join the `Sharpton Lab <http://lab.sharpton.org>`_ for graduate school.
 
-I'm passionate about conducting transdisciplinary and multi-scale microbiome research to better understand how systemic and environmental factors reciprocally interact and intersect with the gut microbiome to influence individual health.  
+I'm passionate about conducting transdisciplinary and multi-scale microbiome research to better understand how systemic and environmental factors reciprocally interact and intersect with the gut microbiome to influence individual and ecosystem health.  
 
 
 What do you do now?
