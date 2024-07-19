@@ -52,7 +52,7 @@ Research
 |                                                                                                                                                                                                   |
 | * Programming: R, Python, Git, DADA2, Phyloseq, HTML, CSS, Unix/Linux, C++                                                                                                                        |
 | * Bioinformatics: 16S sequencing (DADA2 & Phyloseq), Metagenomics (FastTree & HMMER)                                                                                                              |
-| * Documentation: Sphinx & ReadTheDocs                                                                                                                                                             |
+| * Documentation: Sphinx, ReadTheDocs, Quarto, RShiny                                                                                                                                              |
 |                                                                                                                                                                                                   |
 |                                                                                                                                                                                                   |
 | **Skills:**                                                                                                                                                                                       |
