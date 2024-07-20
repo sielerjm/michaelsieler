@@ -37,15 +37,6 @@ Here's a brief (5 min) overview of my research:
 
 ------
 
-Resume & CV
------------
-
-:download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
-
-:download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
-
-------
-
 
 ..
    _More info on styling sphinx: https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/structure.html
