@@ -66,3 +66,9 @@ Resume & CV
 :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
 
 :download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
+
+------
+
+Return to `top`_.
+
+------
