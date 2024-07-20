@@ -36,11 +36,6 @@ Here's a brief (5 min) overview of my research:
     </div>
 
 
-
-..
-   _More info on styling sphinx: https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/structure.html
-
-
 Resume & CV
 -----------
 
@@ -49,6 +44,10 @@ Resume & CV
 :download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
 
 ------
+
+
+..
+   _More info on styling sphinx: https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/structure.html
 
 .. toctree::
    :hidden:
