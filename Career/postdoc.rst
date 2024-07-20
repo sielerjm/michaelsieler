@@ -59,3 +59,10 @@ If you are interested in discussing potential postdoctoral opportunities, please
 - `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
 
 I look forward to connecting and exploring potential opportunities in your lab!
+
+Resume & CV
+-----------
+
+:download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
+
+:download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
