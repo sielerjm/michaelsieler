@@ -75,7 +75,7 @@ Work
 | (FAIR) microbiome research data and  workflows.                                                                     |
 |                                                                                                                     |
 +------------------------------------------------------------------------------------------------+--------------------+
-| **Pacific Northwest National Laboratory - PhD Bioinformatics Intern**                          | June 2023-Present  |
+| **Pacific Northwest National Laboratory - PhD Bioinformatics Intern**                          | June 2023-Jan 2024 |
 +------------------------------------------------------------------------------------------------+--------------------+
 | **Projects:**                                                                                                       |
 |                                                                                                                     |

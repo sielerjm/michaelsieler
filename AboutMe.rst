@@ -49,7 +49,6 @@ The best way to reach me is through `sielerjm (at) oregonstate (dot) edu <sieler
 * `Google Scholar <https://scholar.google.com/citations?authuser=1&user=XqblXigAAAAJ>`_
 
 
-
 ------
 
 Return to `top`_.
