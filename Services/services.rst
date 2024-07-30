@@ -42,7 +42,7 @@ I have experience writing and editing scientific manuscripts. I can help you wit
 
 - `Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection. Sieler *et. al. Animal Microbiome* (2023) <https://rdcu.be/djX1r>`_
 
-Additionally, I offer free writing resources that I've acquired from my own experience and lessons from my scientific mentors on my `blog <https://michaelsieler.com/en/latest/Blog/blog.html>`_.
+Additionally, I offer free writing resources that I've acquired from my own experience and lessons from my scientific mentors on my `blog <https://blog.michaelsieler.com/en/latest/posts/scientificwritingresources.html>`_.
 
 
 
