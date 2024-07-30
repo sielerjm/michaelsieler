@@ -45,6 +45,13 @@ I have experience writing and editing scientific manuscripts. I can help you wit
 Additionally, I offer free writing resources that I've acquired from my own experience and lessons from my scientific mentors on my `blog <https://blog.michaelsieler.com/en/latest/posts/scientificwritingresources.html>`_.
 
 
+Graphic Design:
+---------------
+
+Would you like to add a special touch to the designs of your presentations, lab logo, or website? Here are some examples of my artwork:
+
+
+
 
 ------
 
