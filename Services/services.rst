@@ -27,11 +27,22 @@ Microbiome research experiments can be complicated involving multiple and combin
 `Figure 1: Sieler et al. 2023. mSystems. Experimental Design Schematic <https://rdcu.be/djX1r>`_
 
 
+Microbiome Data Analysis
+------------------------
+
+I have experience analyzing multivariate microbiome data across a variety of systems (human, mice, zebrafish). I can assist you from processing your raw data to interpreting your results. Below are some examples of my work:
+
+- `Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection. Sieler *et. al. Animal Microbiome* (2023) <https://rdcu.be/djX1r>`_
 
 
+Scientific Writing and Editing:
+-------------------------------
 
-Skills I can offer
-------------------
+I have experience writing and editing scientific manuscripts. I can help you with your writing needs, from drafting your first manuscript to polishing your final draft. Below are some examples of my work:
+
+- `Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection. Sieler *et. al. Animal Microbiome* (2023) <https://rdcu.be/djX1r>`_
+
+Additionally, I offer free writing resources that I've acquired from my own experience and lessons from my scientific mentors on my `blog <https://michaelsieler.com/en/latest/Blog/blog.html>`_.
 
 
 
