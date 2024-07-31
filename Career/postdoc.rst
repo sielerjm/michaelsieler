@@ -28,6 +28,8 @@ Research Highlights
 **Gut Microbiome Stability and Host Health**
 
 - Conducted extensive longitudinal research on how multiple and combined environmental stressors impact gut microbiome stability to influence host health using the zebrafish model organism.
+
+**System-Agnostic Dynamical Microbiome Measures**
 - Developed novel system agnostic dynamical microbiome measures (SADMMs) to quantitatively measure temporal microbiome responses to environmental stressors across different microbiome systems and environmental conditions.
 
 **Multi-omic Microbiome Analysis**
