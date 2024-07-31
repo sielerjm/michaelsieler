@@ -27,13 +27,13 @@ Microbiome research experiments can be complicated involving multiple and combin
 `Figure 1: Sieler et al. 2023. mSystems. Experimental Design Schematic <https://rdcu.be/djX1r>`_
 
 
-Microbiome Data Analysis
-------------------------
+Microbiome Bioinformatic Analysis
+---------------------------------
 
-I have experience analyzing multivariate microbiome data across a variety of systems (human, mice, zebrafish). I can assist you from processing your raw data to interpreting your results. Below are some examples of my work:
+I have experience analyzing multivariate longitudinal microbiome data across a variety of systems (human, mice, zebrafish). I can assist you from processing your raw data, to developing bioinformatic workflows, and interpreting your results. Below are some examples of my work:
 
 - `Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection. Sieler *et. al. Animal Microbiome* (2023) <https://rdcu.be/djX1r>`_
-
+- `Github <https://www.linkedin.com/in/mjsielerjr/>`_
 
 Scientific Writing and Editing:
 -------------------------------

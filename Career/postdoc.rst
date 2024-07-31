@@ -56,7 +56,7 @@ Contact Information
 If you are interested in discussing potential postdoctoral opportunities, please feel free to contact me at:
 
 - Email: `sielerjm (at) oregonstate (dot) edu <sielerjm@oregonstate.edu>`_
-- `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
+- `LinkedIn <https://github.com/sielerjm>`_
 
 I look forward to connecting and exploring potential opportunities in your lab!
 
