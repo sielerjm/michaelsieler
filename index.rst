@@ -36,7 +36,6 @@ Here's a brief (5 min) overview of my research:
         <iframe src="https://www.youtube.com/embed/YtPdUi3EbFA?si=Q2R8uc8EUQx5ASeT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-------
 
 
 ..
