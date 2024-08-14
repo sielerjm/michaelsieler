@@ -17,117 +17,84 @@ Summary
 Education
 ---------
 
-+------------------------------------------------------------------------------------------------+-----------------+
-| Oregon State University                                                                        | *Expected 2025* |
-|                                                                                                |                 |
-| **Ph.D. Microbiology**, minor in Biological Data Sciences                                      |                 |
-|                                                                                                |                 |
-| - Advised by `Dr. Thomas J. Sharpton <https://bit.ly/3cJfQ1b>`_                                |                 |
-+------------------------------------------------------------------------------------------------+-----------------+
-| Oregon State University                                                                        | 2020            |
-|                                                                                                |                 |
-| **B.Sc. Bioresource Research**, options in Bioinformatics and Genomics                         |                 |
-+------------------------------------------------------------------------------------------------+-----------------+
+.. list-table::
+   :widths: 90 10
 
+   * - **Oregon State University**
 
+       - **Ph.D. Microbiology**, minor in Biological Data Sciences
+       - Advised by `Dr. Thomas J. Sharpton <https://bit.ly/3cJfQ1b>`_
+     - *Expected 2025*
 
-Research
---------
+   * - **Oregon State University**
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Investigate how environmental factors (diet, pollutants, pathogens, etc.) interact with the gut microbiome to influence host health using the zebrafish model organism.**                       |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Projects:**                                                                                                                                                                                     |
-|                                                                                                                                                                                                   |
-| * Evaluate how multiple and combined environmental stressors impact gut microbiome stability to influence host health                                                                             |
-| * Measure resilience of gut microbiome to chronic exposure of antibiotics (Sieler, *in-prep*)                                                                                                     |
-| * Assess gut microbiome resiliency to anthropological impacts such as temperature and pathogenic exposure (Sieler, *in-prep*)                                                                     |
-| * The zebrafish gut microbiome influences benzo-a-pyrene developmental neurobehavioral toxicity  `(Stagaman 2024) <https://www.nature.com/articles/s41598-024-65610-3>`_                         |
-| * Investigate the joint interaction effects of diet and pathogen exposure on gut microbiome succession `(Sieler 2024) <https://bit.ly/sieler2023__ZF_DietInfection>`_                             |
-| * Measure the effect of nanoplastics on the mouse gut microbial community `(Szule 2022) <https://bit.ly/3OyI7oi>`_                                                                                |
-| * Potential and challenges of deep transfer learning in microbiome science `(David 2021) <https://bit.ly/3IXaefQ>`_                                                                               |
-| * Meta-analysis of zebrafish gut microbiomes phylogeny `(Sharpton 2021) <https://bit.ly/3BaF7LX>`_                                                                                                |
-|                                                                                                                                                                                                   |
-| **Tools:**                                                                                                                                                                                        |
-|                                                                                                                                                                                                   |
-| * Programming: R, Python, Git, DADA2, Phyloseq, HTML, CSS, Unix/Linux, C++                                                                                                                        |
-| * Bioinformatics: 16S sequencing (DADA2 & Phyloseq), Metagenomics (FastTree & HMMER)                                                                                                              |
-| * Documentation: Sphinx, ReadTheDocs, Quarto, RShiny                                                                                                                                              |
-|                                                                                                                                                                                                   |
-|                                                                                                                                                                                                   |
-| **Skills:**                                                                                                                                                                                       |
-|                                                                                                                                                                                                   |
-| * Analytic: data management and analysis, multivariate and Bayesian statistics, machine learning                                                                                                  |
-| * Presentation: oral and written communication, pipeline documentation                                                                                                                            |
-| * Project Management: leadership, experimental design, coordination and analysis, cross-laboratory collaboration                                                                                  |
-| * Other: see more `Skills`_ below                                                                                                                                                                 |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+       - **B.Sc. Bioresource Research**, options in Bioinformatics and Genomics
+     - 2020
+
 
 
 Work
 ----
 
-+------------------------------------------------------------------------------------------------+--------------------+
-| **National Microbiome Data Collaborative - Ambassador**                                        | Mar 2024 - Present |
-+------------------------------------------------------------------------------------------------+--------------------+
-| The NMDC ambassador program recognizes and fosters early career scientists' efforts to incorporate inclusion,       |   
-| diversity, equity and accountability (IDEA) principles to promote findable, accessible, interoperable, and reusable |
-| (FAIR) microbiome research data and  workflows.                                                                     |
-|                                                                                                                     |
-+------------------------------------------------------------------------------------------------+--------------------+
-| **Pacific Northwest National Laboratory - PhD Bioinformatics Intern**                          | June 2023-Jan 2024 |
-+------------------------------------------------------------------------------------------------+--------------------+
-| **Projects:**                                                                                                       |
-|                                                                                                                     |
-| * Batch effect correction algorith (BECA) evaluation                                                                |
-|                                                                                                                     |
-|   * Analyzed dilution series experiment to resolve batch effects in lipidomics datasets, evaluated 12 commonly used |
-|     BECA methods, and developed a novel BECA evaluation model.                                                      |
-|                                                                                                                     |
-|                                                                                                                     |
-| **Tools used:**                                                                                                     |
-|                                                                                                                     |
-| * R                                                                                                                 |
-|                                                                                                                     |
-+------------------------------------------------------------------------------------------------+--------------------+
-| **MJSieler Consulting - Owner**                                                                | May 2022-Present   |
-+------------------------------------------------------------------------------------------------+--------------------+
-| **Projects:**                                                                                                       |
-|                                                                                                                     |
-| * `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_                                          |
-|                                                                                                                     |
-|   * Designed, developed, and deployed educational video game software for clients                                   |
-|   * Educational software used to fulfill grant requirements for communicating scientific research                   |
-|                                                                                                                     |
-|                                                                                                                     |
-| **Tools used:**                                                                                                     |
-|                                                                                                                     |
-| * C#, Unity, Git                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------+
+.. list-table::
+   :widths: 90 10
+
+   * - **National Microbiome Data Collaborative - Ambassador**
+
+       - The NMDC ambassador program recognizes and fosters early career scientists' efforts to incorporate inclusion,
+         diversity, equity, and accountability (IDEA) principles to promote findable, accessible, interoperable, and reusable (FAIR) microbiome research data and workflows.
+
+     - Mar 2024-Present
+
+   * - **Pacific Northwest National Laboratory - PhD Bioinformatics Intern**
+
+       - **Projects:**
+         - Batch effect correction algorithm (BECA) evaluation
+           - Analyzed dilution series experiment to resolve batch effects in lipidomics datasets, evaluated 12 commonly used BECA methods, and developed a novel BECA evaluation model.
+
+       - **Tools used:**
+         - R
+
+     - June 2023-Jan 2024
+
+   * - **MJSieler Consulting - Owner**
+
+       - **Projects:**
+         - `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_
+           - Designed, developed, and deployed educational video game software for clients
+           - Educational software used to fulfill grant requirements for communicating scientific research.
+
+       - **Tools used:**
+         - C#, Unity, Git
+
+     - May 2022-Present
+
 
 
 Awards, Honors & Fellowships
 ----------------------------
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
-| Oregon Department of Fish and Wildlife Fish Health Graduate Research Fellowship                                                                    | 2023-2025       |
-|                                                                                                                                                    |                 |
-| **Fish Health Graduate Research Fellow**                                                                                                           |                 |
-|                                                                                                                                                    |                 |
-| - Recognized for research in Microbiology at Oregon State University, focusing on fish health issues to benefit Oregon's fish populations          |                 |
-+----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
-| `Oregon Museum of Science and Industry <https://omsi.edu/science-communication-services>`_                                                         | 2020-Present    |
-|                                                                                                                                                    |                 |
-| **Science Communication Fellow**                                                                                                                   |                 |
-|                                                                                                                                                    |                 |
-| - Received certified training in informal science education and engagement with public audiences to increase their understanding of STEM research  |                 |
-+----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
-| `ARCS Foundation <https://oregon.arcsfoundation.org>`_                                                                                             | 2020-2023       |
-|                                                                                                                                                    |                 |
-| **ARCS Scholar**                                                                                                                                   |                 |
-|                                                                                                                                                    |                 |
-| - Recognized for my early significant contributions to scientific research, I was awarded the prestigious ARCS Scholar grant ($18,000)             |                 |
-+----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
+.. list-table::
+   :widths: 90 10
+
+   * - **Oregon Department of Fish and Wildlife Fish Health Graduate Research Fellowship**
+
+       - **Fish Health Graduate Research Fellow**
+       - Recognized for research in Microbiology at Oregon State University, focusing on fish health issues to benefit Oregon's fish populations.
+     - 2023-2025
+
+   * - `Oregon Museum of Science and Industry <https://omsi.edu/science-communication-services>`_
+
+       - **Science Communication Fellow**
+       - Received certified training in informal science education and engagement with public audiences to increase their understanding of STEM research.
+     - 2020-Present
+
+   * - `ARCS Foundation <https://oregon.arcsfoundation.org>`_
+
+       - **ARCS Scholar**
+       - Recognized for my early significant contributions to scientific research, I was awarded the prestigious ARCS Scholar grant ($18,000).
+     - 2020-2023
+
 
 
 Professional Affiliations & Service
@@ -145,7 +112,6 @@ Professional Affiliations & Service
    * - **Food and Nutrition Special Interest Group** - Advocate
    
        - Oregon Public Health Association. Portland, OR.
-
      - 2023-Present
    * - **Microbes and Social Equity Working Group** - Member
     
@@ -153,22 +119,21 @@ Professional Affiliations & Service
    * - **Microbiology Graduate Student Association** - President
     
         - Oregon State University. Corvallis, OR.
-
      - 2022-2023
 
 
 Certificates
 ------------
 
+.. list-table::
+   :widths: 90 10
 
-+------------------------------------------------------------------------------------------------+--------------------+
-| Data Science and Machine Learning Bootcamp with R                                              | 2021               |
-+------------------------------------------------------------------------------------------------+--------------------+
-| * Program with R to wrangle, clean, analyze, and visualize data.                                                    |
-| * Apply advanced statistics and machine learning to gain useful insights.                                           |
-|                                                                                                                     |
-|   * `Certificate <https://www.udemy.com/certificate/UC-3bd3e63b-0450-4a37-8ffe-f92a920522f1/>`_                     |
-+---------------------------------------------------------------------------------------------------------------------+
+   * - **Data Science and Machine Learning Bootcamp with R**
+   
+        - Program with R to wrangle, clean, analyze, and visualize data.
+        - Apply advanced statistics and machine learning to gain useful insights.
+        - `Certificate <https://www.udemy.com/certificate/UC-3bd3e63b-0450-4a37-8ffe-f92a920522f1/>`_
+     - 2021
 
 
 .. _Skills:
@@ -176,26 +141,50 @@ Certificates
 Skills
 ------
 
-+----------------------------+------------------------------------+--------------------------------+
-| **Programming:**           | **Statistics and Data Analytics:** | **Bioinformatics:**            |
-+----------------------------+------------------------------------+--------------------------------+
-| - R                        | - Multivariate regression          | - 16S sequencing               |
-| - Python                   | - Bayesian statistics              | - Metagenomics                 |
-| - C# (Unity)               | - Model building and testing       | - DADA2                        |
-| - Git                      |                                    | - Phyloseq                     |
-| - HMTL & CSS               |                                    | - Mothur                       |
-| - C++                      |                                    | - HMMER                        |
-| - UNIX/Linux               |                                    | - Metabolomics                 |
-|                            |                                    | - FastTree                     |
-+----------------------------+------------------------------------+--------------------------------+
-| **Laboratory:**            | **Other:**                         | **Languages:**                 |
-+----------------------------+------------------------------------+--------------------------------+
-| - Zebrafish husbandry      | - Microsoft Office Suite           | - English (native)             |
-| - Bacterial culturing      | - Adobe Photoshop and Illustrator  | - German (C1, advanced)        |
-| - DNA extraction           | - Blender                          | - Spanish (beginner)           |
-| - PCR amplification        |                                    |                                |
-| - Gel electrophoresis      |                                    |                                |
-+----------------------------+------------------------------------+--------------------------------+
+.. list-table::
+   :widths: 33 33 33
+
+   * - **Programming:**
+       - R
+       - Python
+       - C# (Unity)
+       - Git
+       - HTML & CSS
+       - C++
+       - UNIX/Linux
+
+     - **Statistics and Data Analytics:**
+       - Multivariate regression
+       - Bayesian statistics
+       - Model building and testing
+
+     - **Bioinformatics:**
+       - 16S sequencing
+       - Metagenomics
+       - DADA2
+       - Phyloseq
+       - Mothur
+       - HMMER
+       - Metabolomics
+       - FastTree
+
+   * - **Laboratory:**
+       - Zebrafish husbandry
+       - Bacterial culturing
+       - DNA extraction
+       - PCR amplification
+       - Gel electrophoresis
+
+     - **Other:**
+       - Microsoft Office Suite
+       - Adobe Photoshop and Illustrator
+       - Blender
+
+     - **Languages:**
+       - English (native)
+       - German (C1, advanced)
+       - Spanish (beginner)
+
 
 
 
