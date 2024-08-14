@@ -130,6 +130,32 @@ Awards, Honors & Fellowships
 +----------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
 
 
+Professional Affiliations & Service
+-----------------------------------
+
+.. list-table::
+   :widths: 90 10
+
+   * - **Pernot Microbiology Summer Camp** - Camp Mentor	
+
+       - Department of Microbiology, Oregon State University. Corvallis, OR.
+       - Supervised 20 high school students from historically underrepresented backgrounds in learning laboratory techniques.
+
+     - 2022, 2024
+   * - **Food and Nutrition Special Interest Group** - Advocate
+   
+       - Oregon Public Health Association. Portland, OR.
+
+     - 2023-Present
+   * - **Microbes and Social Equity Working Group** - Member
+    
+      - 2022-Present
+   * - **Microbiology Graduate Student Association** - President
+    
+        - Oregon State University. Corvallis, OR.
+        
+     - 2022-2023
+
 
 Certificates
 ------------
