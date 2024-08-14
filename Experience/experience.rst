@@ -143,45 +143,46 @@ Skills
    :widths: 33 33 33
 
    * - **Programming:**
-       - R
-       - Python
-       - C# (Unity)
-       - Git
-       - HTML & CSS
-       - C++
-       - UNIX/Linux
 
+        - R
+        - Python
+        - C# (Unity)
+        - Git
+        - HTML & CSS
+        - C++
+        - UNIX/Linux
      - **Statistics and Data Analytics:**
-       - Multivariate regression
-       - Bayesian statistics
-       - Model building and testing
 
+        - Multivariate regression
+        - Bayesian statistics
+        - Model building and testing
      - **Bioinformatics:**
-       - 16S sequencing
-       - Metagenomics
-       - DADA2
-       - Phyloseq
-       - Mothur
-       - HMMER
-       - Metabolomics
-       - FastTree
 
+        - 16S sequencing
+        - Metagenomics
+        - DADA2
+        - Phyloseq
+        - Mothur
+        - HMMER
+        - Metabolomics
+        - FastTree
    * - **Laboratory:**
-       - Zebrafish husbandry
-       - Bacterial culturing
-       - DNA extraction
-       - PCR amplification
-       - Gel electrophoresis
 
+        - Zebrafish husbandry
+        - Bacterial culturing
+        - DNA extraction
+        - PCR amplification
+        - Gel electrophoresis
      - **Other:**
-       - Microsoft Office Suite
-       - Adobe Photoshop and Illustrator
-       - Blender
 
+        - Microsoft Office Suite
+        - Adobe Photoshop and Illustrator
+        - Blender
      - **Languages:**
-       - English (native)
-       - German (C1, advanced)
-       - Spanish (beginner)
+
+        - English (native)
+        - German (C1, advanced)
+        - Spanish (beginner)
 
 
 
