@@ -14,7 +14,7 @@ GutMichaelBiome
    :target: https://gutmichaelbio.me/
    :width: 50%
 
-GutMichaelBiome is a play on words of "Gut Microbiome and Michael." In an effort to sustain my creativity and passion for sharing microbiome science through humor, I created a sticker-of-the-month club, where each month I send members a new sticker that I designed based on a microbiome or microbiology-related topic. 
+GutMichaelBiome is a play on words of "Gut Microbiome and Michael." In an effort to sustain my creativity and passion for sharing and communicating microbiome science through humor, I created a sticker-of-the-month club, where each month I send members a new sticker that I designed based on a microbiome or microbiology-related topic. You can find more information about the club and how to join on the `GutMichaelBiome website <https://gutmichaelbio.me/>`_.
 
 Virtual Fish
 ------------
