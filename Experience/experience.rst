@@ -31,6 +31,7 @@ Education
        - **B.Sc. Bioresource Research**, options in Bioinformatics and Genomics
      - 2020
 
+
 Research
 --------
 
@@ -39,17 +40,15 @@ Research
 
    * - **Oregon State University**
 
-       - Discovery of novel antiobiotic compounds using Streptomyces bacteria (Mahmud Lab).
-     - 2017-2018
-
+       - Discovery of novel antibiotic compounds using *Streptomyces* bacteria (Mahmud Lab).
        - Investigating the impacts of multiple and combined environmental stressors on gut microbiome stability to influence host health using the zebrafish model organism (Sharpton Lab).
+     - 2017-2018
      - 2018-Present
 
    * - **Pacific Northwest National Laboratory**
 
-       - Evaluating batch effect correction algorithms for lipidomics datasets
+       - Evaluating batch effect correction algorithms for lipidomics datasets.
      - 2023
-
 
 
 Work
