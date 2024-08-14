@@ -46,7 +46,7 @@ Research
 
    * - **Pacific Northwest National Laboratory** - PhD Intern
 
-       - Oregon State University. Corvallis, OR.
+       - Richland, WA.
      - 2023
 
    * - **Oregon State University** - Undergraduate Researcher
@@ -85,7 +85,7 @@ Work
        - **Tools used:**
          - R
 
-     - June 2023-Jan 2024
+     - 2023
 
    * - **MJSieler Consulting - Owner**
 
