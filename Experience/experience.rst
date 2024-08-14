@@ -153,21 +153,14 @@ Professional Affiliations & Service
    * - **Microbiology Graduate Student Association** - President
     
         - Oregon State University. Corvallis, OR.
-        
+
      - 2022-2023
 
 
 Certificates
 ------------
 
-+------------------------------------------------------------------------------------------------+--------------------+
-| Machine Learning Specialization                                                                | *In-progress*      |
-+------------------------------------------------------------------------------------------------+--------------------+
-| * Introduction to modern machine learning, including supervised and unsupervised learning                           |
-| * Supervised and unsupervised machine learning, advanced learning algorithms                                        |
-| * Use Python to build and train machine and deep learning models                                                    |
-|                                                                                                                     |
-|   * `Course <https://www.coursera.org/specializations/machine-learning-introduction>`_                              |
+
 +------------------------------------------------------------------------------------------------+--------------------+
 | Data Science and Machine Learning Bootcamp with R                                              | 2021               |
 +------------------------------------------------------------------------------------------------+--------------------+
