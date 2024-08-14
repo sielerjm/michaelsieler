@@ -18,7 +18,7 @@ Education
 ---------
 
 .. list-table::
-   :widths: 90 10
+   :widths: 80 20
 
    * - **Oregon State University**
 
@@ -36,36 +36,27 @@ Research
 --------
 
 .. list-table::
-   :widths: 90 10
+   :widths: 80 20
 
-   * - **Oregon State University**
-       - Discovery of novel antibiotic compounds using *Streptomyces* bacteria (Mahmud Lab).
-       - Investigating the impacts of multiple and combined environmental stressors on gut microbiome stability to influence host health using the zebrafish model organism (Sharpton Lab).
-     - 2017-2018
-     - 2018-Present
-
-   * - **Pacific Northwest National Laboratory**
-       - Evaluating batch effect correction algorithms for lipidomics datasets.
-     - 2023
-
-.. list-table::
-   :widths: 90 10
-
-   * - **Oregon State University** - Graduate Researcher	
+   * - **Oregon State University** - Graduate Researcher
+   
        - Department of Microbiology, Oregon State University. Corvallis, OR.
        - Advised by Dr. Thomas J. Sharpton
      - 2020-Present
 
    * - **Pacific Northwest National Laboratory** - PhD Intern
+
        - Oregon State University. Corvallis, OR.
      - 2023
 
-   * - **Oregon State University** - Undergraduate Researcher	
+   * - **Oregon State University** - Undergraduate Researcher
+   
        - Department of Microbiology, Oregon State University. Corvallis, OR.
        - Advised by Dr. Thomas J. Sharpton
      - 2018-2020
 
-   * - **Oregon State University** - Undergraduate Researcher	
+   * - **Oregon State University** - Undergraduate Researcher
+   
        - College of Pharmacy, Oregon State University. Corvallis, OR.
        - Advised by Dr. Taifo Mahmud
      - 2017-2018
@@ -76,7 +67,7 @@ Work
 ----
 
 .. list-table::
-   :widths: 90 10
+   :widths: 80 20
 
    * - **National Microbiome Data Collaborative - Ambassador**
 
@@ -114,7 +105,7 @@ Awards, Honors & Fellowships
 ----------------------------
 
 .. list-table::
-   :widths: 90 10
+   :widths: 80 20
 
    * - **Oregon Department of Fish and Wildlife Fish Health Graduate Research Fellowship**
 
@@ -140,7 +131,7 @@ Professional Affiliations and Service
 -------------------------------------
 
 .. list-table::
-   :widths: 90 10
+   :widths: 80 20
 
    * - **Pernot Microbiology Summer Camp** - Camp Mentor	
        - Department of Microbiology, Oregon State University. Corvallis, OR.
@@ -163,7 +154,7 @@ Certificates
 ------------
 
 .. list-table::
-   :widths: 90 10
+   :widths: 80 20
 
    * - **Data Science and Machine Learning Bootcamp with R**
    
