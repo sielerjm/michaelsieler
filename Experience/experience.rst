@@ -48,6 +48,29 @@ Research
        - Evaluating batch effect correction algorithms for lipidomics datasets.
      - 2023
 
+.. list-table::
+   :widths: 90 10
+
+   * - **Oregon State University** - Graduate Researcher	
+       - Department of Microbiology, Oregon State University. Corvallis, OR.
+       - Advised by Dr. Thomas J. Sharpton
+     - 2020-Present
+
+   * - **Pacific Northwest National Laboratory** - PhD Intern
+       - Oregon State University. Corvallis, OR.
+     - 2022-2023
+
+   * - **Oregon State University** - Undergraduate Researcher	
+       - Department of Microbiology, Oregon State University. Corvallis, OR.
+       - Advised by Dr. Thomas J. Sharpton
+     - 2018-2020
+
+   * - **Oregon State University** - Undergraduate Researcher	
+       - College of Pharmacy, Oregon State University. Corvallis, OR.
+       - Advised by Dr. Taifo Mahmud
+     - 2017-2018
+
+
 
 Work
 ----
