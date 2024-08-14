@@ -32,8 +32,8 @@ Microbiome Bioinformatic Analysis
 
 I have experience analyzing multivariate longitudinal microbiome data across a variety of systems (human, mice, zebrafish). I can assist you from processing your raw data, to developing bioinformatic workflows, and interpreting your results. Below are some examples of my work:
 
-- `Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection. Sieler *et. al. Animal Microbiome* (2023) <https://rdcu.be/djX1r>`_
-- `Github <https://www.linkedin.com/in/mjsielerjr/>`_
+- `Effects of multiple and combined environmental stressors on the zebrafish gut microbiome. <https://sielerjm.github.io/Sieler2024__ZF_Temperature_Parasite/Results_Overview.html>`_
+- `My GitHub <https://www.linkedin.com/in/mjsielerjr/>`_
 
 Scientific Writing and Editing:
 -------------------------------
