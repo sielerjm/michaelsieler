@@ -187,6 +187,7 @@ Skills
    * - **Laboratory:**
 
         - Zebrafish husbandry
+           - Germ-free derivation
         - Bacterial culturing
         - DNA extraction
         - PCR amplification
