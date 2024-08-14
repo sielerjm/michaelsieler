@@ -31,8 +31,8 @@ Education
        - **B.Sc. Bioresource Research**, options in Bioinformatics and Genomics
      - 2020
 
-Education
----------
+Research
+--------
 
 .. list-table::
    :widths: 90 10
