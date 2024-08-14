@@ -58,7 +58,7 @@ Research
 
    * - **Pacific Northwest National Laboratory** - PhD Intern
        - Oregon State University. Corvallis, OR.
-     - 2022-2023
+     - 2023
 
    * - **Oregon State University** - Undergraduate Researcher	
        - Department of Microbiology, Oregon State University. Corvallis, OR.
