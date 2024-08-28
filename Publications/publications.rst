@@ -10,10 +10,10 @@ Peer-Reviewed Publications
 .. list-table::
    :widths: 90 10
 
-   * - "Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" (*mSystems; Accepted*)
+   * - `"Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" <https://journals.asm.org/doi/10.1128/msystems.00545-24>`_ *mSystems* :download:`PDF <../Media/publications/Hammer2024_mSystems.pdf>`
 
        - Austin J. Hammer, ..., **Michael J. Sieler Jr.**, ...
-     - 2024*
+     - 2024
    * - `"The zebrafish gut microbiome influences benzo-a-pyrene developmental neurobehavioral toxicity." <https://www.nature.com/articles/s41598-024-65610-3>`_ *Nature Sci Rep* :download:`PDF <../Media/publications/Stagaman2024_NatureSciRep.pdf>`
 
        - Keaton Stagaman, Alexandra Alexiev, **Michael J. Sieler Jr.**, ...
