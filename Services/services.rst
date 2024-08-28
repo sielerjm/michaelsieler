@@ -17,7 +17,7 @@ Microbiome research experiments can be complicated involving multiple and combin
    :alt: Hammer et al. 2024 Experimental Design Schematic
    :width: 50%
 
-`Figure 1: Hammer et al. 2024. mSystems. Experimental Design Schematic <https://doi.org/10.1101/2024.07.26.605207>`_
+`Figure 1: Hammer et al. 2024. mSystems. Experimental Design Schematic <https://journals.asm.org/doi/10.1128/msystems.00545-24>`_
 
 .. figure:: ../Media/images/Sieler2023__Schematic.png
    :align: center
