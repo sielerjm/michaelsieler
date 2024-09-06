@@ -92,7 +92,7 @@ Conference Posters
 .. list-table::
    :widths: 80 20
 
-   * - "The human gut microbiome at the intersection of public health and social equity". *Oregon Public Health Association.*
+   * - "The human gut microbiome at the intersection of public health and social equity". *Oregon Public Health Association.* :icon:`fas fa-download` `Poster (*draft*) <../Publications/Presentations/OPHA_Poster2024.html>`_
 
        - **Michael J. Sieler Jr.**, *et al.*
      - 2024*
