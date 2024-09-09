@@ -97,7 +97,7 @@ Conference Posters
        - **Michael J. Sieler Jr.**
      - 2024*
      
-        Corvallis, OR
+       Corvallis, OR
    * - "How do external environmental factors impact the gut microbiome to influence host health?" *ARCS Foundation.* :icon:`fas fa-download` `Poster <../Publications/Presentations/ARCS_Poster2022.html>`_
 
        - **Michael J. Sieler Jr.**, *et al.*
