@@ -94,7 +94,7 @@ Conference Posters
 
    * - "The human gut microbiome at the intersection of public health and social equity". *Oregon Public Health Association.* :icon:`fas fa-download` `Poster (*draft*) <../Publications/Presentations/OPHA_Poster2024.html>`_
 
-       - **Michael J. Sieler Jr.**, *et al.*
+       - **Michael J. Sieler Jr.**
      - 2024*
    * - "How do external environmental factors impact the gut microbiome to influence host health?" *ARCS Foundation.* :icon:`fas fa-download` `Poster <../Publications/Presentations/ARCS_Poster2022.html>`_
 
