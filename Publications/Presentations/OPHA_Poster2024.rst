@@ -12,7 +12,7 @@ Poster
    :width: 50%
    :alt: OPHA 80th Annual Conference 2024 Poster
 
-   Click on poster to enlarge.
+Click on poster to enlarge.
 
 Audio/video
 -----------
