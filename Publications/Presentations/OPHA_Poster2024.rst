@@ -10,6 +10,7 @@ Poster
 .. image:: ../../Media/presentations/OPHA_Poster2024.png
    :target: https://michaelsieler.com/en/latest/_images/OPHA_Poster2024.png
    :width: 50%
+   :alt: OPHA 80th Annual Conference 2024 Poster
 
    Click on poster to enlarge.
 
