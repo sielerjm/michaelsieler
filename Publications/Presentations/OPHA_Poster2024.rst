@@ -4,6 +4,12 @@
 OPHA 80th Annual Conference 2024
 ================================
 
+
+.. note::
+
+   This page is a work in progress. Please check back for updates. (Last update: Sept 27, 2024)
+
+
 Poster
 ------
 
@@ -39,6 +45,7 @@ The gut microbiome is the community of microorganisms associated with a host (hu
 The gut microbiome mediates a variety of factors across multiple scales, from the individual, environmental to systemic levels. These factors impact human health, and can also impact the gut microbiome composition. The gut microbiome's composition and its functional capacity (what jobs it's capable of performing) impacts its ability to support human health. Therefore, it's critical to understand the variety of factors and their interactions that can impact the gut microbiome to influence human health.
 
 However, these factors do not equitably impact humans and vary across socio-environmental conditions. Therefore, an individual's ability to maintain a healthy gut microbiome depends on not just their individual lifestyle choices, but their environmental factors. These environmental conditions can be exacerbated or mitigated by systemic-level interventions, such as governmental public health initiatives and policies. (Interconnectedness overlooked). To address this gap, I propose a gut microbiome-centered framework that integrates public health and social equity issues across a multitude of scales to provide a holistic, ecological perspective of human and community health. This gut microbiome-centered framework can strengthen our collective efforts to address and resolve public health and social equity issues by providing a more comprehensive understanding of the factors that impact human health and the gut microbiome. 
+
 
 Microbiome
 ''''''''''
