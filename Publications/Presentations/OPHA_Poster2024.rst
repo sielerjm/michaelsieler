@@ -51,59 +51,54 @@ Factors that Impact the Gut Microbiome
 """"""""""""""""""""""""""""""""""""""
 
 
-Microbiome
-''''''''''
+.. tab-set::
 
-**Microbiome-level factors:**
+   .. tab-item:: Microbiome
 
-- Modulates immune system
-- Digests nutrients
-- Communicates with body systems
+      **Microbiome-level factors:**
 
+      - Modulates immune system
+      - Digests nutrients
+      - Communicates with body systems
 
-Individual
-''''''''''
+   .. tab-item:: Individual
 
-**Individual-level factors:**
+      **Individual-level factors:**
 
-- Genetics
-- Birth mode
-- Physiology
-- Diet
-- Toxicant exposure
-- Medications
-- Stress
-- Sleep
+      - Genetics
+      - Birth mode
+      - Physiology
+      - Diet
+      - Toxicant exposure
+      - Medications
+      - Stress
+      - Sleep
 
+   .. tab-item:: Environment
 
-Environment
-'''''''''''
+      **Environmental-level factors:**
 
-**Environmental-level factors:**
+      - Built environment
+      - Pollutant exposure
+      - Household members
+      - Food accessibility
+      - Water quality
+      - Sanitation
+      - Air quality
+      - Urban vs. rural living
+      - Pets
 
-- Built environment
-- Pollutant exposure
-- Household members
-- Food accessibility
-- Water quality
-- Sanitation
-- Air quality
-- Urban vs. rural living
-- Pets
+   .. tab-item:: Systemic
 
+      **Systemic-level factors:**
 
-Systemic
-''''''''
-
-**Systemic-level factors:**
-
-- Socio-economic status
-- Education
-- Laws, policies, and regulations
-- Healthcare access
-- Housing access
-- Systemic racism
-- Climate change
+      - Socio-economic status
+      - Education
+      - Laws, policies, and regulations
+      - Healthcare access
+      - Housing access
+      - Systemic racism
+      - Climate change
 
 
 
