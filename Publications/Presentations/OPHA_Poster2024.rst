@@ -47,6 +47,10 @@ The gut microbiome mediates a variety of factors across multiple scales, from th
 However, these factors do not equitably impact humans and vary across socio-environmental conditions. Therefore, an individual's ability to maintain a healthy gut microbiome depends on not just their individual lifestyle choices, but their environmental factors. These environmental conditions can be exacerbated or mitigated by systemic-level interventions, such as governmental public health initiatives and policies. (Interconnectedness overlooked). To address this gap, I propose a gut microbiome-centered framework that integrates public health and social equity issues across a multitude of scales to provide a holistic, ecological perspective of human and community health. This gut microbiome-centered framework can strengthen our collective efforts to address and resolve public health and social equity issues by providing a more comprehensive understanding of the factors that impact human health and the gut microbiome. 
 
 
+Factors that Impact the Gut Microbiome
+""""""""""""""""""""""""""""""""""""""
+
+
 Microbiome
 ''''''''''
 
