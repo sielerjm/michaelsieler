@@ -138,7 +138,6 @@ Other Presentations
      - 2024
 
        Corvallis, OR
-
    * - "ASM professional development series for Oregon microbiologists: Careers in academia vs. industry" *American Society for Microbiology.*
 
        - **Michael J. Sieler Jr.**, *et al.*
