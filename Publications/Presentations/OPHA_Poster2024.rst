@@ -51,9 +51,9 @@ Factors that Impact the Gut Microbiome
 """"""""""""""""""""""""""""""""""""""
 
 
-.. tab-set::
+.. tabs::
 
-   .. tab-item:: Microbiome
+   .. tab:: Microbiome
 
       **Microbiome-level factors:**
 
@@ -61,7 +61,7 @@ Factors that Impact the Gut Microbiome
       - Digests nutrients
       - Communicates with body systems
 
-   .. tab-item:: Individual
+   .. tab:: Individual
 
       **Individual-level factors:**
 
@@ -74,7 +74,7 @@ Factors that Impact the Gut Microbiome
       - Stress
       - Sleep
 
-   .. tab-item:: Environment
+   .. tab:: Environment
 
       **Environmental-level factors:**
 
@@ -88,7 +88,7 @@ Factors that Impact the Gut Microbiome
       - Urban vs. rural living
       - Pets
 
-   .. tab-item:: Systemic
+   .. tab:: Systemic
 
       **Systemic-level factors:**
 

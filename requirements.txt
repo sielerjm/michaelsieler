@@ -10,6 +10,7 @@ sphinx
 #sphinx-design
 #sphinx-rtd-theme==0.5.2
 sphinx-book-theme
+sphinx-tabs
 
 # Testing packages below
 
