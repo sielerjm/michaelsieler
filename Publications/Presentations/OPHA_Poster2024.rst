@@ -74,7 +74,7 @@ Factors that Impact the Gut Microbiome
       - Stress
       - Sleep
 
-   .. tab:: Environment
+   .. tab:: Environmental
 
       **Environmental-level factors:**
 
