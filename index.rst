@@ -45,6 +45,6 @@ Here's a brief (5 min) overview of my research:
    :hidden:
    :Caption: My Links
 
-   Scholar <https://scholar.google.com/citations?authuser=1&user=XqblXigAAAAJ>
+   Scholar <https://scholar.google.com/citations?user=XqblXigAAAAJ>
    GitHub <https://github.com/sielerjm>
    LinkedIn <https://www.linkedin.com/in/mjsielerjr/>
