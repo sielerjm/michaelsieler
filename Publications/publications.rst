@@ -132,6 +132,13 @@ Other Presentations
 .. list-table::
    :widths: 80 20
 
+      * - "Metadata Standards and Submission Portal" *National Microbiome Data Collaborative.*
+
+       - **Michael J. Sieler Jr.**
+     - 2024
+
+       Corvallis, OR
+
    * - "ASM professional development series for Oregon microbiologists: Careers in academia vs. industry" *American Society for Microbiology.*
 
        - **Michael J. Sieler Jr.**, *et al.*
