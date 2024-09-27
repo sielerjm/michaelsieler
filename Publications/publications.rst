@@ -132,7 +132,7 @@ Other Presentations
 .. list-table::
    :widths: 80 20
 
-      * - "Metadata Standards and Submission Portal" *National Microbiome Data Collaborative.*
+   * - "Metadata Standards and Submission Portal" *National Microbiome Data Collaborative.*
 
        - **Michael J. Sieler Jr.**
      - 2024
