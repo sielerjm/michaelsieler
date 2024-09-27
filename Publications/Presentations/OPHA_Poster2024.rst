@@ -55,6 +55,7 @@ Microbiome
 ''''''''''
 
 **Microbiome-level factors:**
+
 - Modulates immune system
 - Digests nutrients
 - Communicates with body systems
@@ -64,6 +65,7 @@ Individual
 ''''''''''
 
 **Individual-level factors:**
+
 - Genetics
 - Birth mode
 - Physiology
@@ -78,6 +80,7 @@ Environment
 '''''''''''
 
 **Environmental-level factors:**
+
 - Built environment
 - Pollutant exposure
 - Household members
@@ -92,6 +95,7 @@ Systemic
 ''''''''
 
 **Systemic-level factors:**
+
 - Socio-economic status
 - Education
 - Laws, policies, and regulations
