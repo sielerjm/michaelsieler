@@ -30,6 +30,7 @@ author = 'Michael Sieler'
 extensions = [
     #"sphinx_comments",
     #"sphinx_design",
+    "sphinx_tabs.tabs",
     "sphinxcontrib.icon",
 ]
 
