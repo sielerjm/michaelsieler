@@ -31,7 +31,7 @@ The Human Gut Microbiome at the Intersection of Public Health and Social Equity
 -------------------------------------------------------------------------------
 
 
-A Gut Microbiome-centered Framework
+A Gut Microbiome-Centered Framework
 """""""""""""""""""""""""""""""""""
 
 The gut microbiome is the community of microorganisms associated with a host (human, animal, plant) or environment (marine, soil) and its products (metabolites) or services (functions). The human gut microbiome comprises the microorganisms that live along our gastro-intestinal tract from our mouth to our colons. These microorganisms play a critical role supporting human health through a variety of ways, but principally modulating the immune system, digesting nutrients, and communicating with various body systems. 
