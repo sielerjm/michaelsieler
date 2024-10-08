@@ -7,7 +7,7 @@ OPHA 80th Annual Conference 2024
 
 .. note::
 
-   This page is a work in progress. Please check back for updates. (Last update: Oct 8, 2024):
+   This page is a work in progress. Please check back for updates (Last update: Oct 8, 2024):
      - Video presentation
      - Links to additional resources
      - Expanded vigniettes beyond food and nutrition 
