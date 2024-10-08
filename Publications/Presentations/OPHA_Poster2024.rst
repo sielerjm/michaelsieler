@@ -102,9 +102,10 @@ Factors that Impact the Gut Microbiome
 
 
 
-.. acknowledgements::
+Acknowledgements
+----------------
 
-   Many thanks goes to the all who provided feedback and encouraged me to make this poster. A lot of my initial thoughts came from attending Microbes and Social Equity working group seminars, and discussions with group members (Dr. Sue Ishaq, Dr. Emily Wissel). I'd also like to thank the members of the Oregon Public Health Association in the Food and Nutrition section for their encouragement and support (special thanks to group section chair, Tom Sincic).
+Many thanks goes to everyone who provided feedback and encouraged me to make this poster. A lot of my initial thoughts came from Microbes and Social Equity working group seminars, and discussions with MSE group members (Dr. Sue Ishaq, Dr. Emily Wissel). I'd also like to thank the members of the Oregon Public Health Association Food and Nutrition section for their encouragement and support (special thanks to group section chair, Tom Sincic).
 
 ------
 
