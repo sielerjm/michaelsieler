@@ -9,7 +9,7 @@ Summary
 -------
 
 * Microbiome scientist with 5+ years of experience developing and applying high-throughput molecular, computational, and statistical research methods to analyze 1000's of zebrafish gut microbiome samples
-* Robust data analytic skills in multi-modal microbiome bioinformatics and multivariate statistics to propel research experiments forward and gain data-driven insights
+* Robust data analytic skills in multi-modal microbiome bioinformatics and multivariate statistics 
 * Demonstrated abilities to collaborate and take leadership in cross-laboratory experiments and extra-curricular projects
 * Experienced in written, oral and visual communication across scientific and public audiences
 
@@ -195,6 +195,7 @@ Skills
         - DADA2
         - Phyloseq
         - Mothur
+        - Sina
         - HMMER
         - FastTree
    * - **Laboratory:**
@@ -209,7 +210,6 @@ Skills
 
         - Microsoft Office Suite
         - Adobe Photoshop and Illustrator
-        - Blender
      - **Languages:**
 
         - English (native)
