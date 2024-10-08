@@ -7,7 +7,10 @@ OPHA 80th Annual Conference 2024
 
 .. note::
 
-   This page is a work in progress. Please check back for updates. (Last update: Sept 27, 2024)
+   This page is a work in progress. Please check back for updates. (Last update: Oct 8, 2024):
+     - Video presentation
+     - Links to additional resources
+     - Expanded vigniettes beyond food and nutrition 
 
 
 Poster
@@ -98,6 +101,10 @@ Factors that Impact the Gut Microbiome
       - Climate change
 
 
+
+.. acknowledgements::
+
+   Many thanks goes to the all who provided feedback and encouraged me to make this poster. A lot of my initial thoughts came from attending Microbes and Social Equity working group seminars, and discussions with group members (Dr. Sue Ishaq, Dr. Emily Wissel). I'd also like to thank the members of the Oregon Public Health Association in the Food and Nutrition section for their encouragement and support (special thanks to group section chair, Tom Sincic).
 
 ------
 
