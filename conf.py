@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Michael Sieler'
-copyright = '2024, Michael Sieler'
+copyright = '2025, Michael Sieler'
 author = 'Michael Sieler'
 
 

@@ -3,13 +3,13 @@
 ❗Postdoc❗
 ==========
 
-Seeking postdoctoral positions starting in Summer 2025
------------------------------------------------------
+Seeking postdoctoral positions starting in Fall 2025
+----------------------------------------------------
 
 Introduction
 ------------
 
-As I approach the end of my PhD in Tom Sharpton's lab, I'm soon to be #OpenToWork. I'm a computational microbial ecologist looking for a postdoctoral research position to further develop my expertise and contribute to cutting-edge research in microbiome science. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work. 
+As I approach the end of my PhD in Tom Sharpton's lab, I'm soon to be #OpenToWork. I'm a biological data scientist looking for a postdoctoral research position to further develop my expertise and contribute to cutting-edge research in the life sciences. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work. 
 
 Research Interests
 ------------------
