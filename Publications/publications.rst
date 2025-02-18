@@ -61,8 +61,8 @@ Conference Presentations
 
 .. list-table::
    :widths: 80 20
-
-   * - `"Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." <https://sim.confex.com/sim/cmic2024/meetingapp.cgi/Session/5747>` *Connecting Microbiome Communities.*
+   
+   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish." <https://sim.confex.com/sim/cmic2024/meetingapp.cgi/Paper/50975>` *Connecting Microbiome Communities.*
 
        - **Michael J. Sieler Jr.**, *et al.*
      - 2024
@@ -134,12 +134,18 @@ Conference Panels
      
        Madison, WI
 
-Other Presentations
--------------------
+Workshops
+---------
 
 .. list-table::
    :widths: 80 20
 
+   * - `"Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." <https://sim.confex.com/sim/cmic2024/meetingapp.cgi/Session/5747>` *Connecting Microbiome Communities.*
+
+       - **Michael J. Sieler Jr.**, *et al.*
+     - 2024
+
+       San Diego, CA
    * - "Metadata Standards and Submission Portal" *National Microbiome Data Collaborative.*
 
        - **Michael J. Sieler Jr.**
