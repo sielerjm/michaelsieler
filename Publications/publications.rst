@@ -62,7 +62,7 @@ Conference Presentations
 .. list-table::
    :widths: 80 20
 
-   * - "Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." *Connecting Microbiome Communities.*
+   * - `"Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." <https://sim.confex.com/sim/cmic2024/meetingapp.cgi/Session/5747>` *Connecting Microbiome Communities.*
 
        - **Michael J. Sieler Jr.**, *et al.*
      - 2024
