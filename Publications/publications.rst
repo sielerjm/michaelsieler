@@ -56,8 +56,8 @@ In-prep Publications
      - 2024*
 
 
-Conference Presentations
-------------------------
+Presentations
+-------------
 
 .. list-table::
    :widths: 80 20
@@ -95,7 +95,7 @@ Conference Presentations
 
 
 Conference Posters
-------------------
+""""""""""""""""""
 
 .. list-table::
    :widths: 80 20
@@ -122,7 +122,7 @@ Conference Posters
      - 2019
 
 Conference Panels
------------------
+""""""""""""""""
 
 .. list-table::
    :widths: 80 20
@@ -135,7 +135,7 @@ Conference Panels
        Madison, WI
 
 Workshops
----------
+""""""""""
 
 .. list-table::
    :widths: 80 20
@@ -160,8 +160,8 @@ Workshops
        Corvallis, OR
 
 
-Other Publications
-------------------
+Other
+-----
 
 Undergraduate Thesis
 """"""""""""""""""""
