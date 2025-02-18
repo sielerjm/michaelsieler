@@ -42,7 +42,7 @@ In-prep Publications
 .. list-table::
    :widths: 90 10
 
-   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" <https://github.com/sielerjm/Sieler2025__ZF_Temperature_Parasite>` (*in-prep*)
+   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" <https://github.com/sielerjm/Sieler2025__ZF_Temperature_Parasite>`_ (*in-prep*)
 
        - **Michael J. Sieler Jr.**, ... 
      - 2024*
@@ -62,7 +62,7 @@ Presentations
 .. list-table::
    :widths: 80 20
    
-   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish." <https://sim.confex.com/sim/cmic2024/meetingapp.cgi/Paper/50975>` *Connecting Microbiome Communities.*
+   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish." <https://sim.confex.com/sim/cmic2024/meetingapp.cgi/Paper/50975>`_ *Connecting Microbiome Communities.*
 
        - **Michael J. Sieler Jr.**, *et al.*
      - 2024
@@ -140,7 +140,7 @@ Workshops
 .. list-table::
    :widths: 80 20
 
-   * - `"Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." <https://sim.confex.com/sim/cmic2024/meetingapp.cgi/Session/5747>` *Connecting Microbiome Communities.*
+   * - `"Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." <https://sim.confex.com/sim/cmic2024/meetingapp.cgi/Session/5747>`_ *Connecting Microbiome Communities.*
 
        - **Michael J. Sieler Jr.**, *et al.*
      - 2024
