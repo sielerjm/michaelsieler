@@ -16,7 +16,6 @@ Microbiome Diversity R Shiny App
    :target: https://michael-sieler.shinyapps.io/MicrobiomeDiversityShinyApp/
    :width: 50%
 
-
 `Microbiome Diversity R Shiny App <https://michael-sieler.shinyapps.io/MicrobiomeDiversityShinyApp/>`_ is a proof-of-concept AI-powered interface that users can use to explore, analyze, and visualize microbiome data. 
 
 Tools used:
