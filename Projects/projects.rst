@@ -9,11 +9,14 @@ Below are some extra-curricular projects I have worked on. These projects are no
 Research Projects
 -----------------
 
+Microbiome Diversity R Shiny App
+""""""""""""""""""""""""""""""""
+
 .. image:: ../Media/gifs/MicrobiomeRshinyApp.gif
    :target: https://michael-sieler.shinyapps.io/MicrobiomeDiversityShinyApp/
    :width: 50%
 
-Micorbiome Diversity R Shiny App is a proof-of-concept AI-powered interface that users can use to explore, analyze, and visualize microbiome data. 
+Microbiome Diversity R Shiny App is a proof-of-concept AI-powered interface that users can use to explore, analyze, and visualize microbiome data. 
 
 Tools used:
 
