@@ -9,12 +9,12 @@ Seeking postdoctoral positions starting in Fall 2025
 Introduction
 ------------
 
-As I approach the end of my PhD in Tom Sharpton's lab, I'm soon to be #OpenToWork. I'm a biological data scientist looking for a postdoctoral research position to further develop my expertise and contribute to cutting-edge research in the life sciences. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work. 
+I'm a biological data scientist looking for a postdoctoral research position starting Fall 2025 to further develop my expertise and contribute to cutting-edge research in the life sciences. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work. 
 
 Research Interests
 ------------------
 
-My research interests encompass a broad range of topics within microbiology and gut microbiome studies, including:
+I am interested in contributing to research in the following areas:
 
 - **Microbiome and Host Health**: Understanding the intricate relationships between the gut microbiome and host health, with a particular focus on disease prevention and treatment.
 - **Environmental Impacts on Microbiomes**: Investigating how environmental stressors such as climate change, diet, pathogens, and pollutants affect microbiome stability and resilience.
