@@ -63,17 +63,14 @@ Spotify Genre Visualization
    :target: https://michael-sieler.shinyapps.io/Spotify_heatmap/
    :width: 50%
 
-As part of a Data Visualization course taught by Dr. Charlotte Wickham (yes, that Wickham), we were tasked with making an interactive visualization based on a large dataset we found from database.
+`Spotify Genre Visualization <https://michael-sieler.shinyapps.io/Spotify_heatmap/>`_ is an interactive visualization of the Spotify dataset used in the Data Visualization course taught by Dr. Charlotte Wickham.
 
-`For my project <https://michael-sieler.shinyapps.io/Spotify_heatmap/>`_ (RShiny app), I chose a dataset derived from Spotify curated on Kaggle. The dataset contained data on a quarter million songs with over two dozen features per song. The data for these songs needed to be filtered and wrangled. After reducing the data set to a tenth its original size, I transformed and normalized the data to make an interactive heat map.
+For the project, I chose a dataset derived from Spotify curated on Kaggle. The dataset contained data on a quarter million songs with over two dozen features per song. The data for these songs needed to be filtered and wrangled. After reducing the data set to a tenth its original size, I transformed and normalized the data to make an interactive heat map.
 
 Tools used:
 
 - Kaggle (data source)
 - R (data wrangling, visualization)
-
-..
-    Download: :download:`Script <../Media/scripts/R/placeholder.Rmd>`
 
 
 ------
