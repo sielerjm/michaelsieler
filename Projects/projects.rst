@@ -6,18 +6,39 @@ Projects
 
 Below are some extra-curricular projects I have worked on. These projects are not directly related to my research, but they are a testament to my ability to think creatively, learn new skills and apply them to real-world problems.
 
+Research Projects
+-----------------
+
+.. image:: ../Media/gifs/MicrobiomeRshinyApp.gif
+   :target: https://michael-sieler.shinyapps.io/MicrobiomeDiversityShinyApp/
+   :width: 50%
+
+Micorbiome Diversity R Shiny App is a proof-of-concept AI-powered interface that users can use to explore, analyze, and visualize microbiome data. 
+
+Tools used:
+
+- R (data analysis, visualization)
+- RShiny (web application development)
+- HuggingFace API (LLM)
+
+
+
+
+
+Creative Projects
+-----------------
 
 GutMichaelBiome
----------------
+"""""""""""""""
 
 .. image:: ../Media/images/GMB_Sticker.png
    :target: https://gutmichaelbio.me/
    :width: 50%
 
-GutMichaelBiome is a play on words of "Gut Microbiome and Michael." In an effort to sustain my creativity and passion for sharing and communicating microbiome science through humor, I created a sticker-of-the-month club, where each month I send members a new sticker that I designed based on a microbiome or microbiology-related topic. You can find more information about the club and how to join on the `GutMichaelBiome website <https://gutmichaelbio.me/>`_.
+GutMichaelBiome is a play on words of "Gut Microbiome and Michael." To express my creativity and passion for sharing and communicating microbiome science through humor, I created a sticker-of-the-month club, where each month I send 20+ (and counting) members a new sticker that I designed based on a microbiome or microbiology-related topic. You can find more information about the club and how to join on the `GutMichaelBiome website <https://gutmichaelbio.me/>`_.
 
 Virtual Fish
-------------
+""""""""""""
 
 .. image:: ../Media/gifs/VirtualFish-Demo.gif
    :target: https://github.com/OSU-Edu-Games/Virtual-Fish
@@ -34,7 +55,7 @@ Tools used:
 
 
 Spotify Genre Visualization
----------------------------
+"""""""""""""""""""""""""""
 
 .. image:: ../Media/images/SpotifyShinyApp.png
    :target: https://michael-sieler.shinyapps.io/Spotify_heatmap/
