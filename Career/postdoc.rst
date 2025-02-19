@@ -30,6 +30,7 @@ Research Highlights
 - Conducted extensive longitudinal research on how multiple and combined environmental stressors impact gut microbiome stability to influence host health using the zebrafish model organism.
 
 **System-Agnostic Dynamical Microbiome Measures**
+
 - Developed novel system agnostic dynamical microbiome measures (SADMMs) to quantitatively measure temporal microbiome responses to environmental stressors across different microbiome systems and environmental conditions.
 
 **Multi-omic Microbiome Analysis**
@@ -41,7 +42,7 @@ Research Highlights
 Publications
 ------------
 
-I have authored several publications in peer-reviewed journals, showcasing my research findings and contributions to the field of microbiome science. A complete list of my publications can be found `here <https://michaelsieler.com/en/latest/Publications/publications.html>`_.
+A list of my peer-reviewed publications can be found `here <https://michaelsieler.com/en/latest/Publications/publications.html>`_.
 
 Future Directions
 -----------------
@@ -57,8 +58,8 @@ Contact Information
 
 If you are interested in discussing potential postdoctoral opportunities, please feel free to contact me at:
 
-- Email: `sielerjm (at) oregonstate (dot) edu <sielerjm@oregonstate.edu>`_
-- `LinkedIn <https://github.com/sielerjm>`_
+- Email: `sielerjm (at) oregonstate (dot) edu <mailto:sielerjm@oregonstate.edu>`_
+- `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
 
 I look forward to connecting and exploring potential opportunities in your lab!
 
