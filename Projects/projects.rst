@@ -16,7 +16,8 @@ Microbiome Diversity R Shiny App
    :target: https://michael-sieler.shinyapps.io/MicrobiomeDiversityShinyApp/
    :width: 50%
 
-Microbiome Diversity R Shiny App is a proof-of-concept AI-powered interface that users can use to explore, analyze, and visualize microbiome data. 
+
+`Microbiome Diversity R Shiny App <https://michael-sieler.shinyapps.io/MicrobiomeDiversityShinyApp/>`_ is a proof-of-concept AI-powered interface that users can use to explore, analyze, and visualize microbiome data. 
 
 Tools used:
 
@@ -38,7 +39,7 @@ GutMichaelBiome
    :target: https://gutmichaelbio.me/
    :width: 50%
 
-GutMichaelBiome is a play on words of "Gut Microbiome and Michael." To express my creativity and passion for sharing and communicating microbiome science through humor, I created a sticker-of-the-month club, where each month I send 20+ (and counting) members a new sticker that I designed based on a microbiome or microbiology-related topic. You can find more information about the club and how to join on the `GutMichaelBiome website <https://gutmichaelbio.me/>`_.
+`GutMichaelBiome <https://gutmichaelbio.me/>`_ is a play on words of "Gut Microbiome and Michael." To express my creativity and passion for sharing and communicating microbiome science through humor, I created a sticker-of-the-month club, where each month I send 20+ (and counting) members a new sticker that I designed based on a microbiome or microbiology-related topic. You can find more information about the club and how to join on the `GutMichaelBiome website <https://gutmichaelbio.me/>`_.
 
 Virtual Fish
 """"""""""""
@@ -47,9 +48,7 @@ Virtual Fish
    :target: https://github.com/OSU-Edu-Games/Virtual-Fish
    :width: 50%
 
-In collaboration with `Dr. Stephen Atkinson <https://microbiology.oregonstate.edu/dr-stephen-atkinson>`_ (lab website) in the department of Microbiology at Oregon State University, I have been actively developing an educational game called `Virtual Fish <https://github.com/OSU-Edu-Games/Virtual-Fish>`_ (GitHub).
-
-Virtual Fish is a tamagotchi-like game where players take care of a fish by feeding it, cleaning its tank, and administering it medicine whenever it gets an infection.
+`Virtual Fish <https://github.com/OSU-Edu-Games/Virtual-Fish>`_ (GitHub) is a science communication game developed in collaboration with `Dr. Stephen Atkinson <https://microbiology.oregonstate.edu/dr-stephen-atkinson>`_ (lab website) and Austin Hammer in the department of Microbiology at Oregon State University. Virtual Fish is a tamagotchi-like game where players take care of a fish by feeding it, cleaning its tank, and administering it medicine whenever it gets an infection.
 
 Tools used:
 
