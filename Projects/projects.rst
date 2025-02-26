@@ -48,6 +48,17 @@ GutMichaelBiome
 
 .. raw:: html
 
+   <style>
+       .swiper-slide img {
+           max-width: 100%;  /* Image won't be wider than its container */
+           max-height: 400px; /* Limit the height to 400px (adjust as needed) */
+           width: auto;       /* Keep aspect ratio */
+           height: auto;
+           display: block;    /* Removes extra spacing */
+           margin: 0 auto;    /* Centers the image */
+       }
+   </style>
+
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
    <div class="swiper mySwiper">
        <div class="swiper-wrapper">
