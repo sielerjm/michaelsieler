@@ -191,13 +191,14 @@ Skills
      - **Statistics and Data Analytics:**
 
         - Multivariate regression
-        - Bayesian statistics
         - Model building and testing
+        - Data visualization
+          - ggplot2
+          - R shiny
+          - Plotly
      - **Bioinformatics:**
 
         - 16S sequencing
-        - Metagenomics
-        - Transcriptomics
         - Metabolomics
         - DADA2
         - Phyloseq
