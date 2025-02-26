@@ -32,7 +32,7 @@ I’m a 5th year PhD candidate in the `Sharpton Lab <http://lab.sharpton.org>`_ 
 What do you want to do next?
 ----------------------------
 
-In my next role, I'm interested in opportunities where I can further develop my computational multi-omic analytical skills and contribute to projects interrogating how the gut microbiome influences host health. I'm currently based in Portland, OR, but I'm open to relocating nationally or internationally.
+In my next role, I'm interested in opportunities where I can further develop my computational multi-omic analytical skills and contribute to projects interrogating how the gut microbiome influences host health. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work.
 
 
 What is this site for?
