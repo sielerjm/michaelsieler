@@ -49,22 +49,22 @@
 
     <div class="slideshow-container">
         <div class="mySlides">
-            <img src="GreetingsFrom_GutMicrobiome__FINAL.png">
+            <img src="Media/slideshows/gutmichaelbiome/GreetingsFrom_GutMicrobiome__FINAL.png">
         </div>
         <div class="mySlides">
-            <img src="EAT_FIBER.png">
+            <img src="Media/slideshows/gutmichaelbiome/EAT_FIBER.png">
         </div>
         <div class="mySlides">
-            <img src="Petridish_Hand.png">
+            <img src="Media/slideshows/gutmichaelbiome/Petridish_Hand.png">
         </div>
         <div class="mySlides">
-            <img src="EatFiberTattoo.png">
+            <img src="Media/slideshows/gutmichaelbiome/EatFiberTattoo.png">
         </div>
         <div class="mySlides">
-            <img src="SocraFeces__FINAL.png">
+            <img src="Media/slideshows/gutmichaelbiome/SocraFeces__FINAL.png">
         </div>
         <div class="mySlides">
-            <img src="RolandTheFarter.png">
+            <img src="Media/slideshows/gutmichaelbiome/RolandTheFarter.png">
         </div>
 
 
@@ -89,7 +89,23 @@
                 slides[i].style.display = "none";
             }
             slides[slideIndex - 1].style.display = "block";
+
+            // Debugging: Log current slide
+            console.log('Showing slide:', slideIndex);
         }
+
+        // Debugging: Check if images are loading
+        window.onload = function () {
+            const images = document.querySelectorAll('img');
+            images.forEach((img, index) => {
+                img.onerror = () => {
+                    console.error('Failed to load image:', img.src);
+                };
+                img.onload = () => {
+                    console.log('Successfully loaded image:', img.src);
+                };
+            });
+        };
     </script>
 
 </body>
