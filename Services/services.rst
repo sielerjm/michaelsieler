@@ -32,7 +32,7 @@ Microbiome Bioinformatic Analysis
 
 I have experience analyzing multivariate longitudinal microbiome data across a variety of systems (human, mice, zebrafish). I can assist you from processing your raw data, to developing bioinformatic workflows, and interpreting your results. Below are some examples of my work:
 
-- `Effects of multiple and combined environmental stressors on the zebrafish gut microbiome. <https://sielerjm.github.io/Sieler2024__ZF_Temperature_Parasite/Results_Overview.html>`_
+- `Effects of multiple and combined environmental stressors on the zebrafish gut microbiome. <https://sielerjm.github.io/Sieler2025__ZF_Temperature_Parasite/Results_Overview.html>`_
 - `My GitHub <https://www.linkedin.com/in/mjsielerjr/>`_
 
 Scientific Writing and Editing:
@@ -41,11 +41,6 @@ Scientific Writing and Editing:
 I have experience writing and editing scientific manuscripts. I can help you with your writing needs, from drafting your first manuscript to polishing your final draft. Below are some examples of my work:
 
 - `Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection. Sieler *et. al. Animal Microbiome* (2023) <https://rdcu.be/djX1r>`_
-
-Additionally, I offer free writing resources that I've acquired from my own experience and lessons from my scientific mentors on my `blog <https://blog.michaelsieler.com/en/latest/posts/scientificwritingresources.html>`_.
-
-
-
 
 
 ------
