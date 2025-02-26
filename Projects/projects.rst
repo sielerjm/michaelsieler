@@ -150,7 +150,11 @@ Ceramics
 
 As a token of my appreciation for guest seminar speakers, collaborators, and friends, I created these ceramic petri dishes. Each one is slightly unique in the streak pattern and glaze coloring. 
 
+Tools used:
 
+- Clay (art)
+- Glaze (art)
+- Misc. tools (rolling pin,cookie cutters, extruder)
 
 
 .. Spotify Genre Visualization
