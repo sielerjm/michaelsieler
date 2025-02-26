@@ -220,7 +220,7 @@ Skills
      - **Languages:**
 
         - English (native)
-        - German (C1, advanced)
+        - German (B2, intermediate)
         - Spanish (beginner)
 
 
