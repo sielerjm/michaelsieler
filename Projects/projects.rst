@@ -25,7 +25,18 @@ Tools used:
 - HuggingFace API (LLM)
 
 
+Gut Microbiome Centered Framework
+""""""""""""""""""""""""""""""""""
 
+.. image:: ../Media/presentations/OPHA_Poster2024.png
+   :target: https://gutmichaelbio.me/
+   :width: 50%
+
+This poster a work in progress and an attempt to bridge public health and social equity issues by using what I'm calling a gut microbiome-centered framework. The gut microbiome (GMB)—a diverse community of microorganisms in the gastrointestinal tract—plays a crucial role in human health by aiding digestion, modulating the immune system, and protecting against pathogens. However, its composition and function are shaped by systemic, environmental, and individual factors, which can be exacerbated or mitigated by social determinants of health. A GMB-centered framework operates under the assumption that GMBs are a reflection of myriad influences an individual experiences at a given moment in time. The GMB-centered framework offers an ecological approach to help researchers, public health officials, and policymakers identify and address health disparities by asking the questions: "How is the GMB impacted by a particular issue? And, what factors contribute to this issue?". By considering these questions, the GMB-centered framework offers a holistic, ecological approach to understanding health disparities and guiding equitable public health interventions.
+
+Tools used:
+
+- Adobe Illustrator & Affinity Designer (graphic design)
 
 
 Creative Projects
