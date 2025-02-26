@@ -6,8 +6,8 @@ Projects
 
 Below are some extra-curricular projects I have worked on. These projects are not directly related to my research, but they are a testament to my ability to think creatively, learn new skills and apply them to real-world problems.
 
-Research Projects
------------------
+Research-related
+----------------
 
 Microbiome Diversity R Shiny App
 """"""""""""""""""""""""""""""""
@@ -82,8 +82,8 @@ Tools used:
 - Adobe Illustrator & Affinity Designer (graphic design)
 
 
-Creative Projects
------------------
+Creative
+--------
 
 GutMichaelBiome
 """""""""""""""
