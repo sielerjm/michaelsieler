@@ -48,9 +48,29 @@ GutMichaelBiome
 
 .. raw:: html
 
-    <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
-        <iframe src="../Media/slideshows/gutmichaelbiome/slideshow_gutmichaelbiome.html" style="position: absolute; width: 100%; height: 100%; border: none;"></iframe>
-    </div>
+   <div class="swiper mySwiper">
+       <div class="swiper-wrapper">
+           <div class="swiper-slide"><img src="../../Media/slideshows/gutmichaelbiome/GreetingsFrom_GutMicrobiome__FINAL.png"></div>
+           <div class="swiper-slide"><img src="../../Media/slideshows/gutmichaelbiome/EAT_FIBER.png"></div>
+           <div class="swiper-slide"><img src="../../Media/slideshows/gutmichaelbiome/Petridish_Hand.png"></div>
+           <div class="swiper-slide"><img src="../../Media/slideshows/gutmichaelbiome/EatFiberTattoo.png"></div>
+           <div class="swiper-slide"><img src="../../Media/slideshows/gutmichaelbiome/SocraFeces__FINAL.png"></div>
+           <div class="swiper-slide"><img src="../../Media/slideshows/gutmichaelbiome/RolandTheFarter.png"></div>
+       </div>
+       <div class="swiper-pagination"></div>
+       <div class="swiper-button-next"></div>
+       <div class="swiper-button-prev"></div>
+   </div>
+
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
+   <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+   <script>
+       var swiper = new Swiper(".mySwiper", {
+           loop: true,
+           pagination: { el: ".swiper-pagination", clickable: true },
+           navigation: { nextEl: ".swiper-button-next", prevEl: ".swiper-button-prev" }
+       });
+   </script>
 
 `GutMichaelBiome <https://gutmichaelbio.me/>`_ is a play on words of "Gut Microbiome and Michael." To express my creativity and passion for sharing and communicating microbiome science through humor, I created a sticker-of-the-month club, where each month I send 20+ (and counting) members a new sticker that I designed based on a microbiome or microbiology-related topic. You can find more information about the club and how to join on the `GutMichaelBiome website <https://gutmichaelbio.me/>`_.
 
