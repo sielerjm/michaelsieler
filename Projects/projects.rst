@@ -142,6 +142,17 @@ Tools used:
 - GitHub (version control, game hosting)
 
 
+Ceramics
+""""""""
+
+.. image:: ../Media/images/CeramicPetriDish.jpg
+   :height: 300px
+
+
+
+
+
+
 .. Spotify Genre Visualization
 .. """""""""""""""""""""""""""
 
