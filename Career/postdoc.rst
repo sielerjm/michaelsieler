@@ -26,7 +26,7 @@ Research Highlights
 
 **Microbiome and Host Health**
 
-- My first project was a multi-factorial microbiome zebrafish study investigating the effects of different commonly used laboratory diets on pathogen exposure sensitivity. I found that fish microbiomes varied by diet and fish fed certain diets were more sensitive to pathogen exposure. This work resulted in a peer-reviewed manuscript `(Sieler et al. 2023) <https://rdcu.be/djX1r>_`.
+- My first project was a multi-factorial microbiome zebrafish study investigating the effects of different commonly used laboratory diets on pathogen exposure sensitivity. I found that fish microbiomes varied by diet and fish fed certain diets were more sensitive to pathogen exposure. This work resulted in a peer-reviewed manuscript `(Sieler et al. 2023) <https://rdcu.be/djX1r>`_.
 
 **Small Molecule Metabolomics Analysis**
 
