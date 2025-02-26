@@ -14,7 +14,7 @@ Microbiome Diversity R Shiny App
 
 .. image:: ../Media/gifs/MicrobiomeRshinyApp.gif
    :target: https://michael-sieler.shinyapps.io/MicrobiomeDiversityShinyApp/
-   :width: 50%
+   :height: 400px
 
 `Microbiome Diversity R Shiny App <https://michael-sieler.shinyapps.io/MicrobiomeDiversityShinyApp/>`_ is a proof-of-concept AI-powered interface that users can use to explore, analyze, and visualize microbiome data. 
 
@@ -30,7 +30,7 @@ Gut Microbiome Centered Framework
 
 .. image:: ../Media/presentations/OPHA_Poster2024.png
    :target: https://michaelsieler.com/en/latest/_images/OPHA_Poster2024.png
-   :width: 50%
+   :height: 400px
    :alt: OPHA 80th Annual Conference 2024 Poster
 
 This poster a work in progress and an attempt to bridge public health and social equity issues by using what I'm calling a gut microbiome-centered framework. The gut microbiome (GMB)—a diverse community of microorganisms in the gastrointestinal tract—plays a crucial role in human health by aiding digestion, modulating the immune system, and protecting against pathogens. However, its composition and function are shaped by systemic, environmental, and individual factors, which can be exacerbated or mitigated by social determinants of health. A GMB-centered framework operates under the assumption that GMBs are a reflection of myriad influences an individual experiences at a given moment in time. The GMB-centered framework offers an ecological approach to help researchers, public health officials, and policymakers identify and address health disparities by asking the questions: "How is the GMB impacted by a particular issue? And, what factors contribute to this issue?". By considering these questions, the GMB-centered framework offers a holistic, ecological approach to understanding health disparities and guiding equitable public health interventions.
@@ -105,7 +105,7 @@ Spotify Genre Visualization
 
 .. image:: ../Media/images/SpotifyShinyApp.png
    :target: https://michael-sieler.shinyapps.io/Spotify_heatmap/
-   :width: 50%
+   :height: 400px
 
 `Spotify Genre Visualization <https://michael-sieler.shinyapps.io/Spotify_heatmap/>`_ is an interactive visualization of the Spotify dataset used in the Data Visualization course taught by Dr. Charlotte Wickham.
 
