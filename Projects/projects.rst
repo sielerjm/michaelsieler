@@ -148,7 +148,7 @@ Ceramics
 .. image:: ../Media/images/CeramicPetriDish.jpg
    :height: 300px
 
-As a token of my appreciation for guest speakers at the department of Microbiology, I created these ceramic petri dishes. Each one is slightly unique in the streak pattern and glaze coloring. 
+As a token of my appreciation for guest seminar speakers, collaborators, and friends, I created these ceramic petri dishes. Each one is slightly unique in the streak pattern and glaze coloring. 
 
 
 
