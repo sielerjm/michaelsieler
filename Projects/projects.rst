@@ -14,7 +14,7 @@ Microbiome Diversity R Shiny App
 
 .. image:: ../Media/gifs/MicrobiomeRshinyApp.gif
    :target: https://michael-sieler.shinyapps.io/MicrobiomeDiversityShinyApp/
-   :height: 400px
+   :height: 300px
 
 `Microbiome Diversity R Shiny App <https://michael-sieler.shinyapps.io/MicrobiomeDiversityShinyApp/>`_ is a proof-of-concept AI-powered interface that users can use to explore, analyze, and visualize microbiome data. 
 
@@ -30,7 +30,7 @@ Gut Microbiome Centered Framework
 
 .. image:: ../Media/presentations/OPHA_Poster2024.png
    :target: https://michaelsieler.com/en/latest/_images/OPHA_Poster2024.png
-   :height: 400px
+   :height: 300px
    :alt: OPHA 80th Annual Conference 2024 Poster
 
 This poster a work in progress and an attempt to bridge public health and social equity issues by using what I'm calling a gut microbiome-centered framework. The gut microbiome (GMB)—a diverse community of microorganisms in the gastrointestinal tract—plays a crucial role in human health by aiding digestion, modulating the immune system, and protecting against pathogens. However, its composition and function are shaped by systemic, environmental, and individual factors, which can be exacerbated or mitigated by social determinants of health. A GMB-centered framework operates under the assumption that GMBs are a reflection of myriad influences an individual experiences at a given moment in time. The GMB-centered framework offers an ecological approach to help researchers, public health officials, and policymakers identify and address health disparities by asking the questions: "How is the GMB impacted by a particular issue? And, what factors contribute to this issue?". By considering these questions, the GMB-centered framework offers a holistic, ecological approach to understanding health disparities and guiding equitable public health interventions.
@@ -51,7 +51,7 @@ GutMichaelBiome
    <style>
        .swiper-slide img {
            max-width: 100%;  /* Image won't be wider than its container */
-           max-height: 400px; /* Limit the height to 400px (adjust as needed) */
+           max-height: 300px; /* Limit the height to 400px (adjust as needed) */
            width: auto;       /* Keep aspect ratio */
            height: auto;
            display: block;    /* Removes extra spacing */
@@ -90,7 +90,7 @@ Virtual Fish
 
 .. image:: ../Media/gifs/VirtualFish-Demo.gif
    :target: https://github.com/OSU-Edu-Games/Virtual-Fish
-   :width: 50%
+   :height: 300px
 
 `Virtual Fish <https://github.com/OSU-Edu-Games/Virtual-Fish>`_ (GitHub) is a science communication game developed in collaboration with `Dr. Stephen Atkinson <https://microbiology.oregonstate.edu/dr-stephen-atkinson>`_ (lab website) and Austin Hammer in the department of Microbiology at Oregon State University. Virtual Fish is a tamagotchi-like game where players take care of a fish by feeding it, cleaning its tank, and administering it medicine whenever it gets an infection.
 
@@ -105,7 +105,7 @@ Spotify Genre Visualization
 
 .. image:: ../Media/images/SpotifyShinyApp.png
    :target: https://michael-sieler.shinyapps.io/Spotify_heatmap/
-   :height: 400px
+   :height: 300px
 
 `Spotify Genre Visualization <https://michael-sieler.shinyapps.io/Spotify_heatmap/>`_ is an interactive visualization of the Spotify dataset used in the Data Visualization course taught by Dr. Charlotte Wickham.
 
