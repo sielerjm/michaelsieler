@@ -25,12 +25,15 @@ Research Highlights
 -------------------
 
 **Microbiome and Host Health**
+
 - My first project was a multi-factorial microbiome zebrafish study investigating the effects of different commonly used laboratory diets on pathogen exposure sensitivity. I found that fish microbiomes varied by diet and fish fed certain diets were more sensitive to pathogen exposure. This work resulted in a peer-reviewed manuscript `(Sieler et al. 2023) <https://rdcu.be/djX1r>_`.
 
 **Small Molecule Metabolomics Analysis**
+
 - During my Biostatistics and Data Science PhD internship at the Pacific Northwest National Laboratory, I evaluated 12 common batch effect correction algorithms (BECAs) used for small molecule metabolomics analysis. I found that particular BECAs were better at resolving unwanted versus wanted variation when ground truth is known or unknown in lipidomic analysis, and these BECAs performance differed to optimal BECAs for other types of metabolites. This work is currently in-preparation for publication.
 
 **Gut Microbiome Stability and Host Health**
+
 - My second and third PhD dissertation chapters build on my prior work investigating zebrafish microbiome ecology. Notably, I’m developing novel methods for evaluating system-agnostic temporally dynamic  microbiome stability. To do so, I led the design and execution of a major longitudinal microbiome study with 720 zebrafish across 8 multifactorial treatment regimes (e.g., antibiotics, temperature, parasites). I collected intestinal gut and fecal samples from all fish for genomic and transcriptomic analysis. From these data, I’ve developed metrics that complement microbiome metrics for measuring diversity and composition to assess temporal stability across different host-microbiome systems. These metrics would allow researchers to integrate results across studies to identify generalizable patterns of microbiome stability to predict health/disease.
 
 
