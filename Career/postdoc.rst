@@ -42,7 +42,7 @@ Research Highlights
 
 - My second and third PhD dissertation chapters build on my prior work investigating environmental impacts on zebrafish microbiome stability. 
 - Current methods of microbiome analysis are limited in their ability to detect generalizable temporal patterns in microbiome response to disturbances across different host-microbiome systems. 
-- To address this, I’m currently developing novel metrics for evaluating system-agnostic temporally dynamic microbiome stability that consider changes in microbiome diversity and composition across time regardless of the host-microbiome system. 
+- To address this, I'm currently developing novel metrics for evaluating system-agnostic temporally dynamic microbiome stability that consider changes in microbiome diversity and composition across time regardless of the host-microbiome system. 
 - These metrics would allow researchers to integrate results across studies to identify generalizable patterns of microbiome stability/instability to predict health/disease.
 
 
@@ -50,6 +50,17 @@ Publications
 ------------
 
 A list of my peer-reviewed publications can be found `here <https://michaelsieler.com/en/latest/Publications/publications.html>`_.
+
+
+What I offer
+------------
+
+- **Adaptable Statistical Programmer** - Proficient in R and other computational tools for analyzing and modeling complex biological datasets.
+- **Data-Driven Problem Solver** - Experienced in synthesizing and processing multifactorial, longitudinal datasets to uncover meaningful insights.
+- **Effective Science Communicator** - Skilled in translating complex concepts into intuitive data visualizations and compelling graphic designs.
+- **Lifelong Learner** - Driven by curiosity and a passion for expanding my expertise in microbiome research and computational biology.
+- **Collaborative Thinker** - A strong interdisciplinary team player who thrives in cross-functional environments, bridging microbiology, ecology, and data science.
+
 
 Future Directions
 -----------------
