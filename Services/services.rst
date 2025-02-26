@@ -7,8 +7,8 @@ Services
 I offer expert data science and life sciences solutions, specializing in coding, statistics, research, experimental design, and analysis. I have a strong background in microbiome bioinformatics, and I am experienced in working with and integrating large, multi-omic datasets. I am also a skilled communicator and can help you present your findings in a clear and compelling way. Below you can find examples of my work and the skills I can offer.
 
 
-Figure design
--------------
+Experimental Schematic Figure Designs
+-------------------------------------
 
 Microbiome research experiments can be complicated involving multiple and combined treatment groups, longitidunal sampling, and multi-omic data. Taking inspiration from subway maps, I have designed figures to clearly and effectively communicate complex experimental designs and results. Below are some examples of figures I have designed for my research.
 
