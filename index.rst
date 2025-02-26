@@ -28,7 +28,6 @@ Have a look around and don't hesitate to `reach out <mailto:sielerjm@oregonstate
    Publications/publications
    Projects/projects
    Career/postdoc
-   Services/services
 
 ------
 
