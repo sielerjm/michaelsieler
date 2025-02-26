@@ -46,9 +46,11 @@ Creative Projects
 GutMichaelBiome
 """""""""""""""
 
-.. image:: ../Media/images/GMB_Sticker.png
-   :target: https://gutmichaelbio.me/
-   :width: 50%
+.. raw:: html
+
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%;">
+        <iframe src="../Media/slideshows/gutmichaelbiome/slideshow_gutmichaelbiome.html" style="position: absolute; width: 100%; height: 100%; border: none;"></iframe>
+    </div>
 
 `GutMichaelBiome <https://gutmichaelbio.me/>`_ is a play on words of "Gut Microbiome and Michael." To express my creativity and passion for sharing and communicating microbiome science through humor, I created a sticker-of-the-month club, where each month I send 20+ (and counting) members a new sticker that I designed based on a microbiome or microbiology-related topic. You can find more information about the club and how to join on the `GutMichaelBiome website <https://gutmichaelbio.me/>`_.
 
