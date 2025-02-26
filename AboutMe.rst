@@ -44,7 +44,7 @@ The goal of this site is to provide a central location to share my `research and
 How can I contact you?
 ----------------------
 
-The best way to reach me is by `reach out <mailto:sielerjm@oregonstate.edu>`_ .
+The best way to reach me is by `email <mailto:sielerjm@oregonstate.edu>`_ .
 
 **You can also find me here:**
 
