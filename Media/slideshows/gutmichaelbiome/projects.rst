@@ -48,37 +48,27 @@ GutMichaelBiome
 
 .. raw:: html
 
-   <!-- Swiper CSS -->
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
-
-   <!-- Swiper Container -->
    <div class="swiper mySwiper">
        <div class="swiper-wrapper">
-           <div class="swiper-slide"><img src="../../Media/slideshows/gutmichaelbiome/GreetingsFrom_GutMicrobiome__FINAL.png" alt="Greetings from Gut Microbiome"></div>
-           <div class="swiper-slide"><img src="../../Media/slideshows/gutmichaelbiome/EAT_FIBER.png" alt="Eat Fiber"></div>
-           <div class="swiper-slide"><img src="../../Media/slideshows/gutmichaelbiome/Petridish_Hand.png" alt="Petri Dish Hand"></div>
-           <div class="swiper-slide"><img src="../../Media/slideshows/gutmichaelbiome/EatFiberTattoo.png" alt="Eat Fiber Tattoo"></div>
-           <div class="swiper-slide"><img src="../../Media/slideshows/gutmichaelbiome/SocraFeces__FINAL.png" alt="Socrates Feces"></div>
-           <div class="swiper-slide"><img src="../../Media/slideshows/gutmichaelbiome/RolandTheFarter.png" alt="Roland The Farter"></div>
+           <div class="swiper-slide"><img src="Media/slideshows/gutmichaelbiome/GreetingsFrom_GutMicrobiome__FINAL.png"></div>
+           <div class="swiper-slide"><img src="Media/slideshows/gutmichaelbiome/EAT_FIBER.png"></div>
+           <div class="swiper-slide"><img src="Media/slideshows/gutmichaelbiome/Petridish_Hand.png"></div>
+           <div class="swiper-slide"><img src="Media/slideshows/gutmichaelbiome/EatFiberTattoo.png"></div>
+           <div class="swiper-slide"><img src="Media/slideshows/gutmichaelbiome/SocraFeces__FINAL.png"></div>
+           <div class="swiper-slide"><img src="Media/slideshows/gutmichaelbiome/RolandTheFarter.png"></div>
        </div>
-       <!-- Swiper Pagination -->
        <div class="swiper-pagination"></div>
-       <!-- Swiper Navigation Buttons -->
        <div class="swiper-button-next"></div>
        <div class="swiper-button-prev"></div>
    </div>
 
-   <!-- Swiper JS -->
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
    <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
    <script>
-       document.addEventListener("DOMContentLoaded", function () {
-           var swiper = new Swiper(".mySwiper", {
-               loop: true,
-               autoplay: { delay: 3000, disableOnInteraction: false }, // Auto-slide every 3s
-               pagination: { el: ".swiper-pagination", clickable: true },
-               navigation: { nextEl: ".swiper-button-next", prevEl: ".swiper-button-prev" },
-               effect: "fade", // Smooth fade transition effect
-           });
+       var swiper = new Swiper(".mySwiper", {
+           loop: true,
+           pagination: { el: ".swiper-pagination", clickable: true },
+           navigation: { nextEl: ".swiper-button-next", prevEl: ".swiper-button-prev" }
        });
    </script>
 
