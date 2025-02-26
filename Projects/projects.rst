@@ -154,7 +154,7 @@ Tools used:
 
 - Clay (art)
 - Glaze (art)
-- Misc. tools (rolling pin,cookie cutters, extruder)
+- Misc. tools (rolling pin, cookie cutters, extruder)
 
 
 .. Spotify Genre Visualization
