@@ -35,15 +35,15 @@ Research Highlights
 
 - During my Biostatistics and Data Science PhD internship at the Pacific Northwest National Laboratory, I evaluated 12 common batch effect correction algorithms (BECAs) used for small molecule metabolomics analysis. 
 - I found that particular BECAs were better at resolving unwanted versus wanted variation when ground truth is known or unknown in lipidomic analysis, and these BECAs performance differed to optimal BECAs for other types of metabolites. 
+- An important implication of this work is that researchers can use these results to guide optimal BECA selection to improve the accuracy of their analysis.
 - This work is currently in-preparation for publication.
 
 **Gut Microbiome Stability and Host Health**
 
-- My second and third PhD dissertation chapters build on my prior work investigating zebrafish microbiome ecology. Notably, I’m developing novel methods for evaluating system-agnostic temporally dynamic  microbiome stability. 
-- To do so, I led the design and execution of a major longitudinal microbiome study with 720 zebrafish across 8 multifactorial treatment regimes (e.g., antibiotics, temperature, parasites). 
-- I collected intestinal gut and fecal samples from all fish for genomic and transcriptomic analysis. 
-- From these data, I’ve developed metrics that complement microbiome metrics for measuring diversity and composition to assess temporal stability across different host-microbiome systems. 
-- These metrics would allow researchers to integrate results across studies to identify generalizable patterns of microbiome stability to predict health/disease.
+- My second and third PhD dissertation chapters build on my prior work investigating environmental impacts on zebrafish microbiome stability. 
+- Current methods of microbiome analysis are limited in their ability to detect generalizable temporal patterns in microbiome response to disturbances across different host-microbiome systems. 
+- To address this, I’m currently developing novel metrics for evaluating system-agnostic temporally dynamic microbiome stability that consider changes in microbiome diversity and composition across time regardless of the host-microbiome system. 
+- These metrics would allow researchers to integrate results across studies to identify generalizable patterns of microbiome stability/instability to predict health/disease.
 
 
 Publications
