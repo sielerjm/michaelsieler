@@ -51,12 +51,12 @@ GutMichaelBiome
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
    <div class="swiper mySwiper">
        <div class="swiper-wrapper">
-           <div class="swiper-slide"><img src="/_static/gutmichaelbiome/GreetingsFrom_GutMicrobiome__FINAL.png"></div>
-           <div class="swiper-slide"><img src="/_static/gutmichaelbiome/EAT_FIBER.png"></div>
-           <div class="swiper-slide"><img src="/_static/gutmichaelbiome/Petridish_Hand.png"></div>
-           <div class="swiper-slide"><img src="/_static/gutmichaelbiome/EatFiberTattoo.png"></div>
-           <div class="swiper-slide"><img src="/_static/gutmichaelbiome/SocraFeces__FINAL.png"></div>
-           <div class="swiper-slide"><img src="/_static/gutmichaelbiome/RolandTheFarter.png"></div>
+           <div class="swiper-slide"><img src="../_static/gutmichaelbiome/GreetingsFrom_GutMicrobiome__FINAL.png"></div>
+           <div class="swiper-slide"><img src="../_static/gutmichaelbiome/EAT_FIBER.png"></div>
+           <div class="swiper-slide"><img src="../_static/gutmichaelbiome/Petridish_Hand.png"></div>
+           <div class="swiper-slide"><img src="../_static/gutmichaelbiome/EatFiberTattoo.png"></div>
+           <div class="swiper-slide"><img src="../_static/gutmichaelbiome/SocraFeces__FINAL.png"></div>
+           <div class="swiper-slide"><img src="../_static/gutmichaelbiome/RolandTheFarter.png"></div>
        </div>
        <div class="swiper-pagination"></div>
        <div class="swiper-button-next"></div>
