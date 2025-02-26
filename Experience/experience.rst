@@ -107,11 +107,18 @@ Awards, Honors & Fellowships
 .. list-table::
    :widths: 80 20
 
+
    * - **Oregon Department of Fish and Wildlife Fish Health Graduate Research Fellowship**
 
        - **Fish Health Graduate Research Fellow**
        - Recognized for research in Microbiology at Oregon State University, focusing on fish health issues to benefit Oregon's fish populations.
      - 2023-2025
+
+   * - **OSU Scholarly Presentation Award**
+
+       - **Competitive Funding Recipient**
+       - Awarded competitive funding to support graduate students presenting their research at professional conferences.
+     - 2024
 
    * - `Oregon Museum of Science and Industry <https://omsi.edu/science-communication-services>`_
 
