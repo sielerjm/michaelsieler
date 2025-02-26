@@ -9,34 +9,29 @@ Seeking postdoctoral positions starting in Fall 2025
 Introduction
 ------------
 
-I'm a biological data scientist looking for a postdoctoral research position starting Fall 2025 to further develop my expertise and contribute to cutting-edge research in the life sciences. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work. 
+I'm a microbiome data scientist looking for a postdoctoral research position starting Fall 2025 to further develop my expertise and contribute to cutting-edge research in the microbiome field. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work. 
 
 Research Interests
 ------------------
 
 I am interested in contributing to research in the following areas:
 
-- **Microbiome and Host Health**: Understanding the intricate relationships between the gut microbiome and host health, with a particular focus on disease prevention and treatment.
-- **Environmental Impacts on Microbiomes**: Investigating how environmental stressors such as climate change, diet, pathogens, and pollutants affect microbiome stability and resilience.
-- **Microbial Ecology**: Exploring the dynamics of microbial communities and their adaption in response to environmental changes.
-- **Bioinformatics and Computational Biology**: Utilizing computational tools and statistical models to analyze microbiome data and develop new methods for microbiome research.
+- **Environment and gut microbiome interaction with host health**: How environmental stressors (e.g. diet, pollutants, pathogens, climate change, etc.) impact gut microbiome stability and resilience to influence host health and homeostasis.
+- **Temporal dynamics of host-microbiome systems**: Elucidating temporal patterns in microbiome response to disturbances. 
+- **Multi-omic microbiome analysis**: Integrating multivariate multi-omic data to provide a comprehensive view of the gut microbiome and its functional potential.
 - **Transdisciplinary Microbiome Research**: Collaborating across disciplines to elucidate the microbiome's central role interfacing between host health, public health and social equity. 
 
 Research Highlights
 -------------------
 
+**Microbiome and Host Health**
+- My first project was a multi-factorial microbiome zebrafish study investigating the effects of different commonly used laboratory diets on pathogen exposure sensitivity. I found that fish microbiomes varied by diet and fish fed certain diets were more sensitive to pathogen exposure. This work resulted in a peer-reviewed manuscript `(Sieler et al. 2023) <https://rdcu.be/djX1r>_`.
+
+**Small Molecule Metabolomics Analysis**
+- During my Biostatistics and Data Science PhD internship at the Pacific Northwest National Laboratory, I evaluated 12 common batch effect correction algorithms (BECAs) used for small molecule metabolomics analysis. I found that particular BECAs were better at resolving unwanted versus wanted variation when ground truth is known or unknown in lipidomic analysis, and these BECAs performance differed to optimal BECAs for other types of metabolites. This work is currently in-preparation for publication.
+
 **Gut Microbiome Stability and Host Health**
-
-- Conducted extensive longitudinal research on how multiple and combined environmental stressors impact gut microbiome stability to influence host health using the zebrafish model organism.
-
-**System-Agnostic Dynamical Microbiome Measures**
-
-- Developed novel system agnostic dynamical microbiome measures (SADMMs) to quantitatively measure temporal microbiome responses to environmental stressors across different microbiome systems and environmental conditions.
-
-**Multi-omic Microbiome Analysis**
-
-- Integrated multivariate multi-omic data to provide a comprehensive view of the gut microbiome and its functional potential.
-
+- My second and third PhD dissertation chapters build on my prior work investigating zebrafish microbiome ecology. Notably, I’m developing novel methods for evaluating system-agnostic temporally dynamic  microbiome stability. To do so, I led the design and execution of a major longitudinal microbiome study with 720 zebrafish across 8 multifactorial treatment regimes (e.g., antibiotics, temperature, parasites). I collected intestinal gut and fecal samples from all fish for genomic and transcriptomic analysis. From these data, I’ve developed metrics that complement microbiome metrics for measuring diversity and composition to assess temporal stability across different host-microbiome systems. These metrics would allow researchers to integrate results across studies to identify generalizable patterns of microbiome stability to predict health/disease.
 
 
 Publications
@@ -58,7 +53,7 @@ Contact Information
 
 If you are interested in discussing potential postdoctoral opportunities, please feel free to contact me at:
 
-- Email: `sielerjm (at) oregonstate (dot) edu <mailto:sielerjm@oregonstate.edu>`_
+- `Email <mailto:sielerjm@oregonstate.edu>`_
 - `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
 
 I look forward to connecting and exploring potential opportunities in your lab!
