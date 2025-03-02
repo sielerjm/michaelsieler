@@ -46,7 +46,7 @@ In-prep Publications
 
        - **Michael J. Sieler Jr.**, ... 
      - 2024*
-   * - "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" (*in-prep*)
+   * - "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" (*in-prep, draft available upon request*)
 
        - Emilee Lance, **Michael J. Sieler Jr.**, ...
      - 2024*
