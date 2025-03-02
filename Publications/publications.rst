@@ -117,15 +117,15 @@ Conference Posters
        - **Michael J. Sieler Jr.**, *et al.*
      - 2019
      
-     - Eugene, OR
+       Eugene, OR
    * - "The Gut Microbiome Drives Benzo[a]pyrene's Impact on Zebrafish Behavioral Development." *CAS Student Showcase, Oregon State University.*
 
        - **Michael J. Sieler Jr.**, *et al.*
      - 2019
 
-     - Corvallis, OR
+       Corvallis, OR
 
-     
+
 Conference Panels
 """"""""""""""""
 
