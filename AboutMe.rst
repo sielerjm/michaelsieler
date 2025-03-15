@@ -26,13 +26,13 @@ Throughout my undergrad I conducted research alongside Ph.D. students and post-d
 What do you do now?
 -------------------
 
-I’m a 5th year PhD candidate in the `Sharpton Lab <http://lab.sharpton.org>`_ at Oregon State University (OSU). I research how environmental factors (diet, pollutants, pathogens, climate change, etc.) impact gut microbiome stability and resilience to influence host health using the zebrafish model organism. To do this, I use an ecological lens and combine molecular and computational biological methods to better understand how environmental factors (e.g. diet, climate change, parasites) interact with the gut microbiome to influence host health and homeostasis. 
+I’m a 5th year PhD candidate in the `Sharpton Lab <http://lab.sharpton.org>`_ at Oregon State University (OSU). I research how exogenous factors (diet, pollutants, pathogens, climate change, etc.) impact gut microbiome stability and resilience to influence host health using the zebrafish model organism. To do this, I use an ecological lens, and combine molecular and computational biological methods to better understand how exogenous factors interact with the gut microbiome to influence host health and homeostasis. 
 
 
 What do you want to do next?
 ----------------------------
 
-In my next role, I'm interested in opportunities where I can further develop my computational multi-omic analytical skills and contribute to projects interrogating how the gut microbiome influences host health. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work.
+In my next role, I'm interested in opportunities where I can further develop my multi-omic computational and analytical skills and contribute to projects interrogating microbiome stability. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work.
 
 
 What is this site for?

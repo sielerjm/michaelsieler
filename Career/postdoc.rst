@@ -9,16 +9,16 @@ Seeking postdoctoral positions starting in Fall 2025
 Introduction
 ------------
 
-I'm a microbiome data scientist looking for a postdoctoral research position starting fall 2025 to further develop my expertise and contribute to cutting-edge research in the microbiome field. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work. 
+I'm a microbiome data scientist looking for a postdoctoral research position starting fall 2025 to further develop my expertise and contribute to cutting-edge research in the field of microbiome science. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work. 
 
 Research Interests
 ------------------
 
 I am interested in contributing to research in the following areas:
 
-- **Environment and gut microbiome interaction with host health**: How environmental stressors (e.g. diet, pollutants, pathogens, climate change, etc.) impact gut microbiome stability and resilience to influence host health and homeostasis.
-- **Temporal dynamics of host-microbiome systems**: Elucidating temporal patterns in microbiome response to disturbances. 
-- **Multi-omic microbiome analysis**: Integrating multivariate multi-omic data to provide a comprehensive view of the gut microbiome and its functional potential.
+- **Environment and gut microbiome interaction with host health**: How exogenous factors (e.g. diet, pollutants, pathogens, climate change, etc.) impact gut microbiome stability and resilience to influence host health and homeostasis.
+- **Temporal stability of microbiome systems**: Developing new frameworks for evaluating temporal patterns of microbiome stability. 
+- **Multi-omic microbiome analysis**: Integrating multivariate multi-omic data to clarify patterns and mechanisms of microbiome stability.
 - **Transdisciplinary Microbiome Research**: Collaborating across disciplines to elucidate the microbiome's central role interfacing between host health, public health and social equity. 
 
 Research Highlights
