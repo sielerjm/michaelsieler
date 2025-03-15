@@ -50,8 +50,8 @@ Microbiome and Host Health
 - An important implication of this work is that environmental context can confound microbiome-host health associations.
 - This work resulted in a peer-reviewed manuscript `(Sieler et al. 2023) <https://rdcu.be/djX1r>`_.
 
-Gut Microbiome Stability and Host Health
-""""""""""""""""""""""""""""""""""""""""
+Gut Microbiome Stability to Multiple Stressors
+""""""""""""""""""""""""""""""""""""""""""""""
 
 **What:**
 
