@@ -24,7 +24,8 @@ I am interested in contributing to research in the following areas:
 Research Highlights
 -------------------
 
-**Microbiome and Host Health**
+Microbiome and Host Health
+""""""""""""""""""""""""""
 
 What: 
 
@@ -49,7 +50,8 @@ Outcome:
 - An important implication of this work is that environmental context can confound microbiome-host health associations.
 - This work resulted in a peer-reviewed manuscript `(Sieler et al. 2023) <https://rdcu.be/djX1r>`_.
 
-**Gut Microbiome Stability and Host Health**
+Gut Microbiome Stability and Host Health
+""""""""""""""""""""""""""""""""""""""""
 
 What: 
 
@@ -69,7 +71,8 @@ Outcome:
 
 - A key feature of these metrics is that they are system-agnostic, allowing researchers to integrate results across studies and host systems to identify generalizable patterns of microbiome stability/instability to predict health/disease.
 
-**Small Molecule Metabolomics Analysis**
+Small Molecule Metabolomics Analysis
+""""""""""""""""""""""""""""""""""""
 
 What:
 
@@ -114,8 +117,8 @@ Future Directions
 
 In a postdoctoral research position, I aim to:
 
-- Expand my research on the gut microbiome stability and its role in supporting host health and homeostasis.
-- Explore and integrate new multi-omic methodologies and technologies for microbiome analysis.
+- Expand my research on clarifying characteristics of microbiome stability and elucidating the underlying mechanisms that support host health and homeostasis.
+- Explore and integrate new multi-omic methodologies for microbiome analysis.
 - Collaborate with researchers and institutions across a diverse array of fields to drive innovation and discovery in microbiome science.
 
 Contact Information
