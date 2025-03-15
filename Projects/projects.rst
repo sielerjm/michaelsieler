@@ -4,7 +4,7 @@
 Projects
 ========
 
-Below are some extra-curricular projects I have worked on that showcase my creativity to combine my interests in art and science. 
+Below are some extra-curricular projects I have worked on that showcase how I combine art and science to communicate my research to both scientific and broader audiences.
 
 Research-related
 ----------------
