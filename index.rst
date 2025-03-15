@@ -32,6 +32,7 @@ Have a look around and don't hesitate to `reach out <mailto:sielerjm@oregonstate
 ------
 
 Here's a brief (5 min) overview of my research:
+* Recorded in 2024 for a fish ecology course to introduce my research to my classmates
 
 .. raw:: html
 
