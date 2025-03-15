@@ -109,9 +109,9 @@ A list of my peer-reviewed publications can be found `here <https://michaelsiele
 What I offer
 ------------
 
-- **Adaptable Statistical Programmer** - Proficient in R and other computational tools for analyzing and modeling complex biological datasets.
+- **Adaptable Statistical Programmer** - Proficient in R and other computational tools for analyzing complex multi-omic biological datasets.
 - **Data-Driven Problem Solver** - Experienced in synthesizing and processing multifactorial, longitudinal datasets to uncover meaningful insights.
-- **Effective Science Communicator** - Skilled in translating complex concepts into intuitive data visualizations and compelling graphic designs.
+- **Effective Science Communicator** - Skilled in translating complex concepts into intuitive data visualizations and compelling graphic designs to broad audiences.
 - **Lifelong Learner** - Driven by curiosity and a passion for expanding my expertise in microbiome research and computational biology.
 - **Collaborative Thinker** - A strong interdisciplinary team player who thrives in cross-functional environments, bridging microbiology, ecology, and data science.
 
