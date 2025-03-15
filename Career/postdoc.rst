@@ -27,25 +27,25 @@ Research Highlights
 Microbiome and Host Health
 """"""""""""""""""""""""""
 
-What: 
+**What:**
 
 - My first project was a multi-factorial microbiome zebrafish study investigating the effects of different commonly used laboratory diets on pathogen exposure sensitivity. 
 
-Why:
+**Why:**
 
 - Inconsistency in diet may contribute to inconsistency in microbiome zebrafish study results and challenge our ability to integrate and replicate results across studies.
 - Additionally, given that the gut microbiome interfaces with diet and intestinal pathogens, diet may be a key factor in determining host susceptibility to infection.
 
-How: 
+**How:**
 
 - To address this, I fed cohorts of zebrafish one of three commonly used laboratory diets and then exposed them to a pathogen. 
 - I then measured the microbiome's response to the diets and pathogen in adult zebrafish at 4 and 7 months of age.
 
-Findings:
+**Findings:**
 
 - Diet influenced the assembly and successional development of the microbiome, as well as fish's susceptibility to infection.
 
-Outcome: 
+**Outcome:**
 
 - An important implication of this work is that environmental context can confound microbiome-host health associations.
 - This work resulted in a peer-reviewed manuscript `(Sieler et al. 2023) <https://rdcu.be/djX1r>`_.
@@ -53,44 +53,44 @@ Outcome:
 Gut Microbiome Stability and Host Health
 """"""""""""""""""""""""""""""""""""""""
 
-What: 
+**What:**
 
 - My second and third PhD dissertation chapters build on my prior work investigating environmental impacts on zebrafish microbiome stability. 
 
-Why: 
+**Why:**
 
 - Current methods of microbiome analysis are limited in their ability to detect generalizable temporal patterns in microbiome response to disturbances that are conserved across different host-microbiome systems. 
 - So, new methods of multi-omic analysis and temporal stability are needed. 
 
-How: 
+**How:**
 
 - To address this, I'm currently conducting a multi-omic analysis, integrating host transcriptomic and gut microbiome 16S rRNA gene sequence data, to identify potential host and microbiome responses to various combinations of sequential environmental stressors. 
 - Additionally, I'm developing novel metrics for evaluating temporal microbiome responses to disturbances that consider changes in microbiome diversity and composition across time. 
 
-Outcome: 
+**Outcome:**
 
 - A key feature of these metrics is that they are system-agnostic, allowing researchers to integrate results across studies and host systems to identify generalizable patterns of microbiome stability/instability to predict health/disease.
 
 Small Molecule Metabolomics Analysis
 """"""""""""""""""""""""""""""""""""
 
-What:
+**What:**
 
 - During my Biostatistics and Data Science PhD internship at the Pacific Northwest National Laboratory, I evaluated 12 common batch effect correction algorithms (BECAs) used for small molecule metabolomics analysis. 
 
-Why: 
+**Why:** 
 
 - Metabolomics comprises the study of various small molecules, including proteins, lipids, amino acids, etc., but often studies treat all of these metabolites similarly during analysis.
 
-How:
+**How:**
 
 - To address this, we conducted a study using a dataset that contained ground truth or no ground truth to compare the performance of 12 common batch effect correction algorithms (BECAs) used for small molecule metabolomics analysis.
 
-Findings:
+**Findings:**
 
 - I found that particular BECAs were better at resolving unwanted versus wanted variation when ground truth is known or unknown in lipidomic analysis, and these BECAs performance differed to optimal BECAs for other types of metabolites. 
 
-Outcome:
+**Outcome:**
 
 - An important implication of this work is that researchers can use these results to guide optimal BECA selection to improve the accuracy of their analysis.
 - This work is currently in-preparation for publication.
@@ -117,7 +117,7 @@ Future Directions
 
 In a postdoctoral research position, I aim to:
 
-- Expand my research on clarifying characteristics of microbiome stability and elucidating the underlying mechanisms that support host health and homeostasis.
+- Expand my research on exploring patterns of microbiome stability and elucidating the underlying mechanisms that support host health and homeostasis.
 - Explore and integrate new multi-omic methodologies for microbiome analysis.
 - Collaborate with researchers and institutions across a diverse array of fields to drive innovation and discovery in microbiome science.
 
