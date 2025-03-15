@@ -67,6 +67,10 @@ Gut Microbiome Stability to Multiple Stressors
 - To address this, I'm currently conducting a multi-omic analysis, integrating host transcriptomic and gut microbiome 16S rRNA gene sequence data, to identify potential host and microbiome responses to various combinations of sequential environmental stressors. 
 - Additionally, I'm developing novel metrics for evaluating temporal microbiome responses to disturbances that consider changes in microbiome diversity and composition across time. 
 
+**Findings:**
+
+- My analysis is currently ongoing, but preliminary results indicate that these new metrics are a promising approach to identify patterns of stability or instability in microbiome response to disturbances that are not captured by traditional methods of microbiome analysis.
+
 **Outcome:**
 
 - A key feature of these metrics is that they are system-agnostic, allowing researchers to integrate results across studies and host systems to identify generalizable patterns of microbiome stability/instability to predict health/disease.
