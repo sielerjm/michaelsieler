@@ -42,18 +42,18 @@ In-prep Publications
 .. list-table::
    :widths: 90 10
 
-   * - "Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" (*in-prep; draft available upon request;* `GitHub analysis <https://github.com/sielerjm/Sieler2025__ZF_Temperature_Parasite>`_)
+   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" <https://links.michaelsieler.com/Sieler2025-ZF-TempParasite>`_ (*bioRxiv* `GitHub analysis <https://github.com/sielerjm/Sieler2025__ZF_Temperature_Parasite>`_)
 
        - **Michael J. Sieler Jr.**, ... 
-     - 2024*
+     - 2025*
    * - "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" (*in-prep, draft available upon request*)
 
        - Emilee Lance, **Michael J. Sieler Jr.**, ...
-     - 2024*
+     - 2025*
    * - "Analyzing batch effect correction algorithms for small molecule data using ground truth from a designed experiment" (*in-prep*)
 
        - Damon T. Leech, **Michael J. Sieler Jr.**, ...
-     - 2024*
+     - 2025*
 
 
 Presentations
