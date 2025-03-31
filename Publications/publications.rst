@@ -145,6 +145,13 @@ Workshops
 .. list-table::
    :widths: 80 20
 
+   * - `"Microbiome Data Analytics Boot Camp: Planning, generating, and analyzing 16S rRNA gene sequencing surveys" <https://www.publichealth.columbia.edu/academics/non-degree-special-programs/professional-non-degree-programs/skills-health-research-professionals-sharp-training/trainings/microbiome>`_ *Columbia University.*
+
+       - **Michael J. Sieler Jr.**, *et al.*
+     - 2025*
+
+       New York, NY (*virtual*)
+
    * - `"Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." <https://sim.confex.com/sim/cmic2024/meetingapp.cgi/Session/5747>`_ *Connecting Microbiome Communities.*
 
        - **Michael J. Sieler Jr.**, *et al.*
