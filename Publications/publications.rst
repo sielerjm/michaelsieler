@@ -91,7 +91,7 @@ Presentations
        - **Michael J. Sieler Jr.**, et al.
      - 2021
 
-       Beijing, China (*virtual*)
+       Beijing, China (*remote*)
 
 
 Conference Posters
@@ -150,7 +150,7 @@ Workshops
        - **Michael J. Sieler Jr.**, *et al.*
      - 2025*
 
-       New York, NY (*virtual*)
+       New York, NY (*remote*)
 
    * - `"Mastering metadata: Utilizing NMDC resources for microbiome research reproducibility." <https://sim.confex.com/sim/cmic2024/meetingapp.cgi/Session/5747>`_ *Connecting Microbiome Communities.*
 
