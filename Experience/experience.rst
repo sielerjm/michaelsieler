@@ -214,6 +214,7 @@ Skills
 
         - 16S sequencing
         - Metabolomics
+        - Metatranscriptomics
         - DADA2
         - Phyloseq
         - Mothur
