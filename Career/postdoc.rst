@@ -55,7 +55,7 @@ Gut Microbiome Stability to Multiple Stressors
 
 **What:**
 
-- My second and third PhD dissertation chapters build on my prior work investigating environmental impacts on zebrafish microbiome stability. 
+- My `second <https://doi.org/10.1101/2025.03.28.644597>`_ and third PhD dissertation chapters build on my prior work investigating environmental impacts on zebrafish microbiome stability. 
 
 **Why:**
 

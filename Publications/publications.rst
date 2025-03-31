@@ -42,7 +42,7 @@ In-prep Publications
 .. list-table::
    :widths: 90 10
 
-   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" <https://links.michaelsieler.com/Sieler2025-ZF-TempParasite>`_ (*bioRxiv*; `GitHub analysis <https://github.com/sielerjm/Sieler2025__ZF_Temperature_Parasite>`_)
+   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" <https://doi.org/10.1101/2025.03.28.644597>`_ (*bioRxiv*; `GitHub analysis <https://github.com/sielerjm/Sieler2025__ZF_Temperature_Parasite>`_)
 
        - **Michael J. Sieler Jr.**, ... 
      - 2025*
