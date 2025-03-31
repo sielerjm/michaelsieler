@@ -113,7 +113,7 @@ Awards, Honors & Fellowships
        - Awarded competitive funding to support graduate students presenting their research at professional conferences.
      - 2024
 
-       $600
+       *$600*
 
    * - **Oregon Department of Fish and Wildlife Fish Health Graduate Research Fellowship**
 
@@ -121,7 +121,7 @@ Awards, Honors & Fellowships
        - Recognized for research in Microbiology at Oregon State University, focusing on fish health issues to benefit Oregon's fish populations.
      - 2023-2025
 
-       $56,000
+       *$56,000*
 
    * - **NMDC Ambassador**
 
@@ -129,7 +129,7 @@ Awards, Honors & Fellowships
        - Recognized for early career efforts to advance microbiome bioinformatic research, and received training to promote the use of F.A.I.R. data principles in microbiome research.
      - 2024
 
-       $1,000
+       *$1,000*
 
    * - `Oregon Museum of Science and Industry <https://omsi.edu/science-communication-services>`_
 
@@ -137,7 +137,7 @@ Awards, Honors & Fellowships
        - Received certified training in informal science education and engagement with public audiences to increase their understanding of STEM research.
      - 2020-Present
 
-       $1,000
+       *$1,000*
 
    * - `ARCS Foundation <https://oregon.arcsfoundation.org>`_
 
@@ -145,7 +145,7 @@ Awards, Honors & Fellowships
        - Recognized for my early significant contributions to scientific research, I was awarded the prestigious ARCS Scholar grant.
      - 2020-2023
 
-       $18,000
+       *$18,000*
 
 
 Professional Affiliations and Service
