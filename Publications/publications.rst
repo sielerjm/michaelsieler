@@ -56,6 +56,13 @@ In-prep Publications
      - 2025*
 
 
+.. figure:: Media/images/Presentation__2025.png
+   :alt: Presentation
+   :align: center
+   :width: 30%
+   :class: responsive-image
+   
+
 Presentations
 -------------
 
@@ -92,6 +99,14 @@ Presentations
      - 2021
 
        Beijing, China (*remote*)
+
+
+
+.. image:: Media/images/Poster__2025.png
+   :target: AboutMe.html
+   :align: center
+   :alt: Poster
+   :width: 30%
 
 
 Conference Posters
@@ -138,6 +153,13 @@ Conference Panels
      - 2024
      
        Madison, WI
+
+
+.. image:: Media/images/Workshop__2024.png
+   :target: AboutMe.html
+   :align: center
+   :alt: Workshop
+   :width: 30%
 
 Workshops
 """"""""""
