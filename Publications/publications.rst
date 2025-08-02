@@ -201,7 +201,7 @@ Workshops
    * - `"Microbiome Data Analytics Boot Camp: Planning, generating, and analyzing 16S rRNA gene sequencing surveys" <https://www.publichealth.columbia.edu/academics/non-degree-special-programs/professional-non-degree-programs/skills-health-research-professionals-sharp-training/trainings/microbiome>`_ *Columbia University.*
 
        - **Michael J. Sieler Jr.**, *et al.*
-     - 2025*
+     - 2025
 
        New York, NY (*remote*)
 
