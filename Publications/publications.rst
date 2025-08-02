@@ -1,6 +1,41 @@
 .. _Top:
 
 
+
+.. raw:: html
+
+   <style>
+       .swiper-slide img {
+           max-width: 100%;  /* Image won't be wider than its container */
+           max-height: 300px; /* Limit the height to 400px (adjust as needed) */
+           width: auto;       /* Keep aspect ratio */
+           height: auto;
+           display: block;    /* Removes extra spacing */
+           margin: 0 auto;    /* Centers the image */
+       }
+   </style>
+
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
+   <div class="swiper mySwiper">
+       <div class="swiper-wrapper">
+           <div class="swiper-slide"><img src="../_static/pubs/Sieler2023__Diet.png"></div>
+           <div class="swiper-slide"><img src="../_static/pubs/Sieler2025__Temp.png"></div>
+       </div>
+       <div class="swiper-pagination"></div>
+       <div class="swiper-button-next"></div>
+       <div class="swiper-button-prev"></div>
+   </div>
+
+   <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+   <script>
+       var swiper = new Swiper(".mySwiper", {
+           loop: true,
+           pagination: { el: ".swiper-pagination", clickable: true },
+           navigation: { nextEl: ".swiper-button-next", prevEl: ".swiper-button-prev" }
+       });
+   </script>
+
+
 Publications
 ============
 
