@@ -98,6 +98,7 @@ Presentations
    :alt: Presentation
    :width: 30%
 
+
 .. list-table::
    :widths: 80 20
    
@@ -185,13 +186,14 @@ Conference Panels
        Madison, WI
 
 
+Workshops
+""""""""""
+
 .. image:: ../Media/images/Workshop__2024.png
    :align: center
    :alt: Workshop
    :width: 30%
 
-Workshops
-""""""""""
 
 .. list-table::
    :widths: 80 20
