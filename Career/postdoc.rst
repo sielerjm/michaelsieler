@@ -9,7 +9,7 @@ Seeking postdoctoral positions starting in Fall 2025
 Introduction
 ------------
 
-I'm a microbiome data scientist looking for a postdoctoral research position starting fall 2025 to further develop my expertise and contribute to cutting-edge research in the field of microbiome science. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work. 
+I'm a microbiome data scientist looking for a postdoctoral research position starting early 2026 to further develop my expertise and contribute to cutting-edge research in the field of microbiome science. I currently reside in Portland, Oregon but also open to relocating nationally or internationally, or remote-work. 
 
 Research Interests
 ------------------
@@ -55,25 +55,30 @@ Gut Microbiome Stability to Multiple Stressors
 
 **What:**
 
-- My `second <https://doi.org/10.1101/2025.03.28.644597>`_ and third PhD dissertation chapters build on my prior work investigating environmental impacts on zebrafish microbiome stability. 
+- My `second <https://doi.org/10.1101/2025.03.28.644597>`_ and third `<https://doi.org/10.3389/frmbi.2025.1605168>`_ PhD dissertation chapters investigated how historical contingency shapes host-microbiome system responses to sequential environmental stressors in zebrafish.
 
 **Why:**
 
-- Current methods of microbiome analysis are limited in their ability to detect generalizable temporal patterns in microbiome response to disturbances that are conserved across different host-microbiome systems. 
-- So, new methods of multi-omic analysis and temporal stability are needed. 
+- Anthropogenic stressors are reshaping ecosystems through intersecting forces that may exceed the adaptive capacities of vertebrate holobionts.
+- While gut microbiomes are key mediators of host health, little is known about how mounting environmental pressures affect host-microbiome system responses to future perturbations.
+- Historical contingency – where past events shape future community assembly – has been studied in microbial ecosystems, but its role in defining host-microbiome responses to perturbations remains unclear.
 
 **How:**
 
-- To address this, I'm currently conducting a multi-omic analysis, integrating host transcriptomic and gut microbiome 16S rRNA gene sequence data, to identify potential host and microbiome responses to various combinations of sequential environmental stressors. 
-- Additionally, I'm developing novel metrics for evaluating temporal microbiome responses to disturbances that consider changes in microbiome diversity and composition across time. 
+- I used zebrafish (*Danio rerio*) to investigate whether host-microbiome system responses to parasite exposure and recovery from prior stressors are contingent upon historical stressors.
+- I sequentially exposed 720 adult zebrafish to antibiotics, elevated temperature, and/or the intestinal parasitic helminth *Pseudocapillaria tomentosa* across eight unique exposure regimes.
+- I then quantified host health outcomes, gut microbiome diversity and composition, and host intestinal gene expression using integrative multi-omic analysis.
 
 **Findings:**
 
-- My analysis is currently ongoing, but preliminary results indicate that these new metrics are a promising approach to identify patterns of stability or instability in microbiome response to disturbances that are not captured by traditional methods of microbiome analysis.
+- Historical stressors fundamentally alter host-microbiome system responses to future perturbations, with cumulative stress exposure producing dose-dependent increases in host mortality (9.4% to 27.8% after two stressors).
+- Prior stress exposure can uncouple pathogen load from survival outcomes, as demonstrated by antibiotic treatment reducing parasite burden while paradoxically increasing mortality.
+- Host-microbiome coupling itself is historically contingent, where prior stressors enhance, redirect, or disrupt the relationship between host transcriptional programs and microbial community dynamics, creating persistent effects that extend into recovery phases.
 
 **Outcome:**
 
-- A key feature of these metrics is that they are system-agnostic, allowing researchers to integrate results across studies and host systems to identify generalizable patterns of microbiome stability/instability to predict health/disease.
+- These findings demonstrate that historical contingency operates across multiple levels within holobionts, fundamentally influencing both resistance to future perturbations and resilience during recovery phases.
+- This work has profound implications for understanding organismal responses to the sequential stressors characteristic of the Anthropocene.
 
 Small Molecule Metabolomics Analysis
 """"""""""""""""""""""""""""""""""""

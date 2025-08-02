@@ -69,12 +69,20 @@ Work
 .. list-table::
    :widths: 80 20
 
+   * - **Microbiome Data Analytics Boot Camp – Trainer**
+
+       - **Skills for Health and Research Professionals (SHARP), Columbia University**
+         - "Planning, generating, and analyzing 16S rRNA gene sequencing surveys"
+         - Supported workshop participants in microbiome data analysis
+
+       - 2025
+
    * - **National Microbiome Data Collaborative - Ambassador**
 
        - The NMDC ambassador program recognizes and fosters early career scientists' efforts to incorporate inclusion,
          diversity, equity, and accountability (IDEA) principles to promote findable, accessible, interoperable, and reusable (FAIR) microbiome research data and workflows.
 
-     - Mar 2024-Present
+     - 2024
 
    * - **Pacific Northwest National Laboratory - PhD Bioinformatics Intern**
 
@@ -154,7 +162,7 @@ Professional Affiliations and Service
 .. list-table::
    :widths: 80 20
 
-   * - **Pernot Microbiology Summer Camp** - Camp Mentor	
+   * - **Leidholdt Microbiology Summer Camp** - Camp Mentor	
        - Department of Microbiology, Oregon State University. Corvallis, OR.
        - Supervised 20 high school students from historically underrepresented backgrounds in learning laboratory techniques.
      - 2022, 2024

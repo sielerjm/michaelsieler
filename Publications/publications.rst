@@ -10,6 +10,10 @@ Peer-Reviewed Publications
 .. list-table::
    :widths: 90 10
 
+   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" <https://doi.org/10.3389/frmbi.2025.1605168>`_ *Front. Microbiomes* :download:`PDF <../Media/publications/Hammer2024_mSystems.pdf>`
+
+       - **Michael J. Sieler Jr.**, ... 
+     - 2025
    * - `"Gut microbiota metabolically mediate intestinal helminth infection in Zebrafish" <https://journals.asm.org/doi/10.1128/msystems.00545-24>`_ *mSystems* :download:`PDF <../Media/publications/Hammer2024_mSystems.pdf>`
 
        - Austin J. Hammer, ..., **Michael J. Sieler Jr.**, ...
@@ -42,10 +46,6 @@ In-prep Publications
 .. list-table::
    :widths: 90 10
 
-   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" <https://doi.org/10.1101/2025.03.28.644597>`_ (*bioRxiv*; `GitHub analysis <https://github.com/sielerjm/Sieler2025__ZF_Temperature_Parasite>`_)
-
-       - **Michael J. Sieler Jr.**, ... 
-     - 2025*
    * - "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" (*in-prep, draft available upon request*)
 
        - Emilee Lance, **Michael J. Sieler Jr.**, ...
