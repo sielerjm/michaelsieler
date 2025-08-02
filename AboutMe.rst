@@ -4,7 +4,7 @@
 About Me
 ========
 
-.. figure:: Media/images/Headshot_MichaelSieler-250px.png
+.. figure:: Media/images/Headshot_MichaelSieler__2025.png
    :align: center
    :alt: Photo of Michael
    :width: 30%

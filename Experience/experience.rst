@@ -4,6 +4,12 @@
 Experience
 ==========
 
+.. figure:: ../Media/images/SampleCollecting__2025.png
+   :alt: Sample collecting in the lab
+   :align: center
+   :width: 90%
+   :class: responsive-image
+   
 
 Summary
 -------

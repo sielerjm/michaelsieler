@@ -3,7 +3,7 @@ Welcome!
 ########
 
 
-.. image:: Media/images/Sofie-I-Coast-2022-500px.png
+.. image:: Media/images/SofieandI__2025.png
    :target: AboutMe.html
    :align: center
    :alt: Photo of Michael
