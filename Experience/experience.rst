@@ -4,7 +4,7 @@
 Experience
 ==========
 
-.. image:: ../Media/images/SampleCollecting__2025.png
+.. image:: Media/images/SampleCollecting__2025.png
    :align: Sample collecting
    :alt: Photo of Michael
    :width: 30%
