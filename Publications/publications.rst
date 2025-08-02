@@ -1,6 +1,8 @@
 .. _Top:
 
 
+Publications
+============
 
 .. raw:: html
 
@@ -35,9 +37,6 @@
        });
    </script>
 
-
-Publications
-============
 
 Peer-Reviewed Publications
 --------------------------
@@ -89,17 +88,15 @@ In-prep Publications
 
        - Damon T. Leech, **Michael J. Sieler Jr.**, ...
      - 2025*
-
-
-.. figure:: Media/images/Presentation__2025.png
-   :alt: Presentation
-   :align: center
-   :width: 30%
-   :class: responsive-image
-   
+ 
 
 Presentations
 -------------
+
+.. figure:: Media/images/Presentation__2025.png
+   :align: center
+   :alt: Presentation
+   :width: 30%
 
 .. list-table::
    :widths: 80 20
@@ -136,16 +133,14 @@ Presentations
        Beijing, China (*remote*)
 
 
+Conference Posters
+""""""""""""""""""
 
 .. image:: Media/images/Poster__2025.png
-   :target: AboutMe.html
    :align: center
    :alt: Poster
    :width: 30%
 
-
-Conference Posters
-""""""""""""""""""
 
 .. list-table::
    :widths: 80 20
@@ -191,7 +186,6 @@ Conference Panels
 
 
 .. image:: Media/images/Workshop__2024.png
-   :target: AboutMe.html
    :align: center
    :alt: Workshop
    :width: 30%
