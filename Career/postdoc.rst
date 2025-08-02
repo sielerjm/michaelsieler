@@ -3,8 +3,8 @@
 ❗Postdoc❗
 ==========
 
-Seeking postdoctoral positions starting in Fall 2025
-----------------------------------------------------
+Seeking postdoctoral positions starting in early 2026
+-----------------------------------------------------
 
 Introduction
 ------------
