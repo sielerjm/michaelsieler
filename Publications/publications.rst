@@ -93,7 +93,7 @@ In-prep Publications
 Presentations
 -------------
 
-.. figure:: Media/images/Presentation__2025.png
+.. image:: ../Media/images/Presentation__2025.png
    :align: center
    :alt: Presentation
    :width: 30%
@@ -136,7 +136,7 @@ Presentations
 Conference Posters
 """"""""""""""""""
 
-.. image:: Media/images/Poster__2025.png
+.. image:: ../Media/images/Poster__2025.png
    :align: center
    :alt: Poster
    :width: 30%
@@ -185,7 +185,7 @@ Conference Panels
        Madison, WI
 
 
-.. image:: Media/images/Workshop__2024.png
+.. image:: ../Media/images/Workshop__2024.png
    :align: center
    :alt: Workshop
    :width: 30%
