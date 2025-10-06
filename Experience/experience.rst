@@ -28,7 +28,7 @@ Education
    * - **Oregon State University**
 
        - **Ph.D. Microbiology**
-       - Dissertation: `Defining the context dependence of how the zebrafish (Danio rerio) gut microbiome responds to environmental stressors <https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/d217r0126?locale=en>`_ download:`PDF <../Media/publications/SielerJrMichaelJ2025.pdf>`
+       - Dissertation: `Defining the context dependence of how the zebrafish (Danio rerio) gut microbiome responds to environmental stressors <https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/d217r0126?locale=en>`_ :download:`PDF <../Media/publications/SielerJrMichaelJ2025.pdf>`
        - Advised by `Dr. Thomas J. Sharpton <https://bit.ly/3cJfQ1b>`_
      - 2025
 
