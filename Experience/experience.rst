@@ -47,7 +47,7 @@ Research
    * - **Oregon State University** - Research Associate
    
        - Department of Microbiology, Oregon State University. Corvallis, OR.
-       - Dr. Thomas J. Sharpton
+       - Sharpton Lab
      - 2025-Present
 
    * - **Oregon State University** - Graduate Researcher
@@ -81,9 +81,9 @@ Work
 .. list-table::
    :widths: 80 20
 
-   * - **Research Associate**
+   * - **Shaprton Lab - Research Associate**
 
-       - **Sharpton Lab, Oregon State University**
+       - **Oregon State University**
          - Microbiome data science research
      - 2025-Present
 
