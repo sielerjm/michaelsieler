@@ -85,22 +85,19 @@ Work
 
        - **Sharpton Lab, Oregon State University**
          - Microbiome data science research
-
-       - 2025-Present
+     - 2025-Present
 
    * - **Microbiome Data Analytics Boot Camp – Trainer**
 
        - **Skills for Health and Research Professionals (SHARP), Columbia University**
          - "Planning, generating, and analyzing 16S rRNA gene sequencing surveys"
          - Supported workshop participants in microbiome data analysis
-
-       - 2025
+     - 2025
 
    * - **National Microbiome Data Collaborative - Ambassador**
 
        - The NMDC ambassador program recognizes and fosters early career scientists' efforts to incorporate inclusion,
          diversity, equity, and accountability (IDEA) principles to promote findable, accessible, interoperable, and reusable (FAIR) microbiome research data and workflows.
-
      - 2024
 
    * - **Pacific Northwest National Laboratory - PhD Bioinformatics Intern**
@@ -111,7 +108,6 @@ Work
 
        - **Tools used:**
          - R
-
      - 2023
 
    * - **MJSieler Consulting - Owner**
@@ -123,7 +119,6 @@ Work
 
        - **Tools used:**
          - C#, Unity, Git
-
      - May 2022-Present
 
 
