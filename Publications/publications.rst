@@ -44,7 +44,7 @@ Peer-Reviewed Publications
 .. list-table::
    :widths: 90 10
 
-   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" <https://doi.org/10.3389/frmbi.2025.1605168>`_ *Front. Microbiomes* :download:`PDF <../Media/publications/Hammer2024_mSystems.pdf>`
+   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" <https://doi.org/10.3389/frmbi.2025.1605168>`_ *Front. Microbiomes* :download:`PDF <../Media/publications/Sieler2025_FrontMicrobiome.pdf>`
 
        - **Michael J. Sieler Jr.**, ... 
      - 2025

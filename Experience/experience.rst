@@ -27,9 +27,10 @@ Education
 
    * - **Oregon State University**
 
-       - **Ph.D. Microbiology**, minor in Biological Data Sciences
+       - **Ph.D. Microbiology**
+       - Dissertation: `Defining the context dependence of how the zebrafish (Danio rerio) gut microbiome responds to environmental stressors <https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/d217r0126?locale=en>`_ download:`PDF <../Media/publications/SielerJrMichaelJ2025.pdf>`
        - Advised by `Dr. Thomas J. Sharpton <https://bit.ly/3cJfQ1b>`_
-     - *Expected 2025*
+     - 2025
 
    * - **Oregon State University**
 
@@ -73,6 +74,13 @@ Work
 
 .. list-table::
    :widths: 80 20
+
+      * - **Research Associate**
+
+       - **Sharpton Lab, Oregon State University**
+         - Microbiome data science research
+
+       - 2025-Present
 
    * - **Microbiome Data Analytics Boot Camp – Trainer**
 
