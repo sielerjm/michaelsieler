@@ -58,9 +58,9 @@ The best way to reach me is through `email <mailto:Michael.SielerJr@UniGe.ch>`_.
 Download Resume & CV
 --------------------
 
-:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume__2026__v2.pdf>`
+:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
 
-:icon:`fas fa-download` :download:`CV <../ResumeCV/MichaelSieler_CV__2026.pdf>`
+:icon:`fas fa-download` :download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
 
 ------
 

@@ -4,6 +4,16 @@
 Experience
 ==========
 
+**Michael J. Sieler Jr., Ph.D.**
+
+Postdoctoral Researcher, `Liberti Lab <https://genev.unige.ch/research/laboratory/joanito-liberti>`_
+
+Department of Genetics and Evolution, University of Geneva
+
+Geneva, Switzerland
+
+`Michael.SielerJr@UniGe.ch <mailto:Michael.SielerJr@UniGe.ch>`_ | `MichaelSieler.com <https://michaelsieler.com>`_ | `GitHub <https://github.com/sielerjm>`_ | `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
+
 .. image:: ../Media/images/SampleCollecting__2025.png
    :align: center
    :alt: Photo of Michael
@@ -48,6 +58,7 @@ Research Appointments
 
        - `Liberti Lab <https://genev.unige.ch/research/laboratory/joanito-liberti>`_, Department of Genetics and Evolution. Geneva, Switzerland.
        - Research focus in gut microbiota–brain axis of eusocial bee model systems
+       - See in-prep bumblebee microbiome work on the `Publications <../Publications/publications.html>`_ page
      - 2026–Present
 
    * - **Oregon State University** — Postdoctoral Researcher
@@ -105,10 +116,10 @@ Work
          - Supported workshop participants and lecturers in microbiome data analysis and pedagogy
      - 2025
 
-   * - **National Microbiome Data Collaborative** — FAIR Microbiome Data Fellow / Ambassador
+   * - **National Microbiome Data Collaborative** — FAIR Microbiome Data Fellow
 
-       - Supported development and dissemination of microbiome data workflows aligned with FAIR data principles and metadata standards
-       - Trained researchers in best practices for data organization, interoperability, and reproducible microbiome research workflows
+       - Recognized for early career contributions promoting findable, accessible, interoperable, and reusable (FAIR) microbiome research data and workflows
+       - Led workshops on metadata standards and submission portals; trained researchers in reproducible microbiome research workflows
      - 2024–2025
 
    * - **Pacific Northwest National Laboratory** — Ph.D. Bioinformatics Intern
@@ -129,7 +140,7 @@ Teaching
 .. list-table::
    :widths: 80 20
 
-   * - **University of Geneva** — Co-instructor
+   * - **University of Geneva** — Postdoctoral Fellow, Co-instructor
 
        - Microbiome Analysis (co-instructor)
      - 2026
@@ -312,9 +323,9 @@ Skills
 Download Resume & CV
 --------------------
 
-:download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume__2026__v2.pdf>`
+:download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
 
-:download:`CV <../ResumeCV/MichaelSieler_CV__2026.pdf>`
+:download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
 
 ------
 

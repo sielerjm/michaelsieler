@@ -67,9 +67,9 @@ If you're interested in receiving my tutoring services and want to schedule a fr
 Resume & CV
 -----------
 
-:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume__2026__v2.pdf>`
+:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
 
-:icon:`fas fa-download` :download:`CV <../ResumeCV/MichaelSieler_CV__2026.pdf>`
+:icon:`fas fa-download` :download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
 
 ------
 

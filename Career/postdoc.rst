@@ -141,9 +141,9 @@ Please feel free to contact me at:
 Resume & CV
 -----------
 
-:download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume__2026__v2.pdf>`
+:download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
 
-:download:`CV <../ResumeCV/MichaelSieler_CV__2026.pdf>`
+:download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
 
 ------
 
