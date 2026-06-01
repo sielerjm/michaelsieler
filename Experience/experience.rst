@@ -5,7 +5,7 @@ Experience
 ==========
 
 .. image:: ../Media/images/SampleCollecting__2025.png
-   :align: Sample collecting
+   :align: center
    :alt: Photo of Michael
    :width: 30%
    
@@ -13,9 +13,9 @@ Experience
 Summary
 -------
 
-* Microbiome scientist with 5+ years of experience developing and applying high-throughput molecular, computational, and statistical research methods to analyze 1000's of zebrafish gut microbiome samples
-* Robust data analytic skills in multi-omic microbiome bioinformatics and multivariate statistics 
-* Demonstrated abilities to collaborate and take leadership in cross-laboratory experiments and extra-curricular projects
+* Data scientist with 8+ years of experience developing and applying computational, statistical, and experimental approaches to complex biological datasets
+* Expertise in multivariate modeling, longitudinal data analysis, multi-omic integration, reproducible workflows, and FAIR data practices
+* Proven collaborator across international, interdisciplinary, and cross-functional teams, with a strong record of translating complex data into actionable scientific insights through publications, workshops, and collaborative research support
 * Experienced in written, oral and visual communication across scientific and public audiences
 
 
@@ -25,53 +25,64 @@ Education
 .. list-table::
    :widths: 80 20
 
-   * - **Oregon State University**
+   * - **Oregon State University**, Corvallis, OR
 
-       - **Ph.D. Microbiology**
+       - **Ph.D. Microbiology** (GPA: 3.95)
        - Dissertation: `Defining the context dependence of how the zebrafish (Danio rerio) gut microbiome responds to environmental stressors <https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/d217r0126?locale=en>`_ :download:`PDF <../Media/publications/SielerJrMichaelJ2025.pdf>`
        - Advised by `Dr. Thomas J. Sharpton <https://bit.ly/3cJfQ1b>`_
-     - 2025
+     - Sept 2025
 
-   * - **Oregon State University**
+   * - **Oregon State University**, Corvallis, OR
 
-       - **B.Sc. Bioresource Research**, options in Bioinformatics and Genomics
-     - 2020
+       - **B.Sc. Bioresource Research**, options in Bioinformatics and Genomics (GPA: 3.82)
+     - June 2020
 
 
-Research
---------
+Research Appointments
+---------------------
 
 .. list-table::
    :widths: 80 20
 
-   * - **Oregon State University** - Research Associate
-   
-       - Department of Microbiology, Oregon State University. Corvallis, OR.
-       - Sharpton Lab
-     - 2025-Present
+   * - **University of Geneva** — Postdoctoral Researcher
 
-   * - **Oregon State University** - Graduate Researcher
-   
+       - `Liberti Lab <https://genev.unige.ch/research/laboratory/joanito-liberti>`_, Department of Genetics and Evolution. Geneva, Switzerland.
+       - Research focus in gut microbiota–brain axis of eusocial bee model systems
+     - 2026–Present
+
+   * - **Oregon State University** — Postdoctoral Researcher
+
+       - Department of Microbiology, Oregon State University. Corvallis, OR.
+       - `Sharpton Lab <http://lab.sharpton.org>`_ — microbiome data science
+     - 2025
+
+   * - **Oregon State University** — Ph.D. Graduate Student Researcher
+
        - Department of Microbiology, Oregon State University. Corvallis, OR.
        - Advised by Dr. Thomas J. Sharpton
-     - 2020-2025
+       - Research focus in host-associated microbiome stability to environmental stressors
+     - 2020–2025
 
-   * - **Pacific Northwest National Laboratory** - PhD Intern
+   * - **Pacific Northwest National Laboratory** — Ph.D. Intern
 
        - Richland, WA.
-     - 2023
+       - Mentors: Lisa Bramer and Kelly Stratton
+       - Research focus in metabolomic data science and bioinformatics
+     - 2023–2024
 
-   * - **Oregon State University** - Undergraduate Researcher
+   * - **Oregon State University** — Undergraduate Student Researcher
    
        - Department of Microbiology, Oregon State University. Corvallis, OR.
        - Advised by Dr. Thomas J. Sharpton
-     - 2018-2020
+       - Research focus in zebrafish microbiome ecology and bioinformatics
+     - 2018–2020
 
-   * - **Oregon State University** - Undergraduate Researcher
+   * - **Oregon State University** — Undergraduate Student Researcher
    
-       - College of Pharmacy, Oregon State University. Corvallis, OR.
+       - Department of Pharmacy, Oregon State University. Corvallis, OR.
        - Advised by Dr. Taifo Mahmud
-     - 2017-2018
+       - Research focus in identifying novel antibiotic compounds
+     - 2017–2018
 
 
 
@@ -81,46 +92,80 @@ Work
 .. list-table::
    :widths: 80 20
 
-   * - **Shaprton Lab - Research Associate**
+   * - **HandshakeAI** — Expert Biology AI Data Labeler
 
-       - **Oregon State University**
-         - Microbiome data science research
-     - 2025-Present
+       - Contributed biological domain expertise to development of 100+ LLM prompts and evaluation tasks for scientific AI applications
+       - Improved biological accuracy, consistency, and scientific reasoning in AI-generated outputs through expert review and feedback
+     - 2025
 
-   * - **Microbiome Data Analytics Boot Camp – Trainer**
+   * - **Microbiome Data Analytics Boot Camp** — Trainer
 
        - **Skills for Health and Research Professionals (SHARP), Columbia University**
          - "Planning, generating, and analyzing 16S rRNA gene sequencing surveys"
-         - Supported workshop participants in microbiome data analysis
+         - Supported workshop participants and lecturers in microbiome data analysis and pedagogy
      - 2025
 
-   * - **National Microbiome Data Collaborative - Ambassador**
+   * - **National Microbiome Data Collaborative** — FAIR Microbiome Data Fellow / Ambassador
 
-       - The NMDC ambassador program recognizes and fosters early career scientists' efforts to incorporate inclusion,
-         diversity, equity, and accountability (IDEA) principles to promote findable, accessible, interoperable, and reusable (FAIR) microbiome research data and workflows.
-     - 2024
+       - Supported development and dissemination of microbiome data workflows aligned with FAIR data principles and metadata standards
+       - Trained researchers in best practices for data organization, interoperability, and reproducible microbiome research workflows
+     - 2024–2025
 
-   * - **Pacific Northwest National Laboratory - PhD Bioinformatics Intern**
+   * - **Pacific Northwest National Laboratory** — Ph.D. Bioinformatics Intern
 
        - **Projects:**
          - Batch effect correction algorithm (BECA) evaluation
-           - Analyzed dilution series experiment to resolve batch effects in lipidomics datasets, evaluated 12 commonly used BECA methods, and developed a novel BECA evaluation model.
+           - Bioinformatically processed and analyzed 200+ lipidomic samples; evaluated 12 commonly used BECA methods using ground truth from a designed experiment
 
        - **Tools used:**
          - R
-     - 2023
+     - 2023–2024
 
-   * - **MJSieler Consulting - Owner**
 
-       - **Projects:**
-         - `Virtual Fish (GitHub) <https://github.com/OSU-Edu-Games/Virtual-Fish>`_
-           - Designed, developed, and deployed educational video game software for clients
-           - Educational software used to fulfill grant requirements for communicating scientific research.
 
-       - **Tools used:**
-         - C#, Unity, Git
-     - May 2022-Present
+Teaching
+--------
 
+.. list-table::
+   :widths: 80 20
+
+   * - **University of Geneva** — Co-instructor
+
+       - Microbiome Analysis (co-instructor)
+     - 2026
+
+   * - **Oregon State University** — Graduate Teaching Assistant
+
+       - General Microbiology Lab (MB 303, Spring)
+       - Human Microbiome (MB 436, Spring)
+       - Introduction to Microbiology (MB 230, Spring)
+     - 2021–2023
+
+
+Mentorship
+----------
+
+.. list-table::
+   :widths: 80 20
+
+   * - **University of Geneva**
+
+       - Genetics and Evolution Ph.D. and master's students
+     - 2026–Present
+
+   * - **Oregon State University**
+
+       - Microbiology Ph.D. and undergraduate students
+     - 2023–2025
+
+
+Peer Review
+-----------
+
+.. list-table::
+   :widths: 80 20
+
+   * - Hansson, B. *et al.* (2026). "Microbial signaling coordinates group oviposition and predator defense in migratory locusts"
 
 
 Awards, Honors & Fellowships
@@ -141,15 +186,15 @@ Awards, Honors & Fellowships
 
        - **Fish Health Graduate Research Fellow**
        - Recognized for research in Microbiology at Oregon State University, focusing on fish health issues to benefit Oregon's fish populations.
-     - 2023-2025
+     - 2023–2025
 
        *$56,000*
 
    * - **NMDC Ambassador**
 
        - **Ambassador**
-       - Recognized for early career efforts to advance microbiome bioinformatic research, and received training to promote the use of F.A.I.R. data principles in microbiome research.
-     - 2024
+       - Recognized for early career contributions promoting findable, accessible, interoperable, and reusable (FAIR) microbiome research data and workflows; led workshops on metadata standards and submission portals.
+     - 2024–2025
 
        *$1,000*
 
@@ -157,15 +202,15 @@ Awards, Honors & Fellowships
 
        - **Science Communication Fellow**
        - Received certified training in informal science education and engagement with public audiences to increase their understanding of STEM research.
-     - 2020-Present
+     - 2020–2022
 
        *$1,000*
 
    * - `ARCS Foundation <https://oregon.arcsfoundation.org>`_
 
        - **ARCS Scholar**
-       - Recognized for my early significant contributions to scientific research, I was awarded the prestigious ARCS Scholar grant.
-     - 2020-2023
+       - Recognized for early significant contributions to scientific research.
+     - 2020–2023
 
        *$18,000*
 
@@ -176,21 +221,21 @@ Professional Affiliations and Service
 .. list-table::
    :widths: 80 20
 
-   * - **Leidholdt Microbiology Summer Camp** - Camp Mentor	
+   * - **Leidholdt Microbiology Summer Camp** — Camp Mentor	
        - Department of Microbiology, Oregon State University. Corvallis, OR.
        - Supervised 20 high school students from historically underrepresented backgrounds in learning laboratory techniques.
-     - 2022, 2024
+     - 2022, 2024, 2025
 
-   * - **Food and Nutrition Special Interest Group** - Advocate
+   * - **Food and Nutrition Special Interest Section** — Founding Section Member
        - Oregon Public Health Association. Portland, OR.
-     - 2023-Present
+     - 2023–2025
 
-   * - **Microbes and Social Equity Working Group** - Member
-     - 2022-Present
+   * - **Microbes and Social Equity Working Group** — Member
+     - 2022–Present
 
-   * - **Microbiology Graduate Student Association** - President
+   * - **Microbiology Graduate Student Association** — President
        - Oregon State University. Corvallis, OR.
-     - 2022-2023
+     - 2022–2023
 
 
 Certificates
@@ -219,47 +264,47 @@ Skills
 
         - R
         - Python
-        - C# (Unity)
+        - Bash/Unix
         - Git
         - HTML & CSS
-        - C++
-        - UNIX/Linux
+        - C++ (Unity)
+        - C# (Unity)
      - **Statistics and Data Analytics:**
 
+        - Machine learning
         - Multivariate regression
-        - Model building and testing
-        - Data visualization
-          - ggplot2
-          - R shiny
-          - Plotly
+        - Model building and selection
+        - Longitudinal data analysis
+        - Data visualization (ggplot2, Plotly, R Shiny)
      - **Bioinformatics:**
 
+        - nf-core pipelines
         - 16S sequencing
+        - Transcriptomics
+        - Metagenomics
         - Metabolomics
-        - Metatranscriptomics
-        - DADA2
-        - Phyloseq
-        - Mothur
-        - Sina
-        - HMMER
-        - FastTree
-   * - **Laboratory:**
+        - Phylogenetics
+        - Batch effect correction algorithms
+        - DADA2, Phyloseq
+   * - **Molecular Biology:**
 
         - Zebrafish husbandry
            - Germ-free derivation
-        - Bacterial culturing
         - DNA extraction
         - PCR amplification
         - Gel electrophoresis
+        - Bacterial culturing
      - **Other:**
 
         - Microsoft Office Suite
-        - Adobe Photoshop and Illustrator
+        - Adobe Suite
+        - Reproducible workflows
+        - FAIR data practices
      - **Languages:**
 
         - English (native)
         - German (B2, intermediate)
-        - Spanish (beginner)
+        - Spanish (A1, beginner)
 
 
 
@@ -267,9 +312,9 @@ Skills
 Download Resume & CV
 --------------------
 
-:download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
+:download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume__2026__v2.pdf>`
 
-:download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
+:download:`CV <../ResumeCV/MichaelSieler_CV__2026.pdf>`
 
 ------
 
