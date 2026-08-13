@@ -24,10 +24,10 @@ Have a look around and don't hesitate to `reach out <mailto:Michael.SielerJr@Uni
 Latest
 ======
 
-- **Jul 2026 — Poster.** `Unraveling how gut microbiota influence nurse-to-forager behavioral emergence in honeybees <Publications/Presentations/IUSSI_Poster2026.html>`_ (IUSSI, Freiburg).
-- **2026 — Appointment.** Postdoctoral researcher in the `Liberti Lab <https://genev.unige.ch/research/laboratory/joanito-liberti>`_, University of Geneva. See `Experience <Experience/experience.html>`_.
-- **2026 — Preprint.** `Historical contingency shapes zebrafish host-microbiome responses to a subsequent biotic challenge <https://doi.org/10.64898/2026.07.05.734762>`_.
-- **2025 — Paper.** `Modeling the zebrafish gut microbiome's resistance and sensitivity to climate change and parasite infection <https://doi.org/10.3389/frmbi.2025.1605168>`_.
+- **Jul 2026 — Poster.** 💬 `Unraveling how gut microbiota influence nurse-to-forager behavioral emergence in honeybees <Publications/Presentations/IUSSI_Poster2026.html>`_ (IUSSI, Freiburg).
+- **2026 — Appointment.** 💼 Postdoctoral researcher in the `Liberti Lab <https://genev.unige.ch/research/laboratory/joanito-liberti>`_, University of Geneva. See `Experience <Experience/experience.html>`_.
+- **2026 — Preprint.** 📃 `Historical contingency shapes zebrafish host-microbiome responses to a subsequent biotic challenge <https://doi.org/10.64898/2026.07.05.734762>`_.
+- **2025 — Paper.** 📃 `Modeling the zebrafish gut microbiome's resistance and sensitivity to climate change and parasite infection <https://doi.org/10.3389/frmbi.2025.1605168>`_.
 
 `All publications → <Publications/publications.html>`_
 
