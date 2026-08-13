@@ -101,6 +101,7 @@ html_css_files = [
 html_js_files = [
     'https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js',
     'js/swiper-init.js',
+    'js/sidebar-toggles.js',
 ]
 
 # -- Favicon -----------------------------------------------------------------

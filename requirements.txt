@@ -9,7 +9,7 @@ sphinx
 #sphinx-comments==0.0.3
 #sphinx-design
 #sphinx-rtd-theme==0.5.2
-sphinx-book-theme
+sphinx-book-theme==1.3.0
 sphinx-tabs
 
 # Testing packages below
