@@ -16,12 +16,42 @@ The model recovered forager-like bees reasonably well at the end of tracking, wh
 If you would like to learn more about this research, visit the `Liberti Lab website <https://genev.unige.ch/research/laboratory/joanito-liberti>`_.
 
 
+Poster
+------
+
 .. image:: ../../Media/presentations/IUSSI_Poster2026.png
    :target: https://michaelsieler.com/en/latest/_images/IUSSI_Poster2026.png
    :width: 90%
    :alt: IUSSI 2026 poster
 
 Click on poster to enlarge. :download:`Download PDF <../../Media/presentations/IUSSI_Poster2026.pdf>`
+
+
+Occupancy heatmaps
+------------------
+
+These heatmaps show where honeybees spend their time inside experimental arenas over about six days, compared across four gut-microbiota treatments (WT, 12, MD, and SNOD).
+
+Each column is one treatment. Brighter patches mean more bees were there during that short time window. Bees are split into two behavioral types, trained to match chemical caste labels: nurse-like (blue; typically stay near the nest/brood area) and forager-like (red; more often toward the edges, where food is).
+
+Reading down a column:
+
+- **Occupancy** — all bees together
+- **Aggregated** — nurses and foragers overlaid (blue vs red)
+- **Nurse-like only**
+- **Forager-like only**
+- **Proportion over time** — how the nurse/forager mix changes day by day
+
+The animation is a time-lapse of that spatial split. In plain terms: the colony does not mill about at random. Nurses and foragers tend to occupy different parts of the nest, and that pattern can be watched as it develops across treatments.
+
+.. raw:: html
+
+   <video width="90%" autoplay muted loop playsinline controls
+          style="display:block; margin: 0 auto;"
+          aria-label="Time-lapse occupancy heatmaps across microbiota treatments">
+     <source src="../../_static/videos/IUSSI_Poster2026_Heatmaps.mp4" type="video/mp4">
+     Your browser does not support the video tag.
+   </video>
 
 
 ------
