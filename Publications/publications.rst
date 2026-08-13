@@ -250,6 +250,18 @@ Workshops
 Other
 -----
 
+Ph.D. Dissertation
+"""""""""""""""""""
+
+.. list-table::
+   :widths: 90 10
+
+   * - `"Defining the context dependence of how the zebrafish (*Danio rerio*) gut microbiome responds to environmental stressors" <https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/d217r0126>`_ *Oregon State University.* :download:`PDF <../Media/publications/SielerJrMichaelJ2025.pdf>`
+
+       - **Michael J. Sieler Jr.**
+     - 2025
+
+
 Undergraduate Thesis
 """"""""""""""""""""
 

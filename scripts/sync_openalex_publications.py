@@ -38,6 +38,8 @@ SKIP_DOI_PREFIXES = ("10.6084/",)  # Figshare supplementary objects
 SKIP_TITLE_PREFIXES = ("additional file", "supplementary")
 MARKER_START = ".. OPENALEX:START"
 MARKER_END = ".. OPENALEX:END"
+SYNC_MARKER_START = ".. OPENALEX-SYNC:START"
+SYNC_MARKER_END = ".. OPENALEX-SYNC:END"
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_RST = REPO_ROOT / "Publications" / "openalex.rst"
@@ -253,21 +255,10 @@ def split_sections(works: list[dict]) -> tuple[list[dict], list[dict]]:
     return articles, preprints
 
 
-def body_without_timestamp(rst: str) -> str:
-    return re.sub(
-        r"^Last synced from OpenAlex:.*$",
-        "Last synced from OpenAlex:",
-        rst,
-        count=1,
-        flags=re.MULTILINE,
-    )
-
-
 def render_openalex_block(
     articles: list[dict],
     preprints: list[dict],
     pdf_map: dict[str, str],
-    synced_at: str,
 ) -> str:
     article_block = (
         list_table(articles, pdf_map)
@@ -284,8 +275,6 @@ def render_openalex_block(
     preprint_heading = "Preprints"
 
     return (
-        f"Last synced from OpenAlex: {synced_at} UTC\n"
-        "\n"
         f"{section}\n"
         f"{'-' * len(section)}\n"
         "\n"
@@ -298,26 +287,32 @@ def render_openalex_block(
     )
 
 
-def extract_marked_block(page: str) -> str:
-    start = page.find(MARKER_START)
-    end = page.find(MARKER_END)
+def render_sync_footer(synced_at: str) -> str:
+    return f"*Last synced from OpenAlex: {synced_at} UTC.*"
+
+
+def extract_marked_block(page: str, start_marker: str, end_marker: str) -> str:
+    start = page.find(start_marker)
+    end = page.find(end_marker)
     if start == -1 or end == -1 or end <= start:
         raise SystemExit(
-            f"{OUTPUT_RST} is missing {MARKER_START} / {MARKER_END} markers."
+            f"{OUTPUT_RST} is missing {start_marker} / {end_marker} markers."
         )
-    inner_start = start + len(MARKER_START)
+    inner_start = start + len(start_marker)
     return page[inner_start:end]
 
 
-def splice_marked_block(page: str, block: str) -> str:
-    start = page.find(MARKER_START)
-    end = page.find(MARKER_END)
+def splice_marked_block(
+    page: str, start_marker: str, end_marker: str, block: str
+) -> str:
+    start = page.find(start_marker)
+    end = page.find(end_marker)
     if start == -1 or end == -1 or end <= start:
         raise SystemExit(
-            f"{OUTPUT_RST} is missing {MARKER_START} / {MARKER_END} markers."
+            f"{OUTPUT_RST} is missing {start_marker} / {end_marker} markers."
         )
-    inner_start = start + len(MARKER_START)
-    return page[:inner_start] + "\n" + block.rstrip() + "\n\n" + page[end:]
+    inner_start = start + len(start_marker)
+    return page[:inner_start] + "\n" + block.rstrip() + "\n" + page[end:]
 
 
 def main() -> int:
@@ -329,20 +324,21 @@ def main() -> int:
     articles, preprints = split_sections(unique_works)
     pdf_map = load_pdf_map()
     synced_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
-    block = render_openalex_block(articles, preprints, pdf_map, synced_at)
+    block = render_openalex_block(articles, preprints, pdf_map)
+    footer = render_sync_footer(synced_at)
 
     page = OUTPUT_RST.read_text(encoding="utf-8")
-    existing_block = extract_marked_block(page)
-    if body_without_timestamp(existing_block.strip()) == body_without_timestamp(
-        block.strip()
-    ):
+    existing_block = extract_marked_block(page, MARKER_START, MARKER_END)
+    if existing_block.strip() == block.strip():
         print(
             f"No publication changes "
             f"({len(articles)} articles, {len(preprints)} preprints)."
         )
         return 0
 
-    OUTPUT_RST.write_text(splice_marked_block(page, block), encoding="utf-8")
+    page = splice_marked_block(page, MARKER_START, MARKER_END, block)
+    page = splice_marked_block(page, SYNC_MARKER_START, SYNC_MARKER_END, footer)
+    OUTPUT_RST.write_text(page, encoding="utf-8")
     print(
         f"Updated {OUTPUT_RST.relative_to(REPO_ROOT)} "
         f"({len(articles)} articles, {len(preprints)} preprints)."
