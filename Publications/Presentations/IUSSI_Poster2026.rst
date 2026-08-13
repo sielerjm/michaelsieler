@@ -4,15 +4,6 @@
 IUSSI 2026
 ==========
 
-
-.. image:: ../../Media/presentations/IUSSI_Poster2026.png
-   :target: https://michaelsieler.com/en/latest/_images/IUSSI_Poster2026.png
-   :width: 90%
-   :alt: IUSSI 2026 poster
-
-Click on poster to enlarge. :download:`Download PDF <../../Media/presentations/IUSSI_Poster2026.pdf>`
-
-
 Overview
 --------
 
@@ -23,6 +14,15 @@ To follow behavioral emergence longitudinally, we tagged and tracked about 2,880
 The model recovered forager-like bees reasonably well at the end of tracking, while nurse versus transitioning remained harder to separate. Applying the model across days suggested that microbiota composition shifts *when* forager-like behavior appears, not only the endpoint label. Forager-like bees also used the arena perimeter more than nurse-like bees, with additional microbiota-dependent differences in spatial use.
 
 If you would like to learn more about this research, visit the `Liberti Lab website <https://genev.unige.ch/research/laboratory/joanito-liberti>`_.
+
+
+.. image:: ../../Media/presentations/IUSSI_Poster2026.png
+   :target: https://michaelsieler.com/en/latest/_images/IUSSI_Poster2026.png
+   :width: 90%
+   :alt: IUSSI 2026 poster
+
+Click on poster to enlarge. :download:`Download PDF <../../Media/presentations/IUSSI_Poster2026.pdf>`
+
 
 ------
 
