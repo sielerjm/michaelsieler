@@ -40,7 +40,7 @@ In my current role I aim to deepen our understanding of how social behavior, dev
 What is this site for?
 ----------------------
 
-The goal of this site is to provide a central location to share my `research and work experience <https://michaelsieler.com/en/latest/Experience/experience.html>`_.
+The goal of this site is to provide a central location to share my `research and work experience <Experience/experience.html>`_.
 
 
 How can I contact you?
@@ -50,9 +50,9 @@ The best way to reach me is by `email <mailto:Michael.SielerJr@UniGe.ch>`_ .
 
 **You can also find me here:**
 
-* `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
-* `GitHub <https://github.com/sielerjm>`_
-* `Google Scholar <https://scholar.google.com/citations?authuser=1&user=XqblXigAAAAJ>`_
+- `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
+- `GitHub <https://github.com/sielerjm>`_
+- `Google Scholar <https://scholar.google.com/citations?user=XqblXigAAAAJ>`_
 
 
 ------

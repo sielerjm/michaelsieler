@@ -13,7 +13,7 @@ If your team is interested in a data-driven scientist with strengths in multi-om
 Skills I can offer
 ------------------
 
-Below are some of the skills I have to offer. You can read more about my research and work experience `here <https://michaelsieler.com/en/latest/Experience/experience.html>`_, and how I've applied these skills to various `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_.
+Below are some of the skills I have to offer. You can read more about my research and work experience `here <../Experience/experience.html>`_, and how I've applied these skills to various `projects <../Projects/projects.html>`_.
 
 +----------------------------+------------------------------------+--------------------------------+
 | **Programming:**           | **Statistics and Data Analytics:** | **Bioinformatics:**            |
@@ -58,9 +58,9 @@ The best way to reach me is through `email <mailto:Michael.SielerJr@UniGe.ch>`_.
 Download Resume & CV
 --------------------
 
-:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
+:download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
 
-:icon:`fas fa-download` :download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
+:download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
 
 ------
 

@@ -14,6 +14,8 @@ Microbiome Diversity R Shiny App
 
 .. image:: ../Media/gifs/MicrobiomeRshinyApp.gif
    :target: https://michael-sieler.shinyapps.io/MicrobiomeDiversityShinyApp/
+   :align: center
+   :alt: Microbiome Diversity R Shiny App
    :height: 300px
 
 `Microbiome Diversity R Shiny App <https://michael-sieler.shinyapps.io/MicrobiomeDiversityShinyApp/>`_ is a proof-of-concept AI-powered interface that users can use to explore, analyze, and visualize microbiome data. 
@@ -30,18 +32,6 @@ Experimental Schematic Figure Designs
 
 .. raw:: html
 
-   <style>
-       .swiper-slide img {
-           max-width: 100%;  /* Image won't be wider than its container */
-           max-height: 300px; /* Limit the height to 400px (adjust as needed) */
-           width: auto;       /* Keep aspect ratio */
-           height: auto;
-           display: block;    /* Removes extra spacing */
-           margin: 0 auto;    /* Centers the image */
-       }
-   </style>
-
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
    <div class="swiper mySwiper">
        <div class="swiper-wrapper">
            <div class="swiper-slide"><img src="../_static/schematics/Sieler2023__Schematic.png"></div>
@@ -53,15 +43,6 @@ Experimental Schematic Figure Designs
        <div class="swiper-button-prev"></div>
    </div>
 
-   <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
-   <script>
-       var swiper = new Swiper(".mySwiper", {
-           loop: true,
-           pagination: { el: ".swiper-pagination", clickable: true },
-           navigation: { nextEl: ".swiper-button-next", prevEl: ".swiper-button-prev" }
-       });
-   </script>
-
 Microbiome research experiments can be complicated involving multiple and combined treatment groups, longitidunal sampling, and multi-omic data. Taking inspiration from subway maps, I have designed figures to clearly and effectively communicate complex experimental designs and results. Below are some examples of figures I have designed for my research.
 
 
@@ -69,7 +50,8 @@ Gut Microbiome Centered Framework
 """"""""""""""""""""""""""""""""""
 
 .. image:: ../Media/presentations/OPHA_Poster2024.png
-   :target: https://michaelsieler.com/en/latest/_images/OPHA_Poster2024.png
+   :target: ../Media/presentations/OPHA_Poster2024.png
+   :align: center
    :height: 300px
    :alt: OPHA 80th Annual Conference 2024 Poster
 
@@ -90,18 +72,6 @@ GutMichaelBiome
 
 .. raw:: html
 
-   <style>
-       .swiper-slide img {
-           max-width: 100%;  /* Image won't be wider than its container */
-           max-height: 300px; /* Limit the height to 400px (adjust as needed) */
-           width: auto;       /* Keep aspect ratio */
-           height: auto;
-           display: block;    /* Removes extra spacing */
-           margin: 0 auto;    /* Centers the image */
-       }
-   </style>
-
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"/>
    <div class="swiper mySwiper">
        <div class="swiper-wrapper">
            <div class="swiper-slide"><img src="../_static/gutmichaelbiome/GreetingsFrom_GutMicrobiome__FINAL.png"></div>
@@ -116,15 +86,6 @@ GutMichaelBiome
        <div class="swiper-button-prev"></div>
    </div>
 
-   <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
-   <script>
-       var swiper = new Swiper(".mySwiper", {
-           loop: true,
-           pagination: { el: ".swiper-pagination", clickable: true },
-           navigation: { nextEl: ".swiper-button-next", prevEl: ".swiper-button-prev" }
-       });
-   </script>
-
 `GutMichaelBiome <https://gutmichaelbio.me/>`_ is a play on words of "Gut Microbiome and Michael." To express my creativity and passion for sharing and communicating microbiome science through humor, I created a sticker-of-the-month club, where each month I send 20+ (and counting) members a new sticker that I designed based on a microbiome or microbiology-related topic. You can find more information about the club and how to join on the `GutMichaelBiome website <https://gutmichaelbio.me/>`_.
 
 Virtual Fish
@@ -132,6 +93,8 @@ Virtual Fish
 
 .. image:: ../Media/gifs/VirtualFish-Demo.gif
    :target: https://github.com/OSU-Edu-Games/Virtual-Fish
+   :align: center
+   :alt: Virtual Fish game demo
    :height: 300px
 
 `Virtual Fish <https://github.com/OSU-Edu-Games/Virtual-Fish>`_ (GitHub) is a science communication game developed in collaboration with `Dr. Stephen Atkinson <https://microbiology.oregonstate.edu/dr-stephen-atkinson>`_ (lab website) and Austin Hammer in the department of Microbiology at Oregon State University. Virtual Fish is a tamagotchi-like game where players take care of a fish by feeding it, cleaning its tank, and administering it medicine whenever it gets an infection.
@@ -146,6 +109,8 @@ Ceramics
 """"""""
 
 .. image:: ../Media/images/CeramicPetriDish.jpg
+   :align: center
+   :alt: Ceramic petri dish
    :height: 300px
 
 As a token of my appreciation for guest seminar speakers, collaborators, and friends, I created these ceramic petri dishes. Each one is slightly unique in the streak pattern and glaze coloring. 

@@ -33,7 +33,7 @@ Microbiome Bioinformatic Analysis
 I have experience analyzing multivariate longitudinal microbiome data across a variety of systems (human, mice, zebrafish). I can assist you from processing your raw data, to developing bioinformatic workflows, and interpreting your results. Below are some examples of my work:
 
 - `Effects of multiple and combined environmental stressors on the zebrafish gut microbiome. <https://sielerjm.github.io/Sieler2025__ZF_Temperature_Parasite/Results_Overview.html>`_
-- `My GitHub <https://www.linkedin.com/in/mjsielerjr/>`_
+- `My GitHub <https://github.com/sielerjm>`_
 
 Scientific Writing and Editing:
 -------------------------------

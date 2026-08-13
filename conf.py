@@ -95,6 +95,12 @@ html_static_path = ['_static']
 # or fully qualified paths (eg. https://...)
 html_css_files = [
     'css/custom.css',
+    'https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css',
+]
+
+html_js_files = [
+    'https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js',
+    'js/swiper-init.js',
 ]
 
 # -- Favicon -----------------------------------------------------------------

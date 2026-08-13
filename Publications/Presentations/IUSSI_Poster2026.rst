@@ -20,7 +20,8 @@ Poster
 ------
 
 .. image:: ../../Media/presentations/IUSSI_Poster2026.png
-   :target: https://michaelsieler.com/en/latest/_images/IUSSI_Poster2026.png
+   :target: ../../Media/presentations/IUSSI_Poster2026.png
+   :align: center
    :width: 90%
    :alt: IUSSI 2026 poster
 
@@ -46,8 +47,7 @@ The animation is a time-lapse of that spatial split. In plain terms: the colony 
 
 .. raw:: html
 
-   <video width="90%" autoplay muted loop playsinline controls
-          style="display:block; margin: 0 auto;"
+   <video class="media-block" autoplay muted loop playsinline controls
           aria-label="Time-lapse occupancy heatmaps across microbiota treatments">
      <source src="../../_static/videos/IUSSI_Poster2026_Heatmaps.mp4" type="video/mp4">
      Your browser does not support the video tag.

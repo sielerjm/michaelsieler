@@ -23,10 +23,10 @@ Geneva, Switzerland
 Summary
 -------
 
-* Data scientist with 8+ years of experience developing and applying computational, statistical, and experimental approaches to complex biological datasets
-* Expertise in multivariate modeling, longitudinal data analysis, multi-omic integration, reproducible workflows, and FAIR data practices
-* Proven collaborator across international, interdisciplinary, and cross-functional teams, with a strong record of translating complex data into actionable scientific insights through publications, workshops, and collaborative research support
-* Experienced in written, oral and visual communication across scientific and public audiences
+- Data scientist with 8+ years of experience developing and applying computational, statistical, and experimental approaches to complex biological datasets
+- Expertise in multivariate modeling, longitudinal data analysis, multi-omic integration, reproducible workflows, and FAIR data practices
+- Proven collaborator across international, interdisciplinary, and cross-functional teams, with a strong record of translating complex data into actionable scientific insights through publications, workshops, and collaborative research support
+- Experienced in written, oral and visual communication across scientific and public audiences
 
 
 Education

@@ -10,7 +10,7 @@ I offer expert data science and life sciences solutions, specializing in coding,
 Skills I can offer
 ------------------
 
-Below are some of the skills I have to offer. You can read more about my research and work experience `here <https://michaelsieler.com/en/latest/Experience/experience.html>`_, and how I've applied these skills to various `projects <https://michaelsieler.com/en/latest/Projects/projects.html>`_.
+Below are some of the skills I have to offer. You can read more about my research and work experience `here <../Experience/experience.html>`_, and how I've applied these skills to various `projects <../Projects/projects.html>`_.
 
 +----------------------------+------------------------------------+--------------------------------+
 | **Programming:**           | **Statistics and Data Analytics:** | **Bioinformatics:**            |
@@ -19,7 +19,7 @@ Below are some of the skills I have to offer. You can read more about my researc
 | - Python                   | - Machine learning                 | - Metagenomics                 |
 | - C# (Unity)               | - Model building and testing       | - DADA2                        |
 | - Git                      | - Big data query                   | - Phyloseq                     |
-| - HMTL & CSS               | - Data mining                      | - Mothur                       |
+| - HTML & CSS               | - Data mining                      | - Mothur                       |
 | - C++                      |                                    | - HMMER                        |
 | - UNIX/Linux               |                                    | - Metabolomics                 |
 |                            |                                    | - Batch Correction Evaluation  |
@@ -49,9 +49,9 @@ The best way to reach me is through `email <mailto:Michael.SielerJr@UniGe.ch>`_.
 Download Resume & CV
 --------------------
 
-:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
+:download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
 
-:icon:`fas fa-download` :download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
+:download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
 
 ------
 

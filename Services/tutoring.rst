@@ -9,12 +9,12 @@ Hi there, my name is Michael Sieler. I'm a postdoctoral researcher and microbiom
 
 **I offer tutoring services for the following subjects:**
 
-* Programming
-* Statistics and data science
-* Bioinformatics
-* Life sciences
-* Science communication
-* Language learning
+- Programming
+- Statistics and data science
+- Bioinformatics
+- Life sciences
+- Science communication
+- Language learning
 
 
 Study Subjects
@@ -29,7 +29,7 @@ Below are some of the subjects I offer tutoring services. If you don't see a sub
 | - Python                   | - Machine learning                 | - Metagenomics                 |
 | - C# (Unity)               | - Model building and testing       | - DADA2                        |
 | - Git                      | - Big data query                   | - Phyloseq                     |
-| - HMTL & CSS               | - Data mining                      | - Mothur                       |
+| - HTML & CSS               | - Data mining                      | - Mothur                       |
 | - C++                      |                                    | - HMMER                        |
 | - UNIX/Linux               |                                    | - Metabolomics                 |
 |                            |                                    | - Batch Correction Evaluation  |
@@ -60,16 +60,16 @@ For tutoring services, I charge a flat rate of $30 per hour. I am happy to offer
 Interested tutoring services?
 -----------------------------
 
-If you're interested in receiving my tutoring services and want to schedule a free consultation, please fill out my `tutoring services inquiry form <https://michaelsieler.com/en/latest/Services/tutoring_form.html>`_. The form is extensive, but your answers to the questions will help us determine if we'll be a good fit and how we can efficiently achieve your desired goals. I will get back to you as soon as possible!
+If you're interested in receiving my tutoring services and want to schedule a free consultation, please fill out my `tutoring services inquiry form <tutoring_form.html>`_. The form is extensive, but your answers to the questions will help us determine if we'll be a good fit and how we can efficiently achieve your desired goals. I will get back to you as soon as possible!
 
 
 
-Resume & CV
------------
+Download Resume & CV
+--------------------
 
-:icon:`fas fa-download` :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
+:download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
 
-:icon:`fas fa-download` :download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
+:download:`CV <../ResumeCV/MichaelSieler_CV.pdf>`
 
 ------
 

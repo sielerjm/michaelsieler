@@ -108,7 +108,7 @@ Small Molecule Metabolomics Analysis
 Publications
 ------------
 
-A list of my peer-reviewed publications can be found `here <https://michaelsieler.com/en/latest/Publications/publications.html>`_.
+A list of my peer-reviewed publications can be found `here <../Publications/publications.html>`_.
 
 
 What I offer
@@ -138,8 +138,8 @@ Please feel free to contact me at:
 - `Email <mailto:Michael.SielerJr@UniGe.ch>`_
 - `LinkedIn <https://www.linkedin.com/in/mjsielerjr/>`_
 
-Resume & CV
------------
+Download Resume & CV
+--------------------
 
 :download:`Resume (one page) <../ResumeCV/MichaelSieler_Resume.pdf>`
 
