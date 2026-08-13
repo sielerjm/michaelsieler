@@ -55,7 +55,7 @@ Gut Microbiome Stability to Multiple Stressors
 
 **What:**
 
-- My `second <https://doi.org/10.1101/2025.03.28.644597>`_ and third `<https://doi.org/10.3389/frmbi.2025.1605168>`_ PhD dissertation chapters investigated how historical contingency shapes host-microbiome system responses to sequential environmental stressors in zebrafish.
+- My `second <https://doi.org/10.64898/2026.07.05.734762>`_ Ph.D. dissertation chapter investigated how historical contingency shapes host-microbiome system responses to sequential environmental stressors in zebrafish. My `third <https://doi.org/10.3389/frmbi.2025.1605168>`_ chapter examined how water temperature and parasite infection jointly shape zebrafish gut microbiome dynamics.
 
 **Why:**
 
@@ -71,7 +71,7 @@ Gut Microbiome Stability to Multiple Stressors
 
 **Findings:**
 
-- Historical stressors fundamentally alter host-microbiome system responses to future perturbations, with cumulative stress exposure producing dose-dependent increases in host mortality (9.4% to 27.8% after two stressors).
+- Historical stressors fundamentally alter host-microbiome system responses to future perturbations, with cumulative stress exposure producing dose-dependent increases in host mortality (18.9% with no prior stressors to 55.6% after two stressors).
 - Prior stress exposure can uncouple pathogen load from survival outcomes, as demonstrated by antibiotic treatment reducing parasite burden while paradoxically increasing mortality.
 - Host-microbiome coupling itself is historically contingent, where prior stressors enhance, redirect, or disrupt the relationship between host transcriptional programs and microbial community dynamics, creating persistent effects that extend into recovery phases.
 

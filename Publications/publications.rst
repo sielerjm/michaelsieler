@@ -44,7 +44,7 @@ Peer-Reviewed Publications
 .. list-table::
    :widths: 90 10
 
-   * - `"Modelling the gut microbiome's resistance and resilience to climate change and infection in zebrafish" <https://doi.org/10.3389/frmbi.2025.1605168>`_ *Front. Microbiomes* :download:`PDF <../Media/publications/Sieler2025_FrontMicrobiome.pdf>`
+   * - `"Modeling the zebrafish gut microbiome's resistance and sensitivity to climate change and parasite infection" <https://doi.org/10.3389/frmbi.2025.1605168>`_ *Front. Microbiomes* :download:`PDF <../Media/publications/Sieler2025_FrontMicrobiome.pdf>`
 
        - **Michael J. Sieler Jr.**, ... 
      - 2025
@@ -52,7 +52,7 @@ Peer-Reviewed Publications
 
        - Austin J. Hammer, ..., **Michael J. Sieler Jr.**, ...
      - 2024
-   * - `"The zebrafish gut microbiome influences benzo-a-pyrene developmental neurobehavioral toxicity." <https://www.nature.com/articles/s41598-024-65610-3>`_ *Nature Sci Rep* :download:`PDF <../Media/publications/Stagaman2024_NatureSciRep.pdf>`
+   * - `"The zebrafish gut microbiome influences benzo[a]pyrene developmental neurobehavioral toxicity." <https://www.nature.com/articles/s41598-024-65610-3>`_ *Nature Sci Rep* :download:`PDF <../Media/publications/Stagaman2024_NatureSciRep.pdf>`
 
        - Keaton Stagaman, Alexandra Alexiev, **Michael J. Sieler Jr.**, ...
      - 2024
@@ -80,25 +80,25 @@ In-prep Publications
 .. list-table::
    :widths: 90 10
 
-   * - "Using fecal samples as a reliable proxy for bumblebee (*Bombus terrestris*) gut microbiota community analysis" (*in-prep*)
+   * - "Using fecal samples as a reliable proxy for bumblebee (*Bombus terrestris*) gut microbiota community analysis" (*in-prep*; *co-first authors*)
 
-       - Gregorio Calderoni, **Michael J. Sieler Jr.**, Enrico Giammatteo, Chrystelle Perruchoud, Joanito Liberti
+       - Gregorio Calderoni\*, **Michael J. Sieler Jr.**\*, Enrico Giammatteo, Chrystelle Perruchoud, Joanito Liberti
      - 2026*
    * - "System-Agnostic Dynamical Microbiome Measures (SADMMs) for longitudinal multi-study and -system microbiome analysis" (*in-prep*)
 
        - **Michael J. Sieler Jr.**, Connor Leong, Kristin D Kasschau, Thomas J Sharpton
      - 2026*
-   * - "Evaluating the effects of stressor history on zebrafish gut microbiome's resistance and resiliency to parasite exposure" (*in-prep*)
+   * - `"Historical contingency shapes zebrafish host-microbiome responses to a subsequent biotic challenge" <https://doi.org/10.64898/2026.07.05.734762>`_ *bioRxiv* :download:`PDF <../Media/publications/Sieler2026_bioRxiv.pdf>`
 
        - **Michael J. Sieler Jr.**, Connor Leong, Kristin D Kasschau, Michael L Kent, Thomas J Sharpton
-     - 2026*
+     - 2026
    * - "Investigating the interaction of host genetics and parasite burden on the microbiome in zebrafish" (*in-prep, draft available upon request*)
 
        - Emilee Lance, **Michael J. Sieler Jr.**, ...
      - 2025*
    * - "Analyzing batch effect correction algorithms for small molecule data using ground truth from a designed experiment" (*in-prep*)
 
-       - Damon T. Leech, **Michael J. Sieler Jr.**, ...
+       - Damon T. Leach, **Michael J. Sieler Jr.**, ...
      - 2025*
  
 
