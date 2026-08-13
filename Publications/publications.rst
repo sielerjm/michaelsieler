@@ -170,6 +170,12 @@ Conference Posters
 .. list-table::
    :widths: 80 20
 
+   * - "Gut microbiota differentially shift the timing of nurse-to-forager behavioral emergence in honeybees." *XX International Congress of the International Union for the Study of Social Insects (IUSSI).* :icon:`fas fa-download` `Poster <../Publications/Presentations/IUSSI_Poster2026.html>`_
+
+       - **Michael J. Sieler Jr.**, *et al.*
+     - 2026
+
+       Freiburg, Germany
    * - "Ecological, Developmental, and Social Determinants of Microbial Transmission in the Semelparous Eusocial Bee *Bombus terrestris*." *Biology26 Conference, University of Neuchâtel.*
 
        - **Michael J. Sieler Jr.**, *et al.*
