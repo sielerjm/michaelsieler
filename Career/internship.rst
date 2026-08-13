@@ -29,8 +29,8 @@ Below are some of the skills I have to offer. You can read more about my researc
 +----------------------------+------------------------------------+--------------------------------+
 | - Zebrafish husbandry      | - Microsoft Office Suite           | - English (native)             |
 | - DNA extraction           | - Adobe Suite                      | - German (B2, intermediate)    |
-| - PCR amplification        | - FAIR data practices              | - Spanish (A1, beginner)       |
-| - Gel electrophoresis      |                                    |                                |
+| - PCR amplification        | - FAIR data practices              |   Goethe-Institut C1 (2011)    |
+| - Gel electrophoresis      |                                    | - Spanish (A1, beginner)       |
 +----------------------------+------------------------------------+--------------------------------+
 
 

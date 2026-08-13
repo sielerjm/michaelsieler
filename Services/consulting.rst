@@ -28,9 +28,9 @@ Below are some of the skills I have to offer. You can read more about my researc
 | **Laboratory:**            | **Other:**                         | **Languages:**                 |
 +----------------------------+------------------------------------+--------------------------------+
 | - Zebrafish husbandry      | - Microsoft Office Suite           | - English (native)             |
-| - Bacterial culturing      | - Adobe Photoshop and Illustrator  | - German (C1, advanced)        |
-| - DNA extraction           |                                    | - Spanish (beginner)           |
-| - PCR amplification        |                                    |                                |
+| - Bacterial culturing      | - Adobe Photoshop and Illustrator  | - German (B2, intermediate)    |
+| - DNA extraction           |                                    |   Goethe-Institut C1 (2011)    |
+| - PCR amplification        |                                    | - Spanish (beginner)           |
 | - Gel electrophoresis      |                                    |                                |
 +----------------------------+------------------------------------+--------------------------------+
 

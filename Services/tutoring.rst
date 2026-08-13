@@ -38,9 +38,9 @@ Below are some of the subjects I offer tutoring services. If you don't see a sub
 | **Life Sciences:**         | **Science Communication:**         | **Language Learning:**         |
 +----------------------------+------------------------------------+--------------------------------+
 | - Zebrafish husbandry      | - Poster and presentation design   | - English (native)             |
-| - Bacterial culturing      | - Experimental design workflows    | - German (C1, advanced)        |
-| - DNA extraction           | - Adobe Photoshop and Illustrator  | - Spanish (beginner)           |
-| - PCR amplification        |                                    |                                |
+| - Bacterial culturing      | - Experimental design workflows    | - German (B2, intermediate)    |
+| - DNA extraction           | - Adobe Photoshop and Illustrator  |   Goethe-Institut C1 (2011)    |
+| - PCR amplification        |                                    | - Spanish (beginner)           |
 | - Gel electrophoresis      |                                    |                                |
 +----------------------------+------------------------------------+--------------------------------+
 

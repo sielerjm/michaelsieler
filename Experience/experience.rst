@@ -314,7 +314,7 @@ Skills
      - **Languages:**
 
         - English (native)
-        - German (B2, intermediate)
+        - German (B2, intermediate; previously evaluated at C1 by the Goethe-Institut, 2011)
         - Spanish (A1, beginner)
 
 
