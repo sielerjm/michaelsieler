@@ -1,6 +1,6 @@
-# Weekly OpenAlex sync for the hidden publications test page.
-# Only commits Publications/openalex.rst (the marked OpenAlex block).
-# The curated Publications/publications.rst page is never touched.
+# Weekly OpenAlex sync for the live Publications page.
+# Only commits Publications/publications.rst (the marked OpenAlex blocks).
+# In-prep, talks, and Other are never rewritten.
 
 name: Sync OpenAlex publications
 
@@ -24,17 +24,17 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate OpenAlex test page
+      - name: Sync OpenAlex publications
         run: python scripts/sync_openalex_publications.py
 
-      - name: Commit if the test page changed
+      - name: Commit if publications changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Publications/openalex.rst
+          git add Publications/publications.rst
           if git diff --staged --quiet; then
-            echo "No changes to Publications/openalex.rst"
+            echo "No changes to Publications/publications.rst"
           else
-            git commit -m "Update OpenAlex publications test page"
+            git commit -m "Update OpenAlex publications"
             git push
           fi

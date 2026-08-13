@@ -86,8 +86,8 @@ Swiper carousels: put only slide markup in RST. CSS/JS are global (`custom.css`,
 ## Page-type notes
 
 - **Experience:** list-tables, dated right column, resume downloads at the bottom
-- **Publications:** citation list-tables; Swiper at top; poster rows link to `Publications/Presentations/` pages. Do not replace the live page with OpenAlex output unless asked.
-- **OpenAlex test page:** `Publications/openalex.rst` is an orphan that mirrors the live Publications layout. `scripts/sync_openalex_publications.py` fills only the `OPENALEX` marker block; do not add this page to the homepage toctree.
+- **Publications:** citation list-tables; Swiper at top; poster rows link to `Publications/Presentations/` pages. Peer-reviewed and preprint rows are filled by `scripts/sync_openalex_publications.py` between `OPENALEX` markers; in-prep, talks, and Other stay manual. Do not hand-edit the marked blocks.
+- **OpenAlex stub:** `Publications/openalex.rst` is an orphan redirect to the live Publications page; do not add it to the homepage toctree.
 - **Projects:** `:height: 300px` media; Swiper for multi-image sets; "Tools used:" hyphen lists
 - **Presentations:** poster template above (90% image, click-to-enlarge, optional PDF)
 - **Homepage:** unique `#` title, 30% photo, hidden toctrees — do not add Career/Services to the nav unless asked

@@ -3,12 +3,12 @@
 sync_openalex_publications.py
 
 Fetch works for ORCID 0000-0002-8332-3408 from the OpenAlex API and splice
-peer-reviewed and preprint list-tables into the hidden Sphinx test page
-(Publications/openalex.rst), between OPENALEX:START / OPENALEX:END markers.
+peer-reviewed and preprint list-tables into the live Publications page
+(Publications/publications.rst), between OPENALEX:START / OPENALEX:END markers.
 
 Input:  OpenAlex works endpoint; scripts/openalex_pdf_map.json (DOI to PDF path)
-Output: the marked block in Publications/openalex.rst (manual sections are left
-        unchanged)
+Output: the marked blocks in Publications/publications.rst (in-prep, talks, and
+        Other are left unchanged)
 
 Created by Michael Sieler
 Last updated: 2026-08-13
@@ -42,7 +42,7 @@ SYNC_MARKER_START = ".. OPENALEX-SYNC:START"
 SYNC_MARKER_END = ".. OPENALEX-SYNC:END"
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-OUTPUT_RST = REPO_ROOT / "Publications" / "openalex.rst"
+OUTPUT_RST = REPO_ROOT / "Publications" / "publications.rst"
 PDF_MAP_PATH = Path(__file__).resolve().parent / "openalex_pdf_map.json"
 
 
@@ -288,7 +288,12 @@ def render_openalex_block(
 
 
 def render_sync_footer(synced_at: str) -> str:
-    return f"*Last synced from OpenAlex: {synced_at} UTC.*"
+    return (
+        "*Peer-reviewed papers and preprints are synced automatically from* "
+        "`OpenAlex <https://openalex.org/>`_ *once a week* "
+        f"(`ORCID <https://orcid.org/{ORCID}>`_). "
+        f"*Last synced: {synced_at} UTC.*"
+    )
 
 
 def extract_marked_block(page: str, start_marker: str, end_marker: str) -> str:
@@ -317,7 +322,7 @@ def splice_marked_block(
 
 def main() -> int:
     if not OUTPUT_RST.exists():
-        raise SystemExit(f"Missing test page: {OUTPUT_RST}")
+        raise SystemExit(f"Missing publications page: {OUTPUT_RST}")
 
     works = fetch_works()
     unique_works = deduplicate(works)
