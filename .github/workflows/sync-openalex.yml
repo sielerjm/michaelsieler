@@ -1,5 +1,6 @@
 # Weekly OpenAlex sync for the hidden publications test page.
-# Only commits Publications/openalex.rst; the curated publications page is never touched.
+# Only commits Publications/openalex.rst (the marked OpenAlex block).
+# The curated Publications/publications.rst page is never touched.
 
 name: Sync OpenAlex publications
 

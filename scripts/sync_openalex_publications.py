@@ -2,12 +2,13 @@
 """
 sync_openalex_publications.py
 
-Fetch works for ORCID 0000-0002-8332-3408 from the OpenAlex API and write a
-hidden Sphinx test page (Publications/openalex.rst) in the site's publications
-list-table layout.
+Fetch works for ORCID 0000-0002-8332-3408 from the OpenAlex API and splice
+peer-reviewed and preprint list-tables into the hidden Sphinx test page
+(Publications/openalex.rst), between OPENALEX:START / OPENALEX:END markers.
 
-Input:  OpenAlex works endpoint (no local data files)
-Output: Publications/openalex.rst (overwritten when the publication list changes)
+Input:  OpenAlex works endpoint; scripts/openalex_pdf_map.json (DOI to PDF path)
+Output: the marked block in Publications/openalex.rst (manual sections are left
+        unchanged)
 
 Created by Michael Sieler
 Last updated: 2026-08-13
@@ -35,9 +36,12 @@ ARTICLE_TYPES = {"article", "review", "letter"}
 PREPRINT_TYPES = {"preprint"}
 SKIP_DOI_PREFIXES = ("10.6084/",)  # Figshare supplementary objects
 SKIP_TITLE_PREFIXES = ("additional file", "supplementary")
+MARKER_START = ".. OPENALEX:START"
+MARKER_END = ".. OPENALEX:END"
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 OUTPUT_RST = REPO_ROOT / "Publications" / "openalex.rst"
+PDF_MAP_PATH = Path(__file__).resolve().parent / "openalex_pdf_map.json"
 
 
 def fetch_works() -> list[dict]:
@@ -65,6 +69,14 @@ def fetch_works() -> list[dict]:
         cursor = (payload.get("meta") or {}).get("next_cursor")
 
     return works
+
+
+def load_pdf_map() -> dict[str, str]:
+    """DOI (normalized) to Sphinx :download: path relative to Publications/."""
+    if not PDF_MAP_PATH.exists():
+        return {}
+    raw = json.loads(PDF_MAP_PATH.read_text(encoding="utf-8"))
+    return {normalize_doi(doi): path for doi, path in raw.items()}
 
 
 def normalize_doi(doi: str | None) -> str:
@@ -189,12 +201,13 @@ def escape_rst_italic(text: str) -> str:
     return text.replace("*", r"\*")
 
 
-def rst_entry(work: dict) -> str:
+def rst_entry(work: dict, pdf_map: dict[str, str]) -> str:
     title = escape_rst_title(work.get("display_name") or "Untitled")
     url = work_url(work)
     venue = escape_rst_italic(work_venue(work))
     authors = format_authors(work) or "*authors unavailable*"
     year = work_year(work) or "n.d."
+    pdf = pdf_map.get(work_doi(work), "")
 
     if url:
         title_part = f'`"{title}" <{url}>`_'
@@ -202,16 +215,17 @@ def rst_entry(work: dict) -> str:
         title_part = f'"{title}"'
 
     venue_part = f" *{venue}*" if venue else ""
+    pdf_part = f" :download:`PDF <{pdf}>`" if pdf else ""
     return (
-        f"   * - {title_part}{venue_part}\n"
+        f"   * - {title_part}{venue_part}{pdf_part}\n"
         f"\n"
         f"       - {authors}\n"
         f"     - {year}\n"
     )
 
 
-def list_table(works: list[dict]) -> str:
-    rows = [rst_entry(work) for work in works]
+def list_table(works: list[dict], pdf_map: dict[str, str]) -> str:
+    rows = [rst_entry(work, pdf_map) for work in works]
     return (
         ".. list-table::\n"
         "   :widths: 90 10\n"
@@ -240,88 +254,97 @@ def split_sections(works: list[dict]) -> tuple[list[dict], list[dict]]:
 
 
 def body_without_timestamp(rst: str) -> str:
-    return re.sub(r"^Last synced:.*$", "Last synced:", rst, count=1, flags=re.MULTILINE)
+    return re.sub(
+        r"^Last synced from OpenAlex:.*$",
+        "Last synced from OpenAlex:",
+        rst,
+        count=1,
+        flags=re.MULTILINE,
+    )
 
 
-def render_rst(articles: list[dict], preprints: list[dict], synced_at: str) -> str:
+def render_openalex_block(
+    articles: list[dict],
+    preprints: list[dict],
+    pdf_map: dict[str, str],
+    synced_at: str,
+) -> str:
     article_block = (
-        list_table(articles)
+        list_table(articles, pdf_map)
         if articles
         else "No peer-reviewed works were returned by OpenAlex.\n"
     )
     preprint_block = (
-        list_table(preprints)
+        list_table(preprints, pdf_map)
         if preprints
         else "No preprints were returned by OpenAlex.\n"
     )
 
-    title = "OpenAlex publications (test)"
-    underline = "=" * len(title)
-    section = "Peer-reviewed publications"
-    section_line = "-" * len(section)
+    section = "Peer-Reviewed Publications"
     preprint_heading = "Preprints"
-    preprint_line = '"' * len(preprint_heading)
 
     return (
-        ":orphan:\n"
-        "\n"
-        ".. meta::\n"
-        "   :robots: noindex\n"
-        "\n"
-        ".. _Top:\n"
-        "\n"
-        "\n"
-        f"{title}\n"
-        f"{underline}\n"
-        "\n"
-        "This page is generated from `OpenAlex <https://openalex.org/>`_ using ORCID "
-        f"`{ORCID} <https://orcid.org/{ORCID}>`_. It is a test of automated publication "
-        "sync and is not linked from the site navigation. See the official "
-        "`Publications <publications.html>`_ page for the curated list.\n"
-        "\n"
-        "Do not edit this file by hand; it is overwritten by "
-        "``scripts/sync_openalex_publications.py``.\n"
-        "\n"
-        f"Last synced: {synced_at} UTC\n"
+        f"Last synced from OpenAlex: {synced_at} UTC\n"
         "\n"
         f"{section}\n"
-        f"{section_line}\n"
+        f"{'-' * len(section)}\n"
         "\n"
         f"{article_block}"
         "\n"
         f"{preprint_heading}\n"
-        f"{preprint_line}\n"
+        f"{'-' * len(preprint_heading)}\n"
         "\n"
         f"{preprint_block}"
-        "\n"
-        "------\n"
-        "\n"
-        "Return to `top`_.\n"
-        "\n"
-        "------\n"
     )
 
 
+def extract_marked_block(page: str) -> str:
+    start = page.find(MARKER_START)
+    end = page.find(MARKER_END)
+    if start == -1 or end == -1 or end <= start:
+        raise SystemExit(
+            f"{OUTPUT_RST} is missing {MARKER_START} / {MARKER_END} markers."
+        )
+    inner_start = start + len(MARKER_START)
+    return page[inner_start:end]
+
+
+def splice_marked_block(page: str, block: str) -> str:
+    start = page.find(MARKER_START)
+    end = page.find(MARKER_END)
+    if start == -1 or end == -1 or end <= start:
+        raise SystemExit(
+            f"{OUTPUT_RST} is missing {MARKER_START} / {MARKER_END} markers."
+        )
+    inner_start = start + len(MARKER_START)
+    return page[:inner_start] + "\n" + block.rstrip() + "\n\n" + page[end:]
+
+
 def main() -> int:
+    if not OUTPUT_RST.exists():
+        raise SystemExit(f"Missing test page: {OUTPUT_RST}")
+
     works = fetch_works()
     unique_works = deduplicate(works)
     articles, preprints = split_sections(unique_works)
+    pdf_map = load_pdf_map()
     synced_at = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
-    rst = render_rst(articles, preprints, synced_at)
+    block = render_openalex_block(articles, preprints, pdf_map, synced_at)
 
-    OUTPUT_RST.parent.mkdir(parents=True, exist_ok=True)
-    if OUTPUT_RST.exists():
-        existing = OUTPUT_RST.read_text(encoding="utf-8")
-        if body_without_timestamp(existing) == body_without_timestamp(rst):
-            print(
-                f"No publication changes "
-                f"({len(articles)} articles, {len(preprints)} preprints)."
-            )
-            return 0
+    page = OUTPUT_RST.read_text(encoding="utf-8")
+    existing_block = extract_marked_block(page)
+    if body_without_timestamp(existing_block.strip()) == body_without_timestamp(
+        block.strip()
+    ):
+        print(
+            f"No publication changes "
+            f"({len(articles)} articles, {len(preprints)} preprints)."
+        )
+        return 0
 
-    OUTPUT_RST.write_text(rst, encoding="utf-8")
+    OUTPUT_RST.write_text(splice_marked_block(page, block), encoding="utf-8")
     print(
-        f"Wrote {OUTPUT_RST.relative_to(REPO_ROOT)} "
+        f"Updated {OUTPUT_RST.relative_to(REPO_ROOT)} "
         f"({len(articles)} articles, {len(preprints)} preprints)."
     )
     return 0
