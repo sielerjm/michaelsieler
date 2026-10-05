@@ -49,7 +49,7 @@ Peer-Reviewed Publications
      - 2022
    * - `"Revealing General Patterns of Microbiomes That Transcend Systems: Potential and Challenges of Deep Transfer Learning" <https://doi.org/10.1128/msystems.01058-21>`_ *mSystems* :download:`PDF <../Media/publications/David2022_mSystems.pdf>`
 
-       - Maude M. David, Christine A. Tataru, Quintin Pope, Lydia J. Baker, Mary K. English, Hannah E. Epstein, Austin Hammer, Michael L. Kent, **Michael J. Sieler Jr.**, Ryan Mueller, Thomas J. Sharpton, Fiona Tomás, Rebecca L. Vega Thurber, Xiaoli Z. Fern
+       - Maude M. David, Christine A. Tataru, Quintin Pope, Lydia J. Baker, Mary K. English, Hannah E. Epstein, Austin Hammer, Michael Kent, **Michael J. Sieler Jr.**, Ryan Mueller, Thomas J. Sharpton, Fiona Tomás, Rebecca L. Vega Thurber, Xiaoli Z. Fern
      - 2022
    * - `"Phylogenetic Integration Reveals the Zebrafish Core Microbiome and Its Sensitivity to Environmental Exposures" <https://doi.org/10.3390/toxics9010010>`_ *Toxics* :download:`PDF <../Media/publications/Sharpton2021_Toxics.pdf>`
 
@@ -297,7 +297,7 @@ Undergraduate Thesis
 ------
 
 .. OPENALEX-SYNC:START
-*Peer-reviewed papers and preprints are synced automatically from* `OpenAlex <https://openalex.org/>`_ *once a week* (`ORCID <https://orcid.org/0000-0002-8332-3408>`_). *Last synced: 2026-09-28 13:00 UTC.*
+*Peer-reviewed papers and preprints are synced automatically from* `OpenAlex <https://openalex.org/>`_ *once a week* (`ORCID <https://orcid.org/0000-0002-8332-3408>`_). *Last synced: 2026-10-05 13:42 UTC.*
 .. OPENALEX-SYNC:END
 
 ------
