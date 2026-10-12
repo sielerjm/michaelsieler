@@ -37,7 +37,7 @@ Peer-Reviewed Publications
      - 2024
    * - `"The zebrafish gut microbiome influences benzo[a]pyrene developmental neurobehavioral toxicity" <https://doi.org/10.1038/s41598-024-65610-3>`_ *Scientific Reports* :download:`PDF <../Media/publications/Stagaman2024_NatureSciRep.pdf>`
 
-       - Keaton Stagaman, Alexandra Alexiev, **Michael J. Sieler Jr.**, Austin Hammer, Kristin D. Kasschau, Lisa Truong, Robyn L. Tanguay, Thomas J. Sharpton
+       - Keaton Stagaman, Alexandra Alexiev, **Michael J. Sieler Jr.**, Austin J. Hammer, Kristin D. Kasschau, Lisa Truong, Robyn L. Tanguay, Thomas J. Sharpton
      - 2024
    * - `"Disentangling the link between zebrafish diet, gut microbiome succession, and Mycobacterium chelonae infection" <https://doi.org/10.1186/s42523-023-00254-8>`_ *Animal Microbiome* :download:`PDF <../Media/publications/Sieler2023_AnimMicrobiome.pdf>`
 
@@ -49,7 +49,7 @@ Peer-Reviewed Publications
      - 2022
    * - `"Revealing General Patterns of Microbiomes That Transcend Systems: Potential and Challenges of Deep Transfer Learning" <https://doi.org/10.1128/msystems.01058-21>`_ *mSystems* :download:`PDF <../Media/publications/David2022_mSystems.pdf>`
 
-       - Maude M. David, Christine A. Tataru, Quintin Pope, Lydia J. Baker, Mary K. English, Hannah E. Epstein, Austin Hammer, Michael Kent, **Michael J. Sieler Jr.**, Ryan Mueller, Thomas J. Sharpton, Fiona Tomás, Rebecca L. Vega Thurber, Xiaoli Z. Fern
+       - Maude M. David, Christine A. Tataru, Quintin Pope, Lydia J. Baker, Mary K. English, Hannah E. Epstein, Austin J. Hammer, Michael Kent, **Michael J. Sieler Jr.**, Ryan Mueller, Thomas J. Sharpton, Fiona Tomás, Rebecca L. Vega Thurber, Xiaoli Z. Fern
      - 2022
    * - `"Phylogenetic Integration Reveals the Zebrafish Core Microbiome and Its Sensitivity to Environmental Exposures" <https://doi.org/10.3390/toxics9010010>`_ *Toxics* :download:`PDF <../Media/publications/Sharpton2021_Toxics.pdf>`
 
@@ -68,12 +68,8 @@ Preprints
      - 2026
    * - `"The zebrafish gut microbiome influences benzo[a]pyrene developmental neurotoxicity" <https://doi.org/10.21203/rs.3.rs-3944268/v1>`_ *Research Square*
 
-       - Keaton Stagaman, Alexandra Alexiev, **Michael J. Sieler Jr.**, Austin Hammer, Kristin D. Kasschau, Lisa Truong, Robyn L. Tanguay, Thomas J. Sharpton
+       - Keaton Stagaman, Alexandra Alexiev, **Michael J. Sieler Jr.**, Austin J. Hammer, Kristin D. Kasschau, Lisa Truong, Robyn L. Tanguay, Thomas J. Sharpton
      - 2024
-   * - `"Common laboratory diets differentially influence zebrafish gut microbiome’s successional development and sensitivity to pathogen exposure" <https://doi.org/10.21203/rs.3.rs-2530939/v1>`_ *Research Square*
-
-       - **Michael J. Sieler Jr.**, Colleen E. Al‐Samarrie, Kristin D. Kasschau, Zoltan Varga, Michael L. Kent, Thomas J. Sharpton
-     - 2023
 .. OPENALEX:END
 
 
@@ -297,7 +293,7 @@ Undergraduate Thesis
 ------
 
 .. OPENALEX-SYNC:START
-*Peer-reviewed papers and preprints are synced automatically from* `OpenAlex <https://openalex.org/>`_ *once a week* (`ORCID <https://orcid.org/0000-0002-8332-3408>`_). *Last synced: 2026-10-05 13:42 UTC.*
+*Peer-reviewed papers and preprints are synced automatically from* `OpenAlex <https://openalex.org/>`_ *once a week* (`ORCID <https://orcid.org/0000-0002-8332-3408>`_). *Last synced: 2026-10-12 14:31 UTC.*
 .. OPENALEX-SYNC:END
 
 ------
