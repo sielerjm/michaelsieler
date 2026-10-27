@@ -14,6 +14,11 @@ Who are you?
 
 My name is Michael Sieler. I earned my Ph.D. in Microbiology from Oregon State University in 2025. I am a postdoctoral researcher in the `Liberti Lab <https://genev.unige.ch/research/laboratory/joanito-liberti>`_ in the Department of Genetics and Evolution at the University of Geneva in Switzerland.
 
+.. figure:: Media/images/MichaelGutSimulator.jpg
+   :align: center
+   :alt: Michael with the gut simulator bioreactor system
+   :width: 30%
+
 
 What is your background?
 ------------------------
@@ -29,6 +34,11 @@ What do you do now?
 I am a postdoctoral researcher in the `Liberti Lab <https://genev.unige.ch/research/laboratory/joanito-liberti>`_ in the Department of Genetics and Evolution at the University of Geneva. My work focuses on the social microbiome and gut microbiota–brain axis of eusocial bees, building on my graduate training in multi-omic microbiome data science, longitudinal analysis, and host–microbiome ecology.
 
 I continue to apply computational and statistical approaches to complex biological datasets, collaborate across international teams, and contribute to teaching and mentorship in microbiome analysis.
+
+.. figure:: Media/images/LibertiLab.JPG
+   :align: center
+   :alt: Liberti Lab group photo
+   :width: 30%
 
 
 What do you want to do next?

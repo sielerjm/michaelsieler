@@ -37,6 +37,7 @@ Experimental Schematic Figure Designs
            <div class="swiper-slide"><img src="../_static/schematics/Sieler2023__Schematic.png"></div>
            <div class="swiper-slide"><img src="../_static/schematics/Hammer2024__Schematic.png"></div>
            <div class="swiper-slide"><img src="../_static/schematics/Sieler2025__Schematic.png"></div>
+           <div class="swiper-slide"><img src="../_static/schematics/Sieler2026__Schematic.png"></div>
        </div>
        <div class="swiper-pagination"></div>
        <div class="swiper-button-next"></div>
@@ -49,8 +50,8 @@ Microbiome research experiments can be complicated involving multiple and combin
 Gut Microbiome Centered Framework
 """"""""""""""""""""""""""""""""""
 
-.. image:: ../Media/presentations/OPHA_Poster2024.png
-   :target: ../Media/presentations/OPHA_Poster2024.png
+.. image:: ../Media/presentations/OPHA_Poster2024__web.jpg
+   :target: ../_static/presentations/OPHA_Poster2024.png
    :align: center
    :height: 300px
    :alt: OPHA 80th Annual Conference 2024 Poster

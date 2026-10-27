@@ -20,7 +20,7 @@ Poster
 ------
 
 .. image:: ../../Media/presentations/IUSSI_Poster2026.png
-   :target: ../../Media/presentations/IUSSI_Poster2026.png
+   :target: ../../_images/IUSSI_Poster2026.png
    :align: center
    :width: 90%
    :alt: IUSSI 2026 poster
