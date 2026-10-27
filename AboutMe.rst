@@ -18,6 +18,7 @@ My name is Michael Sieler. I earned my Ph.D. in Microbiology from Oregon State U
    :align: center
    :alt: Michael with the gut simulator bioreactor system
    :width: 30%
+   :class: about-circle
 
 
 What is your background?
@@ -39,6 +40,7 @@ I continue to apply computational and statistical approaches to complex biologic
    :align: center
    :alt: Liberti Lab group photo
    :width: 30%
+   :class: about-circle
 
 
 What do you want to do next?

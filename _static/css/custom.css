@@ -87,6 +87,17 @@ a:active {
     margin: 0 auto;
 }
 
+/* Circular portraits (match About Me headshot) */
+
+img.about-circle,
+.about-circle img {
+    border-radius: 50%;
+    border: 2px solid #000;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    object-position: center;
+}
+
 /* Swiper carousels */
 
 .swiper-slide img {
