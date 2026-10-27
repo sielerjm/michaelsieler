@@ -157,3 +157,6 @@ cython_debug/
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
 ResumeCV/~$chaelSieler_Resume.docx
 ResumeCV/~$chaelSielerResume.docx
+
+# Local-only notes (not published)
+private/

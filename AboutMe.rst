@@ -14,12 +14,6 @@ Who are you?
 
 My name is Michael Sieler. I earned my Ph.D. in Microbiology from Oregon State University in 2025. I am a postdoctoral researcher in the `Liberti Lab <https://genev.unige.ch/research/laboratory/joanito-liberti>`_ in the Department of Genetics and Evolution at the University of Geneva in Switzerland.
 
-.. figure:: Media/images/MichaelGutSimulator.jpg
-   :align: center
-   :alt: Michael with the gut simulator bioreactor system
-   :width: 30%
-   :class: about-circle
-
 
 What is your background?
 ------------------------
@@ -27,6 +21,12 @@ What is your background?
 I received my bachelor's degree in Bioresource Research with options in Bioinformatics and Genomics from Oregon State University.
 
 Throughout my undergraduate studies I conducted research alongside Ph.D. students and post-docs as well as independently. These experiences catalyzed my interest in studying the gut microbiome, and led me to join the `Sharpton Lab <http://lab.sharpton.org>`_ for graduate school, where I completed my dissertation on how environmental stressors shape zebrafish gut microbiome responses.
+
+.. figure:: Media/images/MichaelGutSimulator.jpg
+   :align: center
+   :alt: Michael with the gut simulator bioreactor system
+   :width: 30%
+   :class: about-circle
 
 
 What do you do now?
