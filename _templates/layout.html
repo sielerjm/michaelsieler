@@ -1,0 +1,7 @@
+{% extends "!layout.html" %}
+
+{# sphinx_book_theme does not reliably emit html_meta; inject AI opt-out here #}
+{% block extrahead %}
+  {{ super() }}
+  <meta name="robots" content="noai, noimageai" />
+{% endblock %}
