@@ -20,7 +20,7 @@ What is your background?
 
 I received my bachelor's degree in Bioresource Research with options in Bioinformatics and Genomics from Oregon State University.
 
-Throughout my undergraduate studies I conducted research alongside Ph.D. students and post-docs as well as independently. These experiences catalyzed my interest in studying the gut microbiome, and led me to join the `Sharpton Lab <http://lab.sharpton.org>`_ for graduate school, where I completed my dissertation on how environmental stressors shape zebrafish gut microbiome responses.
+Throughout my undergraduate studies I conducted research alongside Ph.D. students and post-docs as well as independently. These experiences catalyzed my interest in studying the gut microbiome, and led me to join the `Sharpton Lab <http://lab.sharpton.org>`_ for graduate school, where I completed my dissertation on how environmental context shapes zebrafish gut microbiome responses to stressors (e.g., antibiotics, heat stress, parasites).
 
 .. figure:: Media/images/MichaelGutSimulator.jpg
    :align: center
@@ -32,9 +32,7 @@ Throughout my undergraduate studies I conducted research alongside Ph.D. student
 What do you do now?
 -------------------
 
-I am a postdoctoral researcher in the `Liberti Lab <https://genev.unige.ch/research/laboratory/joanito-liberti>`_ in the Department of Genetics and Evolution at the University of Geneva. My work focuses on the social microbiome and gut microbiota–brain axis of eusocial bees, building on my graduate training in multi-omic microbiome data science, longitudinal analysis, and host–microbiome ecology.
-
-I continue to apply computational and statistical approaches to complex biological datasets, collaborate across international teams, and contribute to teaching and mentorship in microbiome analysis.
+I am a postdoctoral researcher in the `Liberti Lab <https://genev.unige.ch/research/laboratory/joanito-liberti>`_ in the Department of Genetics and Evolution at the University of Geneva. My work focuses on the social microbiome and gut microbiota-brain axis of eusocial bees to better understand how gut microbes influence host behavioral maturation.
 
 .. figure:: Media/images/LibertiLab.JPG
    :align: center
@@ -42,17 +40,23 @@ I continue to apply computational and statistical approaches to complex biologic
    :width: 30%
    :class: about-circle
 
+.. figure:: Media/images/BumblebeeQRIce.JPG
+   :align: center
+   :alt: Bumblebee with a tracking tag on crushed ice
+   :width: 30%
+   :class: about-circle
+
 
 What do you want to do next?
 ----------------------------
 
-In my current role I aim to deepen our understanding of how social behavior, development, and ecology shape microbial transmission and host–microbiota interactions in eusocial insects, while expanding my expertise in integrative multi-omic and reproducible data workflows.
+I aim to deepen our understanding of how ecological context, gut microbiome communities and animal host sociality intersect to influence each other across multiple biological scales (e.g., individual and social groups to populations and ecosystems).
 
 
 What is this site for?
 ----------------------
 
-The goal of this site is to provide a central location to share my `research and work experience <Experience/experience.html>`_.
+The goal of this site is to provide a central location to share my `research and work experience <Experience/experience.html>`_ and connect with others interested in collaborating with me.
 
 
 How can I contact you?
