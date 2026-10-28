@@ -40,12 +40,6 @@ I am a postdoctoral researcher in the `Liberti Lab <https://genev.unige.ch/resea
    :width: 30%
    :class: about-circle
 
-.. figure:: Media/images/BumblebeeQRIce.JPG
-   :align: center
-   :alt: Bumblebee with a tracking tag on crushed ice
-   :width: 30%
-   :class: about-circle
-
 
 What do you want to do next?
 ----------------------------
@@ -70,6 +64,11 @@ The best way to reach me is by `email <mailto:Michael.SielerJr@UniGe.ch>`_ .
 - `GitHub <https://github.com/sielerjm>`_
 - `Google Scholar <https://scholar.google.com/citations?user=XqblXigAAAAJ>`_
 
+.. figure:: Media/images/BumblebeeQRIce.JPG
+   :align: center
+   :alt: Bumblebee with a tracking tag on crushed ice
+   :width: 30%
+   :class: about-circle
 
 ------
 
