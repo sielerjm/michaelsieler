@@ -66,10 +66,6 @@ Preprints
 
        - **Michael J. Sieler Jr.**, Connor Leong, Kristin D. Kasschau, Mike L. Kent, Thomas J. Sharpton
      - 2026
-   * - `"The zebrafish gut microbiome influences benzo[a]pyrene developmental neurotoxicity" <https://doi.org/10.21203/rs.3.rs-3944268/v1>`_ *Research Square*
-
-       - Keaton Stagaman, Alexandra Alexiev, **Michael J. Sieler Jr.**, Austin J. Hammer, Kristin D. Kasschau, Lisa Truong, Robyn L. Tanguay, Thomas J. Sharpton
-     - 2024
 .. OPENALEX:END
 
 
@@ -293,7 +289,7 @@ Undergraduate Thesis
 ------
 
 .. OPENALEX-SYNC:START
-*Peer-reviewed papers and preprints are synced automatically from* `OpenAlex <https://openalex.org/>`_ *once a week* (`ORCID <https://orcid.org/0000-0002-8332-3408>`_). *Last synced: 2026-10-12 14:31 UTC.*
+*Peer-reviewed papers and preprints are synced automatically from* `OpenAlex <https://openalex.org/>`_ *once a week* (`ORCID <https://orcid.org/0000-0002-8332-3408>`_). *Last synced: 2026-11-09 15:17 UTC.*
 .. OPENALEX-SYNC:END
 
 ------
