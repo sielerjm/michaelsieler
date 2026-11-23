@@ -66,6 +66,10 @@ Preprints
 
        - **Michael J. Sieler Jr.**, Connor Leong, Kristin D. Kasschau, Mike L. Kent, Thomas J. Sharpton
      - 2026
+   * - `"Host genetics influence parasite infection severity and gut-microbiome response to parasite exposure in zebrafish" <https://doi.org/10.21203/rs.3.rs-10385040/v1>`_ *Research Square*
+
+       - Emilee M. Lance, **Michael J. Sieler Jr.**, Connor Leong, Kristin D. Kasschau, Michael L. Kent, Thomas J. Sharpton
+     - 2026
 .. OPENALEX:END
 
 
@@ -289,7 +293,7 @@ Undergraduate Thesis
 ------
 
 .. OPENALEX-SYNC:START
-*Peer-reviewed papers and preprints are synced automatically from* `OpenAlex <https://openalex.org/>`_ *once a week* (`ORCID <https://orcid.org/0000-0002-8332-3408>`_). *Last synced: 2026-11-09 15:17 UTC.*
+*Peer-reviewed papers and preprints are synced automatically from* `OpenAlex <https://openalex.org/>`_ *once a week* (`ORCID <https://orcid.org/0000-0002-8332-3408>`_). *Last synced: 2026-11-23 17:28 UTC.*
 .. OPENALEX-SYNC:END
 
 ------
